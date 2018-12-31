@@ -2,7 +2,7 @@
 
 **Projets en Data Science**
 
-Voici une liste (non-exhaustive) de projets que j'ai réalisé au cours de ma formation :
+Exemples de projets en machine learning que j'ai réalisé au cours de ma formation :
 
 **Notebook 1 : Régression_linéaire_prédiction_de_loyer.ipynb**
 
