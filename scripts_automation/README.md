@@ -1,13 +1,6 @@
 # Scripts automation
 
-**Scripts**
-
-
-**Script 1 : xxxx.ipynb**
-
-Création de spreadsheets automatisés à partir de Google Sheets API
-
-
-**Scraper 2 : xxxx.ipynb**
-
-Création de PPT de manière automatisée à partir d'un fichier xls ou csv
+Ensemble de scripts permettant d'automatiser des process tels que :
+- La documentation de base de données d'une application
+- La production et le suivi de rapports statistiques automatisés (spreadsheets, PPT...)
+- La création d'un système d'alerting via chatbot (slackbot)
