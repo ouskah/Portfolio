@@ -1,10 +1,10 @@
-# Data_science_ml_projets
+# Data Science Projects
 
 **Projets en Data Science**
 
 Voici une liste (non-exhaustive) de projets que j'ai réalisé au cours de ma formation :
 
-**Projet 1 : Régression_linéaire_prédiction_de_loyer.ipynb**
+**Notebook 1 : Régression_linéaire_prédiction_de_loyer.ipynb**
 
 Il s'agit ici de l'application d'une régression linéaire (avec intégration d'une validation croisée) concernant un dataset répertoriant la surface, le prix, et l'arrondissement d'appartements parisiens.
 
@@ -17,11 +17,17 @@ Néanmoins une version de ce dataset reste disponible au lien suivant, (elle n'i
 (https://openclassrooms.com/courses/initiez-vous-au-machine-learning/tp-decomposez-l-apprentissage-d-une-regression-lineaire)
 
 
-**Projet 2 : Classification_feuilles_k-NN_SVM.ipynb**
+**Notebook 2 : Classification_feuilles_k-NN_SVM.ipynb**
 
 
 Comparaison de deux modèles d'algorithmes (k-NN et SVM linéaire multiclasse) pour un problème de classification de feuilles d'arbres selon différentes caractéristiques (espèces, dimensions...).
 
 Le dataset est issu de Kaggle (https://www.kaggle.com/c/leaf-classification/data)
+
+
+**Notebook 3 : Script_automation_cleaning_&_training_models.ipynb**
+
+
+Exemple de script permettant d'automatiser le cleaning et l'apprentissage de plusieurs modèles d'algorithmes
 
 
