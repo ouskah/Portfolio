@@ -1,0 +1,1526 @@
+id,user,date,timestamp,commentText,likes,hasReplies,numberOfReplies,replies.id,replies.user,replies.date,replies.timestamp,replies.commentText,replies.likes
+Ugzw90v-85066wdX7VZ4AaABAg,ManuAlvarado22,1 day ago,1527758163013,"I barely understand what i am doing, but i tried SVC and GaussianNB apart from the decision tree, and the GaussianNB model is definitely the one that conviced me the most.
+
+For example, it says that someone is a man (in my case an alien) even though in the dataset its label was female (human in my case). And i think this is pretty cool.
+
+But, one thing that calls my attention is that shoe size seems to be pretty determinant here, and i do not quite like it. I guess it is because of the x's data.
+
+Really cool. Thank you so much for this video!",0,false,0,,,,,,
+UgzTvWZ28Eb3NPtFCVV4AaABAg,Sacramento Pérez,6 days ago,1527326163025,"Hello Siraj, I would like to ask you something. To get a job, do you think professional experience and projects on Github are more valuable to employers than academic degrees? What do you think?",0,false,0,,,,,,
+UgxuYMq1-oHFveMLGkx4AaABAg,Amit Agarwal,1 week ago,1527239763039,Fuck data science. Fuck my family. And fuck google.,0,false,0,,,,,,
+UgxZjjUbeQT-xtu4YhN4AaABAg,Luis Ramirez,1 week ago,1527239763049,Need help. I can’t install the scikit (windows). I've already installed PIP on the cmd but I don’t know how to install this,0,false,0,,,,,,
+UgwiGkxZB0pSHaeC9kR4AaABAg,Vignesh Kannan,1 week ago,1527239763058,"Hey, just a quick question, is there a problem if we use packages like anaconda?",0,false,0,,,,,,
+UgwtZ37YVhxA7LpE-xF4AaABAg,Pikesh Patel,1 week ago,1527239763066,You are amazing.,0,false,0,,,,,,
+Ugwh2vlXAeT_dpb304h4AaABAg,Axion,1 week ago,1527239763074,"Lol who's that guy  in the small pic at 3:20?
+Love the vid by the way",0,false,0,,,,,,
+UgxXlbmBsoN397kHjNx4AaABAg,Android Reaper,2 weeks ago,1526634963081,"Hey, how's it going,
+Thanks been watching your videos, recently have time started this by following your 3 months course for ML,
+Thanks, have been a great help, as for the 3 models here's the link,
+https://github.com/vision72/Identify-Gender",0,false,0,,,,,,
+Ugy-uM2vMMrRRIZcmcV4AaABAg,Ruicheng Xu,2 weeks ago,1526634963088,"I think some dependencies changed, if you want to get it to work today you need to pip install numpy and scipy.",0,false,0,,,,,,
+Ugzn60rnMLXbFVQMObB4AaABAg,Govind Mantri,2 weeks ago,1526634963095,"I think output is wrong , value which you pass for prediction is Female not  male",0,false,0,,,,,,
+UgyYBn2VCaJ4fl2NBSd4AaABAg,Eli Gibbons,2 weeks ago,1526634963101,"I'm really confused with getting the sublime script to run from the terminal and installing dependencies. Whenever I type python in the terminal it says ""'python' is not recognized as an internal or external command, operable program or batch file.""
+Idk if this has something to with windows, wrong version of python or me just being an idiot, but I have no clue what to do!",0,false,0,,,,,,
+UgwWHWNZguYFqLRoqOx4AaABAg,Punit Sharma,2 weeks ago,1526634963108,Can i learn python but in only know about java (core),0,false,0,,,,,,
+UgyNp65e4z-I6WiWlQh4AaABAg,Lorenz Web,2 weeks ago,1526634963114,"#[height,weight,shoe size]
+X = [[181,80,44], [177,70,43], [160,60,38], [154,54,37], [166,65,40], [190,90,47], [175,64,39], [177,70,40], [159,68,38], [171,75,42], [181,85,43]]
+
+# THIS IS ANOTHER VARIABLE THAT WILL STORE A LIST OF LABELS, they are written as strings - meaning text instead of numbers
+Y = ['male', 'female', 'female', 'female', 'male', 'male', 'male', 'female', 'male', 'female', 'male',]",0,false,0,,,,,,
+UgxO5DMdT8WR9RghFjV4AaABAg,Technology Specialists,3 weeks ago,1526030163122,"Good & Engaging Tutorial but Siraj you forget to install scipy as well
+using 
+pip install scipy
+But still good Tutorial!",1,false,0,,,,,,
+UgxI3uHYEeVxyARjnlJ4AaABAg,Seyit İlktürk,3 weeks ago,1526030163131,"I love you, Siraj Raval!",0,false,0,,,,,,
+UgxTrD030IijQAQlPsB4AaABAg,Learn To Master,3 weeks ago,1526030163136,"Nice tutorial, Siraj. Had to adjust the commands in install dependencies / setting up the environment for latest version of Python: pip3 install -U pip
+ pip3 install -U scikit-learn 
+ and new ones:
+ pip3 install numpy
+pip3 install scipy 
+and to run:
+ python3 demo.py
+
+Tree: Male; K Nearest Neighbour: Female; Logistic Regression: Female",0,false,0,,,,,,
+UgxFNSnJtMO7tqikEBh4AaABAg,franean,4 weeks ago,1525425363143,"Hello, I have tried the code but every time I get a different prediction result. I keep getting 'male' and 'female' alternatively. Why is it so?",0,false,0,,,,,,
+Ugy1n6DNklqU1bFRqy94AaABAg,William Caisido,1 month ago,1525166163156,Just tried this exactly as you wrote it and it gave me 'female'  -_-,0,true,1,,,,,,
+,,,,,,,,Ugy1n6DNklqU1bFRqy94AaABAg.8fiNOq_lLWr8gpmK4OlsCv,Chinmay Swami,2 days ago,1527671763563,Run it multiple times. I got Male for first few runs then I got female for next and again male. It might be the case that the model is not robust as the data set used to train is quite small,0
+UgzZoUMtfkPrxYxeuzZ4AaABAg,ravi tanwar,1 month ago,1525166163172,dependency not installing ?>.,0,false,0,,,,,,
+UgyYdQYUNKfexLiNwjV4AaABAg,Ayushi Jain,1 month ago,1525166163180,"I tried in total 6 classifiers, wherein I modified the code in such a way that it prints out all the classifiers that have got the maximum accuracy and not just one ( unlike argmax functionality) 
+Github link : https://github.com/Ayushijain09/Gender_Classification_Challenge.git",0,false,0,,,,,,
+Ugxq5gbtRin79yKFVWh4AaABAg,sudhindra srinivas,1 month ago,1525166165048,This energy in his videos is amazing!,0,false,0,,,,,,
+Ugw8xEhCn-wjZaJJPcB4AaABAg,Riteekesh Dutta,1 month ago,1525166165056,"Hey, can i use jupyter notebooks for scripting python?",0,false,0,,,,,,
+UgzgIBJxHdPGwFncPEx4AaABAg,Pablo Antonio,1 month ago,1525166165106,"I used the Gaussian, MLP and SVC and I got Male Female interchanged. For this case i think the linear SVC is best. Just my opinion
+
+from sklearn import tree
+from sklearn.neural_network import MLPClassifier
+from sklearn.svm import SVC
+from sklearn.naive_bayes import GaussianNB
+
+clf1 = tree.DecisionTreeClassifier()
+clf2 = SVC(kernel=""linear"", C=0.025)
+clf3 = MLPClassifier(alpha=1)
+clf4 = GaussianNB()
+
+
+# CHALLENGE - create 3 more classifiers...
+# 1
+# 2
+# 3
+
+# [height, weight, shoe_size]
+X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40],
+     [190, 90, 47], [175, 64, 39],
+     [177, 70, 40], [159, 55, 37], [171, 75, 42], [181, 85, 43]]
+
+Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female',
+     'female', 'male', 'male']
+
+clf1 = clf1.fit(X, Y)
+clf2 = clf2.fit(X,Y)
+clf3 = clf3.fit(X,Y)
+clf4 = clf4.fit(X,Y)
+
+score = clf1.score(X,Y)
+
+print(score)
+
+predict1 = clf1.predict([[180, 120, 39]])
+predict2 = clf1.predict([[180, 120, 45]])
+predict3 = clf3.predict([[190, 120, 54]])
+predict4= clf4.predict([[190, 120, 54]])
+
+print(predict1)
+print(predict2)
+print(predict3)
+print(predict4)",0,false,0,,,,,,
+UgyMwylAEErqwP98eal4AaABAg,Curious Coder,1 month ago,1525166165115,"Hey everyone!  For anyone who was silly enough to try this with absolutely no prior computer programming experience (aka: me) and ran into pip errors and sklearn module not found errors, I wrote a step by step guide to take you through installation of EVERYTHING you need so you can follow Siraj from 4:12 in the video and on.  Unfortunately it's only for Mac users.
+
+If you're having these errors, please check out my guide:
+http://codeforcurious.com/2018/04/26/zero-to-hero-how-to-install-python-and-run-your-first-script-in-command-line-mac-os-x/",0,false,0,,,,,,
+Ugxxevxy8gnIJ3blOXx4AaABAg,Samyak Jhaveri,1 month ago,1525166165118,"@SirajRaval, please help me with integrating the Sublime Text Editor with Python 3.6.5 Windows 64-bit.
+I save the python code in the text editor but am unable to open the Python file using Command Prompt",0,false,0,,,,,,
+UgxDHgu4t5eHF9bmnkV4AaABAg,Andreja Grujic,1 month ago,1525166165127,What about vim and YouCompleteMe?,0,false,0,,,,,,
+Ugw_UAtH95rY_w3KLL14AaABAg,Saisree GR,1 month ago,1525166165131,Please do help.Ok am an absolute beginner.I get output as female for tree model and male for svm model and logistic regression(for same data in the video)What is the mistake?,0,true,1,,,,,,
+,,,,,,,,Ugw_UAtH95rY_w3KLL14AaABAg.8fSU-SEaAYy8gpoU14HLVS,Chinmay Swami,2 days ago,1527671765949,Run it multiple times you will get male as well.,0
+UgybLeFjt2Aia7djkhF4AaABAg,supertacticalbacon,1 month ago,1525166165143,I need what he's having!,0,false,0,,,,,,
+Ugx1iKtLkUOoCrU7TE14AaABAg,JavaScript Evangelist,1 month ago,1525166165152,pip command is not working for me. But pip3 is available,0,false,0,,,,,,
+UgzBkDJ16hJ27Sx0tnl4AaABAg,Keith Collins,1 month ago,1525166165163,Just one observation.  Use PyCharm!!!,0,false,0,,,,,,
+Ugy9i9K-MJA-JI8wYOR4AaABAg,etearl,1 month ago,1525166165173,I need help. I downloaded python 3.6  and sublime text 3 but I cant run the code that I made in sublime text on python.,0,false,0,,,,,,
+UgyA2Wfv2jnSpLJWNN14AaABAg,MKXLII,1 month ago,1525166165180,"I am getting this error trying to install Scikit Learn: 
+
+    Collecting scikit-learn Could not fetch URL https://pypi.python.org/simple/scikit-learn/: There was a problem confirming the ssl certificate: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590) - skipping
+
+    Could not find a version that satisfies the requirement scikit-learn (from versions: ) No matching distribution found for scikit-learn
+
+Anyone help me figure this out? I cannot install scikit leearn becasue of this.",0,false,0,,,,,,
+UgzOcVqlWXcQbbqCcGl4AaABAg,Ceelvain,1 month ago,1525166165198,And vim? What about vim?,0,false,0,,,,,,
+UgzkKuGFAIicsHke0fR4AaABAg,Trieu Anh Nguyen,1 month ago,1525166165209,legend :D,0,false,0,,,,,,
+UgwzqXGziygLajTxc7V4AaABAg,Jalees Hassan,1 month ago,1525166165221,i wish all the teachers in my college were as cool and smart as you,0,false,0,,,,,,
+UgwkON0CRTbEcqTKwcp4AaABAg,Of Knights And Bishops,1 month ago,1525166165232,wow i think i should learn python then i come here,0,false,0,,,,,,
+UgytzyAXIu3-917bYlZ4AaABAg,Abdalla Omar,1 month ago,1525166165244,Wonderful,0,false,0,,,,,,
+UgyQLbzIbBiJnQnXq_l4AaABAg,tyler francis a,1 month ago,1525166165253,all these libraries are defuncted no?,0,false,0,,,,,,
+UgyyJNVUaAJR2gUf5cp4AaABAg,Renuka Pabbi,1 month ago,1525166165258,You are hilarious.. Yet full of knowledge,0,false,0,,,,,,
+UgygweQVWX16U9o6wPt4AaABAg,sid,1 month ago,1525166165268,Ur overacting is distraction !!,0,false,0,,,,,,
+Ugy_WaDo4X1xHBp3d194AaABAg,Suharsh Tyagi,1 month ago,1525166167023,Please do a video on transferring previously built keras models to the newly released tensorflow.js environment. Thank you,0,false,0,,,,,,
+UgwqrANu1-Vh6if2OwR4AaABAg,Maitrayan Ghosh Roy,1 month ago,1525166167027,Sir pls make Playlist on making AI for Binary Option,0,false,0,,,,,,
+UgyYaYl_WmFnE-XRSsZ4AaABAg,Ailton Mendes Duarte,1 month ago,1525166167036,And atom?,0,false,0,,,,,,
+Ugx61V5phmdx_UeWjDp4AaABAg,ElLuben,1 month ago,1525166167040,Thanks! I Love your vid,0,false,0,,,,,,
+Ugy-ga_KbsaeErP7f2B4AaABAg,Miscritz Brotherzz,1 month ago,1525166167049,lol that pokemon op,0,false,0,,,,,,
+UgzFUOe37tnlOkX-cmN4AaABAg,Peter Gruntz,1 month ago,1525166167052,Well. Python 2. I wanted to use python3 and boom. python2 works neither. you need numpy (seems like i should install that first.),0,false,0,,,,,,
+UgzCYE74J7JJeaQT4RF4AaABAg,丘杰,1 month ago,1525166167061,"god, I love you so much!",0,false,0,,,,,,
+UgwapGVHYaOM5Tbv8K14AaABAg,1998 mulan szechuan sauce is the meaning of life,2 months ago,1522574167070,i just got a sci boner,0,false,0,,,,,,
+UgzqwYqCHJRpgBm7pBR4AaABAg,zxmnbzmnxcbnmzx,2 months ago,1522574167073,probably the best narrator. thank you so much. I hope your other videos are like this one too. the fast beginning fascinated me.,0,false,0,,,,,,
+Ugx1PVXz0HsvWdBjiXZ4AaABAg,IRVING NAVARRO,2 months ago,1522574167082,the  best master ever !,0,false,0,,,,,,
+UgxXhr8Lv9P7BpXrOTZ4AaABAg,Hari Krishna Reddy,2 months ago,1522574167089,"hi siraj
+I am trying to learn from the kaggle quora question pairs challenge answers
+facing some difficulty,
+can you kindly make a video on siamese network solutions",0,false,0,,,,,,
+UgzR1khUfG2kDtoSBW94AaABAg,Hari Krishna Reddy,2 months ago,1522574167130,"hi siraj
+I am trying to learn from the kaggle quora question pairs challenge answers
+facing some difficulty,
+can you kindly make a video on siamese network solutions",0,false,0,,,,,,
+UgxqLdZrmKf4uKntJxV4AaABAg,Hari Krishna Reddy,2 months ago,1522574167138,"hi siraj
+I am trying to learn from the kaggle quora question pairs challenge answers
+facing some difficulty,
+can you kindly make a video on siamese network solutions",0,false,0,,,,,,
+Ugx-p0SxjWDPQEipy_d4AaABAg,Fruit F*cker,2 months ago,1522574167143,03:00 I laughed a little too hard for this. Subscribed because of this.,0,false,0,,,,,,
+UgxV2NOP90Azu67dj9l4AaABAg,Niraj Das,2 months ago,1522574167152,I tried to write the same code in pycharm but could't run it. I did install the dependencies but I could't run it? shall I ditch pycharm or I can do it in pycharm as well?,0,false,0,,,,,,
+Ugz8HWPJJAA4BWJLEah4AaABAg,Nick Bowman,2 months ago,1522574167163,https://github.com/murflaw7424/Learn-Python-for-Data-Science/blob/%231/%231,0,false,0,,,,,,
+UgxPzi1KgzhkrGrpc-94AaABAg,Sergey Kojoian,2 months ago,1522574167173,"""yo, wtf"" made my day :)) Can't tell you how many times I have had the same reaction working in Windows",0,false,0,,,,,,
+UgyyGmrega4yE3nE7Ut4AaABAg,Mohamed Linux,2 months ago,1522574167177,"really good channel & explaining , keep-up .",0,false,0,,,,,,
+UgwSkUMqOtUl70VwRWF4AaABAg,sha big,2 months ago,1522574167184,address: https://github.com/norwoood/pyhw/blob/master/gender_classifier.py,0,false,0,,,,,,
+UgxzuEzfZWXLCeVWFOJ4AaABAg,yazan al khatib,2 months ago,1522574167193,"If anyone is facing a problem with libraries Python 3, Windows10 64bit try using Anaconda https://scipy.org/install.html",0,false,0,,,,,,
+Ugz46I1RXgiSZWja84V4AaABAg,Coolhomenow -,2 months ago,1522574168313,"The content is very valuable, but the teaching style is terrible. Could you go even faster, like 5x faster (good will sarcasm)",0,false,0,,,,,,
+Ugz-hJoU3hscJeu_TSB4AaABAg,Sebastian Shammer,2 months ago,1522574168321,"On windows, I highly recommend downloading winpython. It's big, but it's good. A lot of preinstalled packages, many of which are very important for datascience (numpy, pandas, ...) and environments are included too.",0,false,0,,,,,,
+Ugz6eoOaG0XJWwv-Ne94AaABAg,nitish awasthi,2 months ago,1522574168326,https://youtu.be/FPvgc9aFJpI,0,false,0,,,,,,
+UgwQvLs-GFuv31InIpN4AaABAg,oldwer,2 months ago,1522574168333,"Hey Siraj, I taking your syllabus on learning ML in 3 months and I'm currently at week 5 
+Here is my code for the challenge: https://github.com/JCombe/ML-Gender-Classification
+
+the classifiers KNeigbors and Gaussian naive bayes where the most accurate ones in my test.",0,false,0,,,,,,
+UgyvShI71m-4qdR4peB4AaABAg,Shubham Ranjan,2 months ago,1522574168340,"hi, is it possible to write a decision tree ?",0,false,0,,,,,,
+UgzjDt6GQRCJidtRtnl4AaABAg,JanTube,2 months ago,1522574168345,"I did everything you showed. It seems like the tutorial is outdated. There are missing several parentheses like in print (prediction). Also, it tells me ModuleNotFoundError: No module named ""numpy"". Seems like I have to install that, too. Then it asks for: No module named ""scipy"". After installing that, everything seems to work! Also you could have said that Sublime Text costs about 70 USD ""for continued use"". That is a lot of money for a text editor to learn the basics. Thanks for the rest!",0,true,1,,,,,,
+,,,,,,,,UgzjDt6GQRCJidtRtnl4AaABAg.8djd096cm5A8grO9RwUGIK,srikarkashyap,2 days ago,1527671769024,"Sublime keeps ""demanding"" $70 for continued use but never expires! (just like WinRAR)",0
+Ugx2KVP9eF7A_JY6sCt4AaABAg,Ravi Rajput,2 months ago,1522574168355,"Nice one; this will also add some info
+https://youtu.be/q2czpYm81dY",0,false,0,,,,,,
+UgzVLP9wlSqrg1zbFF94AaABAg,Machine Learning,2 months ago,1522574168363,BEST SIR !!!! thank you it helped me a lot,0,false,0,,,,,,
+Ugw35s8hT8ppF5GL92F4AaABAg,Tough Nut,2 months ago,1522574168368,"Great, I might be late to the party...but guess what?  eat, sleep, code and party!",0,false,0,,,,,,
+Ugw2Oy1TzwnSGwIdg794AaABAg,Kamisis,2 months ago,1522574168374,I got lost at connecting Sublime with Python... yay.,0,true,2,,,,,,
+,,,,,,,,Ugw2Oy1TzwnSGwIdg794AaABAg.8d_xvgvTgP68deIcfpSZ4B,Siraj Raval,2 months ago,1522574169091,haha. keep going!,1
+,,,,,,,,Ugw2Oy1TzwnSGwIdg794AaABAg.8d_xvgvTgP68dfPVinm2Q-,Kamisis,2 months ago,1522574169097,Siraj Raval Both macbook today. Attempt number 2 tomorrow 😂,0
+UgwQ12ZNJIt98LPl7gx4AaABAg,Luana Fragoso,2 months ago,1522574168380,Does anyone know which resource he is using to plot the decision tree at 4:35?,0,false,0,,,,,,
+UgwDZn9OHc0mL27DG0N4AaABAg,Farooq Muhammad,2 months ago,1522574168386,Can any body advise the same example with fuzzy classifier.,0,false,0,,,,,,
+UgwZD5LnQK9uH9v_6L54AaABAg,VISION,2 months ago,1522574168390,"that ""yo wtf"" @ 2:20 had me fucking weak.",0,false,0,,,,,,
+Ugzone95PtBUXtTfO594AaABAg,Swen remake,2 months ago,1522574168397,for some window user i need to install  numpy & scipy,0,false,0,,,,,,
+UgyspeLtUgczwflUeFV4AaABAg,Arshad Pooloo,2 months ago,1522574168401,Thank you for sharing all those resources. Its been very helpful so far. Keep sharing,0,false,0,,,,,,
+Ugx450Ky3jsv3Tnv-wJ4AaABAg,raj,2 months ago,1522574168409,how to do this with anaconda navigator?,0,false,0,,,,,,
+UgwBTeiQKoyunScNCHl4AaABAg,Javier Florian,3 months ago,1519895768414,Just loved it! I will become one!!,0,false,0,,,,,,
+UgzDZMLApbpNn_Ra_8h4AaABAg,kapil sharma,3 months ago,1519895768421,"hey siraj, i am new t programming, can i do python for datascience course . please suggest what should be the best way to achieve this goal. i really like your style.please help",0,false,0,,,,,,
+Ugz1pkH1MvNfyNA59al4AaABAg,TheOne AndOnly,3 months ago,1519895768427,Fucking shit faggot your fucking memes fucking distract me god fucking damn it. 10/10 would learn python for data science again though.,0,false,0,,,,,,
+UgxfE0ABTAdnNoTkJQR4AaABAg,VINAYAK RASTOGI,3 months ago,1519895768434,.,0,false,0,,,,,,
+UgzA3ZyEu2qAf88eakl4AaABAg,Diego Stefanon,3 months ago,1519895773121,"Python most used and a lot of libraries 
+But...
+F# rocks  !!
+F# + ironpython... pure power",0,false,0,,,,,,
+Ugx4wg4OFMhV7LkvzJJ4AaABAg,Aryan Hegde,3 months ago,1519895773131,Thug life bob the builder cracked me up,0,false,0,,,,,,
+UgzPBM_2IpjEDsVde7V4AaABAg,CrazyCoders,3 months ago,1519895773141,You're too fast... don't get a time to understand...,0,false,0,,,,,,
+UgzPpozPIII-n6nXusB4AaABAg,Vikas Choubey,3 months ago,1519895773151,"Decision tree, naive bayes(gaussian), nearest neighbors(centroid) and SVM all gave Male",0,false,0,,,,,,
+Ugxa2Ij8nDVTyl-yFU54AaABAg,Hans Sendelbach,3 months ago,1519895773155,"On OSX I was prompted to install numpy after my first attempt to run ""$ python demo.py"". ""Scikit-learn and its dependencies are all available as wheel packages for OSX."" see http://scikit-learn.org/stable/developers/advanced_installation.html
+
+$ pip install -U numpy scipy scikit-learn # This fixed the problem. Thanks Siraj. YOU ARE AWESOME!!!! : )",0,false,0,,,,,,
+UgzZwnrWT01AdYhsVc14AaABAg,AMAN CHANDRA,3 months ago,1519895773163,how to install scikit .please help,0,true,1,,,,,,
+,,,,,,,,UgzZwnrWT01AdYhsVc14AaABAg.8d-l_hZ2vcy8d3_SzVH7kM,David holl,3 months ago,1519895773660,type pip install -U scikit-learn,0
+UgzlEZSRF1JYnnTlrGB4AaABAg,P Pratip Rao,3 months ago,1519895773173,"Thank you so much for this wonderful video. You are doing a great job , I get strong motivation from your YouTube channel, it's easy to understand and your presentation skills are excellent and learning python programming even though I do not have a engineering degree. God bless you brother.",0,false,0,,,,,,
+UgyrD1kSIDJwEo_NI054AaABAg,André Ferreira,3 months ago,1519895773178,"My code is on GitHub >> https://github.com/aferreira44/pyhton-for-data-science/blob/master/scikit-learn.py
+
+I tried Support Vector Classification (SVC and LinearSVC methods), Gaussian Naive Bayes and KNeighbor Classifier, beyond the DecisionTreeClassifier method of the tutorial and here are the outputs prediction:
+
+DecisionTreeClassifier and LinearSVC: Sometimes the predict is ['male'], other times is ['female']
+SVC: ['male']
+GaussianNB: ['male']
+KNeighborsClassifier: ['male']
+
+I don't know which is better, but I think the DecisionTreeClassifier and LinearSVC aren't the most assertive methods.",0,false,0,,,,,,
+UgyDqQZS1VjkVE7wCLh4AaABAg,Swapnil Borse,3 months ago,1519895773187,You are one cool data science mentor in the world of nerdy ones! :P,0,false,0,,,,,,
+UgzF7Q6zt5kna7CUNxF4AaABAg,Hai Wang,3 months ago,1519895773192,wrong. all science is knowledge. therefore AI and knowledge mapping and conceptual frameworks and logic,0,false,0,,,,,,
+UgzUf1KJ8wYTaXJ4s1F4AaABAg,Bradley Post,3 months ago,1519895773199,"If you guys have problems with the scikit-learn installation, use ""python -m pip install --user scikit-learn"" on your terminal on OS X.",0,false,0,,,,,,
+UgzmOLmeZI6Dd-YiHCd4AaABAg,Yuri Radavchuk,3 months ago,1519895773206,"You're awesome, Siraj. But I can tell that you're not a Windows guy. FYN, Sublime Text is far from being easy to setup, when you try to add libraries to it. It can be close to hell with days of trying to figure out how to make that library work. 
+
+F it. I'm using cloud IDE.",0,false,0,,,,,,
+UgxhYurGOm6AvJdtOxN4AaABAg,Yesha krishna,3 months ago,1519895773209,Can I use atom text editor instead of sublime text?,0,false,0,,,,,,
+UgyaSHWZjQV6qC9istV4AaABAg,Prophet goho,3 months ago,1519895773215,k im just starting with this one but how do i compare their results and get the best one(probably i'll use cross validation) and how do i train it on other data and what can i add as other classifiers?,0,false,0,,,,,,
+UgxDGplo-MtTMXi-sZJ4AaABAg,Tessa from retail,3 months ago,1519895773220,I am stuck on the pip installation. It says command not found??,0,false,0,,,,,,
+UgymiuQyo3m-GL5Gh7B4AaABAg,Anirudh Korukonda,3 months ago,1519895773227,Sublime text won't save my file. I'm using a Mac. Help.,0,false,0,,,,,,
+UgzfmreYasHPj1TdUBB4AaABAg,Maggie Costello,3 months ago,1519895773233,I keep getting error in syntax...,0,false,0,,,,,,
+Ugz8CpIsxzRJWyWsG654AaABAg,dkwroot,3 months ago,1519895773239,"I've been trying to get Graphviz to work so that I can export my decision tree to a graphic, but I can't get it to work at all. I went to the graphviz website and downloaded and installed the binary on Windows. I then used the command shell ""pip install graphviz"". When I import graphviz, it seems to import fine. The problem is that when I try to draw to a graph, I get a traceback error that tells me FileNotFound. Does anyone know how to fix this?",0,false,0,,,,,,
+UgzaPFpcibO7C134FTR4AaABAg,Bose s,3 months ago,1519895773244,"Hi Siraj , this is a great vedio. But can you please guide a road map , how to get into Data science and then into ML. I am from construction filed, and am very basic  (Plus confused with so many different  people suggesting different juices). Please help .",0,false,0,,,,,,
+UgwqNt6BhVo1dy-uD_V4AaABAg,Nobleノーブル,3 months ago,1519895773249,2:20 I just couldn't stop laughing. BUT come on! You have to admit windows is better because of performance and compatibility! MAC can't run Crysis!,0,false,0,,,,,,
+UgxkwuUERpoYCUAcg-B4AaABAg,m ir,4 months ago,1517476574901,thank you Siraj! What about emacs? ;),0,false,0,,,,,,
+UgxbBdDq5I3TUdmBknB4AaABAg,Memunat Ibrahim,4 months ago,1517476574909,This is awesome!,0,false,0,,,,,,
+UgydTJN67BNd5AayI994AaABAg,Elektra Kypridemou,4 months ago,1517476574913,"For any of you experiencing problems with scikit-learn package (see Mick's comment):
+
+The reason is that scikit-learn requires some other packages to be pre-installed. Namely, the requirements for scikit-learn version 0.19.1 are the following: 
+* Python (>= 2.7 or >= 3.3), 
+* NumPy (>= 1.8.2), 
+* SciPy (>= 0.13.3). 
+
+To fix this issue try to use 
+          pip install -U scikit-learn[alldeps] 
+instead of 
+         pip install -U scikit-learn 
+This way you install all the prerequisites along with the scikit-learn package, so you overcome any issues coming from missing packages [if any]. 
+
+Regarding Mick's solution:
+Anaconda also fixes the problem because it comes with some pre-installed packages, including the ones needed by scikit-learn. However, when the required packages are installed, Anaconda itself is not necessary to fix the issue. You can check the Anaconda package lists here: https://docs.anaconda.com/anaconda/packages/pkg-docs",0,true,1,,,,,,
+,,,,,,,,UgydTJN67BNd5AayI994AaABAg.8by9KYhoLH48dOejX1lIIm,4Dm8ion,2 months ago,1522574175431,Thanks - pip install -U scikit-learn[alldeps]    fixed it !,0
+Ugx9V1bp-zMqJgDmBPF4AaABAg,Junior Ferreira,4 months ago,1517476574922,tanks..,0,false,0,,,,,,
+UgyUc_TeHLU-JtXiEYJ4AaABAg,Himanshu Gupta,4 months ago,1517476574932,K Nearest Neighbour's result 'male' remained constant unlike Decision Tree and MLP classifiers where result kept fluctuating.,0,false,0,,,,,,
+UgyetZzHuyC6xD772WF4AaABAg,Алексей Котов,4 months ago,1517476574937,SIRAJ PLEASE BE MORE LIKE BILL WURTZ DENSER DENSER COMPACT,0,false,0,,,,,,
+UgxKcwgVUa1oSzbDnGB4AaABAg,_ _,4 months ago,1517476574944,Thanks ABCD par excellence !! Well done,0,false,0,,,,,,
+Ugx14T8HEHQdallIcD94AaABAg,CatFish 233,4 months ago,1517476574949,"hey! if i type in my cmd the name of the file it says ""error file not found"". can you help me with what could have went wrong? i´ve exactly typed the name of the file but it just won´t open... Help!",0,false,0,,,,,,
+UgwWG0XeyN5jaDdo1KJ4AaABAg,marvin evins,5 months ago,1514798174959,"what about emacs???
+classic!!",1,false,0,,,,,,
+UgykerqzyKHefg9dax14AaABAg,Rudyon,5 months ago,1514798174967,Today I learned that Python excuse my lenguage but it FUCKING sucks! it makes me want to DIE!,0,false,0,,,,,,
+UgzRJNF-mq87WUDjcxB4AaABAg,KeeganismeltingHALP!,5 months ago,1514798174971,I followed through but I don't understand what was supposed to happen or what to do with it I'm very new to this just started today and have no prior experience with programming...,0,false,0,,,,,,
+UgzRnnBVv95FB-9vRMJ4AaABAg,Sharjeel Tahir,5 months ago,1514798174979,"stupid indian, overdoing american fake happy, overconfident personality",0,false,0,,,,,,
+Ugytqmthd34nwy4xaBN4AaABAg,Younis Mohammed,5 months ago,1514798174988,2:20,0,false,0,,,,,,
+UgyVuCMkb5C9rZPPJA54AaABAg,Ankit Daimary,5 months ago,1514798174992,"I am getting an Error while installing Scikit-Learn 
+OSError: [Errno 13] Permission denied: '/Library/Python/2.7/site-packages/scikit_learn-0.19.1.dist-info' 
+please can anybody help me out",0,false,0,,,,,,
+UgyLMKr5tJx3Ytm17mJ4AaABAg,RazorflasK,5 months ago,1514798175005,"I have  just discovered this channel and omfg, i have been sleepin!! Great work dude!",0,false,0,,,,,,
+UgwFcNwQo4Zoq861nZ94AaABAg,Jacob Conner,5 months ago,1514798175017,"I get this error when I try to run the program after writing it. I have also just copied and pasted the base program from git hub but it still does not work. 
+C:\Users\Jacob>python demo1.py
+Traceback (most recent call last):
+  File ""demo1.py"", line 1, in <module>
+    from sklearn import tree
+  File ""C:\Users\Jacob\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\__init__.py"", line 134, in <module>
+    from .base import clone
+  File ""C:\Users\Jacob\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\base.py"", line 10, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'",0,false,0,,,,,,
+UgyQqp078hAnwaIDjsp4AaABAg,Jikininki,5 months ago,1514798175027,"might sound stupid but I'm a noob, should I add the coding challenges to my github even when the challenge is over a year old?",0,false,0,,,,,,
+UgzPxsIr9PEowjFvpBt4AaABAg,Philippogz,5 months ago,1514798175037,You da man!,0,false,0,,,,,,
+Ugwp01DZytYau0e6eUV4AaABAg,Bartosz Tomiak,5 months ago,1514798175041,2:20 <3,0,false,0,,,,,,
+Ugy8h4UW34cB2w3108V4AaABAg,Neha,5 months ago,1514798175050,I find your video very energetic and engaging. Thank you! I have a question DO you have a video with more detail on how to install the packages on my mac? I am just getting started but I keep getting error No package found sometimes no modules found.,0,false,0,,,,,,
+UgweU9qfCP5ObWpad3p4AaABAg,Unknown Signal,5 months ago,1514798176780,don't mess with harambee,0,false,0,,,,,,
+UgywEvkifvJMKYdOyvt4AaABAg,Anay Awasthi,5 months ago,1514798176785,"But what about vim??
+Please don’t punch me man I’m a fan XD
+Sorry I had to make this joke",0,false,0,,,,,,
+UgwOQznKawoyoMkb5pp4AaABAg,ASHLEIGH MORRISON,5 months ago,1514798176794,"Finally i have been able to retrieve all my lost funds of about $180k, which i never believed i would get again from an unregulated broker who stocked my trading capital for over 3 months now, and denied my access to my trading account. I am so glad that i have gotten back all my funds back without stress, All thanks to my neighbor who introduced me to a certified binary option recovery expert. Do you have funds that you wish to withdraw from your account, is your broker manager asking you to make more deposit before you can place a withdrawal, are you confused and you do not know how to go about it ? kindly contact Mr Stefan Williams at sw60916@gmail.com and he will guide you on steps to take and get all your lost funds back in just few days.",0,false,0,,,,,,
+UgywRhNSf5SwC5WDPRF4AaABAg,Ramandeep Singh,5 months ago,1514798176802,Does he really type that much fast? /s,0,false,0,,,,,,
+Ugwy957n4kyCh2ePqLl4AaABAg,Nightfury,5 months ago,1514798176807,On what basis will you compare the predictions from 3 different classifiers ?,0,false,0,,,,,,
+Ugxj0lvo5K_3sQ3EqQ14AaABAg,Souman Paul,5 months ago,1514798176815,2:20 windows f**,0,false,0,,,,,,
+UgxtL6_KCIF-1OZiQPd4AaABAg,Armaan Gupta,5 months ago,1514798176823,"brown power
+brown power",1,false,0,,,,,,
+Ugy--UyaYeCYVrhoTkN4AaABAg,Rawia Sammout,6 months ago,1512119776828,"Traceback (most recent call last):
+  File ""C:\Users\HP\Desktop\gender_classification_challenge-master\demo.py"", line 1, in <module>
+    from sklearn import tree
+ModuleNotFoundError: No module named 'sklearn'
+but i have the package any help
+ C:\Users\HP>pip install -U scikit-learn
+Requirement already up-to-date: scikit-learn in c:\users\hp\anaconda2\lib\site-packages",0,false,0,,,,,,
+Ugz8Sp2pkgeWQa4wAWp4AaABAg,Devansh Trivedi,6 months ago,1512119776837,Use http://scikit-learn.org/stable/tutorial/machine_learning_map/,0,false,0,,,,,,
+UgwcKGlTh7luZgCeB7B4AaABAg,Navneet Sharma,6 months ago,1512119776844,I AM PUMPED !!,0,false,0,,,,,,
+UgwsBR3TVeEB9jxeFGl4AaABAg,accountname0,6 months ago,1512119776851,I had to run this in Anaconda Spyder to avoid dealing with the dependencies in Windows.,0,false,0,,,,,,
+Ugw7gMe9LYalEfxUAXB4AaABAg,Jonathan Hammond,6 months ago,1512119776856,"Great video, my first one! Will take this one in moderation because I am new to computers (Data Scientist wannabe, began Python in May) but I was able to continuously pause and go back and slightly tweaked your X variable because I thought maybe there should be brackets around some numbers you didn't bracket, and add another one at the end as well.
+
+If I did the first portion correctly (from from sklearn to print(prediction), my Anaconda version of Python printed the output of  ['female']. 
+
+I only checked this video out because a new friend in coding recommended I check you out, and I will definitely check out more videos soon. Even though in SOME ways it's too advanced for me, I have definitely been told and now more often to not get caught up in the boring syntax that you should learn in the beginning. Sometimes it's fun to just skip right to a mission like this, to keep yourself entertained, before returning to the foundations and continuing building a solid structure.
+
+Probably not the best advice, but my current research (what are the benefits of sys and argv?) made me pass out earlier lol. Found this video before I found those answers, so g2g before I can return to my Learn Python the Hard Way exercises!
+
+Happy Thanksgiving",0,false,0,,,,,,
+UgzHXQj6WvUvqDzfc_14AaABAg,Aditya Prakash,6 months ago,1512119776863,Great video Siraj. I just wanted your opinion on which python version is better for data science and machine learning beginners?,0,false,0,,,,,,
+UgwwZygF8lsumgL_Kx54AaABAg,Scott Davis,6 months ago,1512119776869,Siraj... YOU SUCK AT SUCKING BECAUSE THIS WAS TOTALLY AWWWESOME!!! Thanks man!!,0,false,0,,,,,,
+Ugz73-RBvxifq62lTfJ4AaABAg,Joshua Elenowitz,6 months ago,1512119776876,"After doing everything in the video, after putting ""python demo.py"" into terminal i get the response ""can't open file 'demo.py': [Errno 2] No such file or directory"".  What should I do?",1,true,1,,,,,,
+,,,,,,,,Ugz73-RBvxifq62lTfJ4AaABAg.8_1gAzrzfiY8d3_ItvY8kp,David holl,3 months ago,1519895777238,"Prior to running python, type cd in the commmand line, and it will tell you the directory you are currently in. When python runs, it can only access files in this directory. the demo.py file needs to be in this directory, so you can move from its existing location to this folder as you would move any other file in Windows or you can change directories and run python in the directory",0
+UgxHOfIJF8Zx6bf2Uix4AaABAg,Jonathan Martinez,6 months ago,1512119776886,Siraj! You're the best man! Thanks for all this great content! Watching from Mexico!,0,false,0,,,,,,
+UgxhYM_WRvjGQd-c8uN4AaABAg,Creamapod Games,6 months ago,1512119776891,Sweet I can bet who will win the super bowl with this,0,false,0,,,,,,
+Ugx3Uj4d9gUnLvEnVhV4AaABAg,Creamapod Games,6 months ago,1512119776898,If you don't understand anything this guy says then look up the commands in the docs so you can get a better explaination,0,false,0,,,,,,
+UgxBC0yUKGdE4ikH4Xd4AaABAg,Fast Solution,6 months ago,1512119776902,Anyone plzz tell me how much methamatics skills are required to become a datascience expert???,0,false,0,,,,,,
+Ugwqs22FGc0nrX7eLuV4AaABAg,Valley Web Media,6 months ago,1512119776910,Love your teaching style. Thank you.,0,false,0,,,,,,
+Ugw0ckmNkkXTeFyc6D94AaABAg,Gaillard Stephane,6 months ago,1512119778696,"hello, i just do the procedure and start in cmd > python demo.py
+Traceback (most recent call last):
+  File ""demo.py"", line 1, in <module>
+    from sklearn import tree
+  File ""C:\Users\stephane\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\__init__.py"", line 134, in <module>
+    from .base import clone
+  File ""C:\Users\stephane\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\base.py"", line 11, in <module>
+    from scipy import sparse
+ModuleNotFoundError: No module named 'scipy'
+
+????????????????????????????????? what is that meaning ??????????????????????????????",0,false,0,,,,,,
+Ugxe6p2GSHshvH7p06h4AaABAg,Jo La,6 months ago,1512119778702,You're really cute. Makes my heart melt.,0,true,1,,,,,,
+,,,,,,,,Ugxe6p2GSHshvH7p06h4AaABAg.8Zj8A_7jJr98Zk-d5ej-Mi,Siraj Raval,6 months ago,1512119779344,+Jo La thank u lol I bet u r too,0
+UgzggTl2KOiC_lWnUBF4AaABAg,Andrew Li,6 months ago,1512119778713,"4:03 
+
+pip install -U scikit-learn
+vs 
+python -m pip install -U scikit-learn",0,false,0,,,,,,
+Ugx5SLcktcvoHzg0m2N4AaABAg,yubaraj bista,6 months ago,1512119778723,Not really helpful at all.,0,false,0,,,,,,
+UgwJCl_JJPdEEkgK9UR4AaABAg,John Smith,6 months ago,1512119778729,Ubliudkas bl,0,false,0,,,,,,
+UgzHPfXPjuMmL433qqN4AaABAg,Latrocinium086,7 months ago,1509527778736,Is this an undergrad project or organization or...?,0,false,0,,,,,,
+Ugw7DuFzaLeW7lO4NuN4AaABAg,Brian Daniel,7 months ago,1509527778746,How on earth do you install dependencies,0,false,0,,,,,,
+UgyS0ZgkSxH__nE9k4Z4AaABAg,Ethan9750,7 months ago,1509527778754,"Am stuck at 3:58, python CLI says invalid syntax when I type in the exact same thing. (Running a windows environment)",0,true,1,,,,,,
+,,,,,,,,UgyS0ZgkSxH__nE9k4Z4AaABAg.8ZO2uJsQ9nr8aZDvFKIdvU,Zaheeda Tshankie,5 months ago,1514798179650,"Ethan9750 you're supposed to type it in your computers ""command promt"" not python",0
+UgwOWTXCO-gpMubbuYp4AaABAg,SbotTV,7 months ago,1509527778759,"I mean, less lines doesn't always mean 'more readable'.  C++ for the win!",0,false,0,,,,,,
+UgyRM2qA45YCjIw_4Yl4AaABAg,That_one_guy,7 months ago,1509527778767,"Help! 
+
+Traceback (most recent call last):
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\core\__init__.py"", line 16, in <module>
+    from . import multiarray
+ImportError: DLL load failed: The specified procedure could not be found.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:/Users/owner/Desktop/Advanced Stuff/Machine Learning.py"", line 2, in <module>
+    from sklearn import tree
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\sklearn\__init__.py"", line 134, in <module>
+    from .base import clone
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py"", line 9, in <module>
+    import numpy as np
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\__init__.py"", line 142, in <module>
+    from . import add_newdocs
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\add_newdocs.py"", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\lib\__init__.py"", line 8, in <module>
+    from .type_check import *
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\lib\type_check.py"", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File ""C:\Users\owner\AppData\Roaming\Python\Python36\site-packages\numpy\core\__init__.py"", line 26, in <module>
+    raise ImportError(msg)
+ImportError: 
+Importing the multiarray numpy extension module failed.  Most
+likely you are trying to import a failed build of numpy.
+If you're working with a numpy git repo, try `git clean -xdf` (removes all
+files not under version control).  Otherwise reinstall numpy.
+
+Original error was: DLL load failed: The specified procedure could not be found.",0,false,0,,,,,,
+UgwrKXh77TTxFxEZjm94AaABAg,Mav Hunter,7 months ago,1509527778776,Comparing Python to C++ is like comparing a pencil to a jackhammer. They're used for totally different things.,1,true,1,,,,,,
+,,,,,,,,UgwrKXh77TTxFxEZjm94AaABAg.8ZHU8K1qhvy8ZILWcxdhpv,Siraj Raval,7 months ago,1509527779329,often yes,0
+UgybwgixpXR20TGDHu14AaABAg,WCHSKeenan,7 months ago,1509527778783,This is probably the only guy who I will ever put on the 0.75x speed setting xD,0,false,0,,,,,,
+UgzwmrrL_epIErJVc314AaABAg,aSuspiciousPete,7 months ago,1509527778791,It’s all fun but I can’t stop staring at his hair. It’s like dude... whyyyyyy???,0,false,0,,,,,,
+UgwLoXI3InnXwbRLfWF4AaABAg,Khushi Malik,7 months ago,1509527778801,"You're doing that ""Learning is fun"" kinda teaching. You're great, man.",0,false,0,,,,,,
+UgxsFBeyiorCufJ_F_B4AaABAg,Data Science Learner,7 months ago,1509527778808,https://www.youtube.com/watch?v=yz0L69b4ung,0,false,0,,,,,,
+UgxuOpXA4uIeuwuRIsJ4AaABAg,Brendan C.,7 months ago,1509527778815,If you have windows 10 - and you need scipy: pip install scipy-1.0.0rc2-cp36-none-win32.whl -- Download ~win32.whl from https://pypi.python.org/pypi/scipy,0,false,0,,,,,,
+Ugyouj9kCWuPkm-xkWd4AaABAg,Chandrabhatta Sriram,7 months ago,1509527778824,"It is not a course. It is just a showoff of how good his Data Science skills are. 
+
+Seriously, do you really think this is the best way to learn something? 
+Idiot.",0,false,0,,,,,,
+UgxYNT3h9AMTacxPX8V4AaABAg,linagee,7 months ago,1509527778828,What about vim?,0,false,0,,,,,,
+Ugz9KYthbdfC_F9cF2p4AaABAg,Shubhasish Gupta,7 months ago,1509527778837,I have installed python but when i type command for installing scikit it is showing invalid syntax.Please help me out,0,true,1,,,,,,
+,,,,,,,,Ugz9KYthbdfC_F9cF2p4AaABAg.8YlwSqF78nF8aZDrDGuuHw,Zaheeda Tshankie,5 months ago,1514798179308,"Shubhasish Gupta you're supposed to type it in your computers ""command promt"" not python",0
+UgzaiDCWvxbwbt8sSZh4AaABAg,Hammad Zahid,7 months ago,1509527778848,can i share your videos or use as reference to my one notes to students?,0,false,0,,,,,,
+Ugyn-1oTDdKNHocn1054AaABAg,Fernando Sanchez Villanueva,7 months ago,1509527780454,XD,0,false,0,,,,,,
+UgyPk0Vn4QAyUJ2lzHl4AaABAg,Dave Huber,7 months ago,1509527780460,"So good!! I don't know how to code and even though I didn't understand parts of it, having the whole thing shown so quickly actually really helped me get a stronger foundational understanding. And your humor was so well done! Cheers!",0,false,0,,,,,,
+UgwM8M5O9wSeRF_AJLN4AaABAg,J P,7 months ago,1509527780469,This dude is legit,0,false,0,,,,,,
+UgxA8GHPzwEQuLEIrLp4AaABAg,Ahmed Abdul Salam,7 months ago,1509527780476,"Came here today after 1 year.. exact date... #legit
+
+Bless me :P",0,false,0,,,,,,
+UgwoUl6OUBpAqISZZIl4AaABAg,picious,7 months ago,1509527780487,anything wrong with Emacs?,0,false,0,,,,,,
+UgyH-gzRgjEcr7a8vht4AaABAg,Dark Energy,7 months ago,1509527780496,"why are u so motivating, man
+i really want to learn it now",0,false,0,,,,,,
+UgzjPkoSl0ogE96z9Sd4AaABAg,SinkOrSwim,7 months ago,1509527780501,Slow down turbo.,0,false,0,,,,,,
+UgxemjGPTbQpjfHn6UV4AaABAg,Debanjan Dey,7 months ago,1509527780510,"Good explanation, and illustrations (but got afraid at some)... I practised the same in my IPython system but the output is different ('Female' instead of 'Male')...",0,false,0,,,,,,
+UgwDPEGXLCbV6RV3p8x4AaABAg,Rajnish Nalwade,8 months ago,1506849380513,Visit here for simple deep learning projects: https://rootxda.wordpress.com/home/deep-learning-tutorials/,0,false,0,,,,,,
+Ugwfcocl3z99YTeoMWh4AaABAg,Kinos141,8 months ago,1506849380522,Editor: VS code. It's a beast at times. It has excellent python support and even supports more obscure languages like groovy.,0,false,0,,,,,,
+Ugz0KHbJOs_yxW-IRQ14AaABAg,suraj bora,8 months ago,1506849380566,You convinced me to try this. Thank you,0,false,0,,,,,,
+UgzK0ME4VDFfqA3wK6d4AaABAg,Yuri Steinberg,8 months ago,1506849380569,"Having errors at ""from sklearn import tree""? 
+
+Install Anaconda. Not an expert but its some kind of python packet manager https://docs.anaconda.com/anaconda/install/windows
+
+Then instead of using a command prompt look if you can find an ""anaconda prompt"". open it, it looks very similar to a regular command prompt. then instead of pip install xyz do conda install xyz if you need to. but it looks like anaconda has most of the stuff needed for this tutorial installed already.
+
+i dont use sublime, I used jupyter notebooks. i ran it from the ""anaconda prompt"" and it then allowed me to do ""from sklearn import tree"" successfully",0,false,0,,,,,,
+UgxJsOjILy0bK8yjNpB4AaABAg,William Plaud,8 months ago,1506849380578,"Okay, I did everything said and it can't find demo.py exactly as you did. What went wrong?",0,false,0,,,,,,
+Ugzc3cK9PzsIdx6NFdN4AaABAg,William Plaud,8 months ago,1506849380588,This guy is awesome!,0,false,0,,,,,,
+Ugy_tC4GOyXlC7214NR4AaABAg,Suvigya Mishra,8 months ago,1506849380591,"python .\mygf.py
+import girlfriend_creator
+from behaviour_tree import persona
+
+gf = girlfriend_creator.create()
+for she_is in persona:
+     if she_is == ""angel"":
+           gf.marry_her( )
+     elif she_is == ""bitch"":
+           gf.make_her_hot(index=69)
+     else:
+            gf.kill( )",1,false,0,,,,,,
+UgwfeerMJjQLSpzejgZ4AaABAg,iLovethatguy,8 months ago,1506849380600,i ended up trying pip install -U numpy scipy scikit-learn as well as other commands produced command not recognized in terminal & sublime. i assume i have no dependencies ?,0,false,0,,,,,,
+UgxkUfUVtdNw1sHwXq94AaABAg,Burris Tech Show,8 months ago,1506849380603,"lol your intros crack me up, good stuff man, glad i found your channel",0,false,0,,,,,,
+UgzodTWfPQ-43oUehrR4AaABAg,Yashraj basan,8 months ago,1506849380612,hey siraj i really like your but i have just one question why we can't use node js for machine learning,0,false,0,,,,,,
+Ugx_i-0mJHXfZCcjbkF4AaABAg,Sebastian George,8 months ago,1506849380622,Really nice but it would have been nice if it was a little slower,1,false,0,,,,,,
+UgzCa2fmgz3dywxD4bN4AaABAg,Casey,8 months ago,1506849380626,what happens if you enter Michelle Obama's data?,0,false,0,,,,,,
+UgxP0I0ke-1c5r_K9px4AaABAg,Sriram Kumar,8 months ago,1506849384591,"kind random guy : ""what about emacs?""
+siraj: punches him in the face
+me: TRIGGERED!!!",0,false,0,,,,,,
+UgxWny1ppr-HNQI5feB4AaABAg,Dalibor Dajbija,8 months ago,1506849384596,Fast spoks,0,false,0,,,,,,
+UgzlBgeQeiCbZ42K6kt4AaABAg,Raf4le,8 months ago,1506849384602,Nice vid ! Although you need to slow down,0,false,0,,,,,,
+UgwjkPRV410LRCmR_pp4AaABAg,Nostromo87,8 months ago,1506849384607,definition of over-excitement,0,false,0,,,,,,
+Ugymc9ReHpTTAZf_LiJ4AaABAg,M R,8 months ago,1506849384613,duddeeee amazing style and video . you know your shit!!!,0,false,0,,,,,,
+UgxPHyOQGKTORY1jhO14AaABAg,Joe JG,8 months ago,1506849384624,slowwww dowwwwnnnnn,0,false,0,,,,,,
+UgzA6Hp1roLPEgQ31pN4AaABAg,Azda Firmansyah,8 months ago,1506849384638,"Hi Siraj,
+
+Below my submission
+https://github.com/azdafirmansyah/MaleOrFemaleShoes
+
+Nice tutorial",0,false,0,,,,,,
+UgzxsUhEtsHvCQJXpTh4AaABAg,Sheshit Karthikeya,8 months ago,1506849384650,Hi Siraj.....you are doing great work....here is my submission https://github.com/sheshit/male-or-female.git,0,false,0,,,,,,
+UgweUkuF3ehksWirUCp4AaABAg,Jose Lopez,8 months ago,1506849384657,"I used the DecisionTreeClassifer, the KNeighborsClassifier, and QuadraticDiscriminantAnalysis, and I got female, male, female. I'm not really sure which one's best because I don't know which one's right. You got male, is that the right answer?",6,true,6,,,,,,
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08YbvqDX31Tl,Mageshkumar Ulaganathan,7 months ago,1509527785598,I got female too in DecisionTreeClassifier.. used exact same code as in the tut..,1
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08Ytpp6DDBP-,Bel Rick,7 months ago,1509527785604,"Odd, i used your three models and all three got me a male. Basically to predict a female you need to to use [190,70,37] where the third variable in the array is low. The other two variables seem to have little impact",3
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08YuVv4l181v,Jose Lopez,7 months ago,1509527785609,"huh, okay. I'll try it again with lower values for the third variable and see what happens, thanks for the reply",1
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08Yv22vLFSYo,Bel Rick,7 months ago,1509527785615,Us developers have to stick together!,2
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08_ZGrBxRUWO,Devansh Trivedi,6 months ago,1512119785621,"use http://scikit-learn.org/stable/tutorial/machine_learning_map/
+
+I used svm, neighbors, ensemble
+got male in all of them!",1
+,,,,,,,,UgweUkuF3ehksWirUCp4AaABAg.8XA7hLMkUD08fPClxm0SLN,Alexander Daly,1 month ago,1525166185627,great resource. <3,0
+UgwwtFJbAqaCMZXVaGZ4AaABAg,Aditya Mohan,8 months ago,1506849384667,"Hello sir, thank you for these videos! Although late, but still,here is the link:-    https://github.com/7avenged/siraj-pythonMLintro",1,false,0,,,,,,
+UgySkagob6HQUOjIq454AaABAg,Star Motry,8 months ago,1506849384674,So funny.👍🏿👍🏿,0,false,0,,,,,,
+UgwW3aL5oVV6KLX0CEZ4AaABAg,shehan abeyrathne,8 months ago,1506849384679,"Hey!!
+can anyone help me to solve this problem. When i'm trying to execute the python code. i didn't get the result as male. i got this error... Why is that.??
+
+error:
+Traceback (most recent call last):
+  File ""a.py"", line 2, in <module>
+    from sklearn import tree
+  File ""C:\Users\Shehan\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\__init__.py"", line 134, in <module>
+    from .base import clone
+  File ""C:\Users\Shehan\AppData\Local\Programs\Python\Python36-32\lib\site-packages\sklearn\base.py"", line 9, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'",0,true,1,,,,,,
+,,,,,,,,UgwW3aL5oVV6KLX0CEZ4AaABAg.8X4VOHSQTxq8YbvwrPL5vS,Mageshkumar Ulaganathan,7 months ago,1509527785212,You have to install numpy and scipy before installing scikit-learn..,0
+UgzauLaGTAfPKGUHcGB4AaABAg,ThePedroPimenta,8 months ago,1506849384690,fudido,0,false,0,,,,,,
+UgyKazRtbwZMUmfQqHF4AaABAg,Airton Santana,9 months ago,1504257384695,subtiltes portuquese please!,0,false,0,,,,,,
+UgyklI6r75KXETXNef94AaABAg,E. B.,9 months ago,1504257384702,"You might be a specialist but you should ask yourself: for whom are your videos? For other experts or for people who would like to learn your methods? If for newbies, you should learn at first about how to teach others properly. You are teaching too fast and for that reason it is pretty hard to follow your explanations, especially in your following videos. What a pity...",1,false,0,,,,,,
+UgwMSYZkOAoQ22VimPV4AaABAg,eduugr,9 months ago,1504257384772,Thank you man... great value on your videos.,0,false,0,,,,,,
+Ugw4IuhL5rs7azhXGNp4AaABAg,Rishav Sahay,9 months ago,1504257384782,Github link for the challenge code: https://github.com/rishavinvincible/Siraj-Raval-/blob/master/Gender%20Classification.ipynb,0,false,0,,,,,,
+UgwwR6n0C58qMTzc7w54AaABAg,Calvin L. Stevens,9 months ago,1504257384785,"damn you got me with that ""who shot harambe""",1,false,0,,,,,,
+UgxXiN2FtSs0-l5fTfp4AaABAg,Edo Insanic,9 months ago,1504257384794,"just discovered Siraj. Love his style. Enjoy every aspect of his lecture videos: info, oversimplifications, comedy bits, rapping...keep up the great work Siraj...",0,false,0,,,,,,
+UgxR7dG8_yG1IcEKn_14AaABAg,Madhav Khosla,9 months ago,1504257384799,"Now I that I do know python I've realised siraj is a fucking wizard he's great 
+!!!",0,false,0,,,,,,
+Ugxvg_dKoIjRGpfdSHx4AaABAg,Camy Monique,9 months ago,1504257386653,You are beautiful,0,true,2,,,,,,
+,,,,,,,,Ugxvg_dKoIjRGpfdSHx4AaABAg.8WBVysxRKWJ8WFdHv4Whxo,Siraj Raval,9 months ago,1504257387342,thank u!,1
+,,,,,,,,Ugxvg_dKoIjRGpfdSHx4AaABAg.8WBVysxRKWJ8WFdU-uScIX,Camy Monique,9 months ago,1504257387350,Siraj Raval you're welcome ❤️😩 I'm subscribed now too,0
+Ugy02pJfFAHHiUjESsp4AaABAg,Nishanth Gowda,9 months ago,1504257386665,Who's this Indian lad talking tech! Boring.,0,false,0,,,,,,
+UgzSoiZd56PWd-PnO854AaABAg,J Jansen,9 months ago,1504257386677,"Thank you Siraj, you are getting me started on Data analysis. Like your speed of presentation.",0,false,0,,,,,,
+UgxnHaGFnDlSrZLkTgJ4AaABAg,Nisha Raj V Menon,9 months ago,1504257386685,wow wow ...slow down mister!!,0,false,0,,,,,,
+UgwgGmUjTGVh3Uq9RId4AaABAg,Robert C,9 months ago,1504257386692,Thanks so much Siraj - love your videos!! massively inspiring,0,false,0,,,,,,
+Ugw1SN9NvJ6_VJ5LXEd4AaABAg,Megha Sudheer,9 months ago,1504257386701,Please explain slowly.....,0,false,0,,,,,,
+Ugy8644OqurWSU6OGAx4AaABAg,Happy Man xD,9 months ago,1504257386712,Portuguese pls,0,false,0,,,,,,
+UgxHHLw2rCvR63JXfBR4AaABAg,Smakosh,9 months ago,1504257386721,"I used the perceptron neural net in my case to classify gender :D 
+
+here's the repo : https://github.com/smakosh/gender_classifier",0,false,0,,,,,,
+UgzUJOyVLafmDf1mEYh4AaABAg,Victor Grom,9 months ago,1504257386726,"2:19 xDDDDD yep, that's me",0,false,0,,,,,,
+UgjRxI_cszsbFXgCoAEC,Aj Lanot,10 months ago,1501578986734,Damn sir you are too good at this. Good job,0,false,0,,,,,,
+UggoJGzUK3Wm_3gCoAEC,Ansh Varun,10 months ago,1501578986744,wish you could a little bit slower,0,false,0,,,,,,
+UghF0B9XjYtBtngCoAEC,Anil S,10 months ago,1501578986755,"You're really a great person, thanks for these videos",0,false,0,,,,,,
+UghXWsVXdgGfrngCoAEC,Ashutosh Tiwari,10 months ago,1501578986759,Lost my shit at 0:48,0,false,0,,,,,,
+UghmZ0CPoY62lngCoAEC,Sam Houghton,10 months ago,1501578986768,PROBLEM At 3:13 how do I 'compile it with terminal by pointing our Python interpreter to our script ' ?,0,false,0,,,,,,
+Ugip93NJTJm6zXgCoAEC,Melantis Obtrusis,10 months ago,1501578986777,Why not emacs?,0,false,0,,,,,,
+UgijUg0OA3aqRHgCoAEC,Rony Lussari,10 months ago,1501578986783,"Siraj, you are the best data science teacher that I ever saw. Thank you very much and keep the great work!",0,false,0,,,,,,
+Ugg4yhFOYrjHoHgCoAEC,Amanda Mata,10 months ago,1501578986792,Siraj you are awesome,0,true,1,,,,,,
+,,,,,,,,Ugg4yhFOYrjHoHgCoAEC.8VIRldRxl298VMRImVVLnl,Siraj Raval,10 months ago,1501578987327,thanks Amanda!,1
+UggPOOuSJXem1ngCoAEC,Vin Adikehithilu,10 months ago,1501578986805,"Nice Video, very enlightening but making us do some work on our part...just the way I like it. I don't if it was me, but the 4th list in your X-list didn't have brackets.....",0,false,0,,,,,,
+UghBGZ-mvfUC0XgCoAEC,Dara Meybodi,10 months ago,1501578986814,He forgot the closing brackets for X,0,false,0,,,,,,
+Ughh2Xk7kIl39XgCoAEC,Aayush Tayal,10 months ago,1501578986819,"Great video man. but when I run my code, it shows an error ""too many indices for array"". Any solution for this ?",0,false,0,,,,,,
+UggKJhFHme7NtngCoAEC,Izumi Koushiro,10 months ago,1501578988928,0:47 Siraj has got the moves xD,0,false,0,,,,,,
+Ugj_fcwlP-fML3gCoAEC,G.Sudhakar Rao,10 months ago,1501578988938,https://github.com/gsudhakarajay/DataScience-Learner/blob/master/DecsionTree/DecisionTree.py,0,false,0,,,,,,
+UghWr_zu7WwKAngCoAEC,Márcio Feitosa,10 months ago,1501578988945,Dude... you rock...,0,false,0,,,,,,
+Ugj7hafQA4x783gCoAEC,Lasse Bøg,10 months ago,1501578988952,"wow, okay.. as a beginner you might wanna slow the tempo down.. im using pycharm, and nothing from sklearn lib dosnt seem to be working",0,false,0,,,,,,
+UgjbHj3HT4imingCoAEC,Humera Mhyn,10 months ago,1501578988960,can you talk a bit slowly? my brain cant absorb so much so fast,0,false,0,,,,,,
+UghYaN18uqLYKXgCoAEC,san&nasTechie,10 months ago,1501578988969,Till Now i am using python to automate my day to day activities. I surely look into the data science area. :),0,false,0,,,,,,
+UgiDvmKuYXA6m3gCoAEC,deepak chowdary,10 months ago,1501578988974,Kernel- SVM with gaussian kernel is the bestest classifier,0,false,0,,,,,,
+UggSFkbtv5j9kHgCoAEC,ARPIT SINGH,10 months ago,1501578988984,"thks sir   u r    good
+ur video are very usefull",0,false,0,,,,,,
+Ughm580lp0XtzXgCoAEC,Rohit Sharma,10 months ago,1501578988987,"hey Siraj, do you really reply on the users comments?  may be I am your new fan.",0,false,0,,,,,,
+UghTpAIoI48oTngCoAEC,Hussain Web,10 months ago,1501578988996,"i am learning data science along with learning python. i have this error when run demo.py on windows
+ImportError: No module named scipy",0,false,0,,,,,,
+UgikCHSN5LBqDXgCoAEC,Ashok Anand,10 months ago,1501578989007,Hey Siraj. I know too late. Just started the course. This is my submission: https://github.com/rashokanand/MaleFemale-classifier.git,0,false,0,,,,,,
+UghdLOI_lp0sDXgCoAEC,Kartik Kapoor,10 months ago,1501578989057,"Hey Siraj
+I just needed help as I'm unable to link cmu_sphinx4 with Python. I've downloaded and unzipped the file from SourceForge but don't know how to proceed. Kindly Help",0,false,0,,,,,,
+UggG-q3RdpqV0XgCoAEC,Peter Callister,10 months ago,1501578989064,"Atom is freeware and arguably better than Sublime, by the way: https://atom.io/",0,false,0,,,,,,
+UgguulJtvdh6w3gCoAEC,Roberto Fernandez Andersson,10 months ago,1501578989073,"Hey man! 
+
+I'm not sure how to install the dependencies? It gives me a syntax error :/ ?",0,false,0,,,,,,
+Ugg5XW3wRdf3FHgCoAEC,Saivijay Rayavarapu,10 months ago,1501578989079,"Great video tutorials. 
+Thanks, Man :)",0,false,0,,,,,,
+Ugg1b7fCW3AFvHgCoAEC,Moshfiqur Rahman,10 months ago,1501578989088,"It's 1:30am here. And I am laughing out loud alone to the ""What about emacs?"" skit :D",0,true,1,,,,,,
+,,,,,,,,Ugg1b7fCW3AFvHgCoAEC.8UgphV9k9Og8XEBPSAZlEV,Rick Bishop,8 months ago,1506849389507,"I was laughing at the ""So beautiful"" piano skit :o)",0
+UgiOCUDUIm5M2HgCoAEC,Arpit Parmar,10 months ago,1501578989101,At 4:53 the X[3] list does not have the opening [ (square bracket) but rest your videos are awesome but fast! Nice Job Siraj :-),0,false,0,,,,,,
+UggbfmxMSrgD33gCoAEC,Anders Axelsen,10 months ago,1501578989104,"Whoa! I learned heaps, installing all of those libraries. Using 
+settings, [""RandomForestClassifier: clf.fit"", ""MLPClassifier: clf.fit"", 
+""SVC: clf.fit""], I got the same result in all three, ['female']. Great 
+vid! Looking forward to learn more.",0,false,0,,,,,,
+Ugiuh9SOW3JRkXgCoAEC,PRIYA MISHRA,10 months ago,1501578989112,abe bhuggg chutiya,0,false,0,,,,,,
+UgjffzPWa0NPengCoAEC,PythonPro,10 months ago,1501578989119,"Ótimo conteúdo, que tal da um pulinho no meu canal e ajudar no crescimento do mesmo. Simplesmente sobre Python, Abraços. Chega mais!",0,false,0,,,,,,
+Uggq2kAqN82t4ngCoAEC,tjellsworth1,10 months ago,1501578990932,So I couldn't figure out how to download the scikit-learn module on my 3.6 version of python. I decided to try it on my 2.7 version. I ended up having to install pip first and then the scikit learn module but then it told me that I needed scipy. So I installed scipy by using a wheel file. Then it told me that I needed numpy. So I installed numpy by using a wheel file. It told me I already had a version of numpy 1.9.1 which it tried to unistall I think but it apparently failed. I think that version of numpy was included when I installed vPython. Now I still can't use sklearn and my vPython is giving me errors. Any help?,0,true,3,,,,,,
+,,,,,,,,Uggq2kAqN82t4ngCoAEC.8UX-uSoZcyD8Ub6JGP0rcg,Gera Sanz,10 months ago,1501578992333,"sure, you have problems with 2 iterations of python running in your computer, i think 3.* installs numpy by default thats why you have troubles. 
+
+- First make sure you only have 1 python instance running (i recommend py 3.6) so uninstall 2.5. 
+
+-Now download these wheel files numpy+mkl and scipy. you can find them both in 
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy  
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+make sure to download the version according to your system x32 or x64. 
+
+-After download, open CMD or command prompt, set the route to the folder or the location of the 2 files (they can be in the desktop) and last, install first, numpy as follows: 
+
+pip install ""and the whole name of the file, including the .whl extension"" 
+
+should look something like this: 
+
+pip install numpy-1.13.0+mkl-cp36-cp36m-win_amd64.whl (this should also delete some older instance of numpy if installed) 
+
+now proceed to install scipy the same way you did with numpy, 
+pip install ""scipy-0.19.1-cp36-cp36m-win_amd64.whl"" (or the name of the version you downloaded)
+
+and thats it
+
+if something isn't clear just tell me and ill try to explain myself the best i can, as English is not my main Language",0
+,,,,,,,,Uggq2kAqN82t4ngCoAEC.8UX-uSoZcyD8UbpdwFDlX-,tjellsworth1,10 months ago,1501578992340,Wow thank you for the help. This is the same process I went through to add the modules to 2.7. I think I will uninstall my 2.7 version then see if my 3.6 version has the modules. If not I will go through your process and see if that fixes it. This may take me a week or so to do. What about scikit-learn. Should I do that last? I think it is dependent on both numpy and scipy.,0
+,,,,,,,,Uggq2kAqN82t4ngCoAEC.8UX-uSoZcyD8Uo31EhXaEp,tjellsworth1,10 months ago,1501578992347,I ended up uninstalling everything and downloading Anaconda. It was recommended from an online course I am also taking. I have been able to use SKLearn with it. I still need to figure out pyserial and vPython which I was using on 2.7 though. Thank you for your help.,0
+UgiderTsdY_NG3gCoAEC,Rohan Bhasin,10 months ago,1501578990939,fit() missing 1 required positional argument: 'y',0,false,0,,,,,,
+Ughea7weBDEW3ngCoAEC,Paritosh Mehta,11 months ago,1498900590945,I like you!,0,false,0,,,,,,
+UggwP8aCqp_e3ngCoAEC,Deepak Kumar Pradhan,11 months ago,1498900590954,Can you teach us how to decompile any software and application ?,0,false,0,,,,,,
+UghNFHDuilb5R3gCoAEC,CLUDDY GRINNY,11 months ago,1498900590962,where do i find such data for my data science project?,0,false,0,,,,,,
+UggZtjimN9JzOHgCoAEC,Tejas Kanojia,11 months ago,1498900590967,siraj can can make a video on  how to use GITHUB,0,false,0,,,,,,
+UggB-2iysK0hSngCoAEC,Tenchiroxx,11 months ago,1498900590975,"It's a very cool video, eventhough I'd say it's a bit quick for a Python beginner ^^",0,false,0,,,,,,
+UgghhVV5UH9ImHgCoAEC,Benny Ogidan,11 months ago,1498900590978,had to comment on how fun this was :) i tried a different approach by importing from a Csv and then turning into a panda frame unfortunately when trying to do a prediction comparision with other methods i got a value error.,0,false,0,,,,,,
+UgiDFW64Uek3tHgCoAEC,Shubham Joon,11 months ago,1498900590987,Truly Inspiring,0,false,0,,,,,,
+Uggln1B7pA5dwXgCoAEC,Mahir Yıldızhan,11 months ago,1498900590994,"I'll use this algorithm. But What happens If I give 23 values instead of 3? Is it force my processor? will it be more trustable or not? For example: X = [
+ [0, 14, 6, 14, 46, 42, 0, 0, 0, 0, 0, 1, 0, 12, 4, 18, 54, 65, 0, 0, 0, 0, 0],
+ [0, 12, 4, 18, 54, 65, 0, 0, 0, 0, 0, 2, 0, 14, 6, 14, 46, 42, 0, 0, 0, 0, 0],
+ [...]]Y = [
+ '1',
+ '2',
+ '.']",0,false,0,,,,,,
+UgjCeRFTvmAl3HgCoAEC,sunny sarath,11 months ago,1498900591004,can we use anaconda instead of doing it in text editor?  which will be good please suggest bro...!,0,true,1,,,,,,
+,,,,,,,,UgjCeRFTvmAl3HgCoAEC.8U3n2uPbUO78UEUYEwePNn,Siraj Raval,11 months ago,1498900592361,yes anaconda is good,0
+Ugha0vgVfahSB3gCoAEC,Paulinusia A,11 months ago,1498900591024,You are so great!!,0,true,1,,,,,,
+,,,,,,,,Ugha0vgVfahSB3gCoAEC.8U1qCnBkwwE8UETEfJBb9F,Siraj Raval,11 months ago,1498900592278,thanks paulina!,0
+UghWDVIprn-jcXgCoAEC,Blake Elming,11 months ago,1498900591034,Dude you gotta slow down,0,true,1,,,,,,
+,,,,,,,,UghWDVIprn-jcXgCoAEC.8Tw2ZVOclvX8TyGFBEcduu,Siraj Raval,11 months ago,1498900592264,i will,0
+Ugjj94nHbXocqXgCoAEC,ethan kerber,11 months ago,1498900591044,can you expand more on how to point python interpreter to the script?,0,false,0,,,,,,
+UgjVTpckHV8bjXgCoAEC,svdfxd,11 months ago,1498900591052,"Awesome video Siraj...and smart way to learn Python rather than start with loop, string etc...",0,false,0,,,,,,
+UghsrUFSHhlDIXgCoAEC,Victoria Moser,11 months ago,1498900591057,Hello world! Love the videos and drink soylent too! 😂,0,false,0,,,,,,
+UghmAPVqTWSq1HgCoAEC,LaL XaDa - لعل ذاده,11 months ago,1498900591066,lolxxxxxxx... 2:58,0,false,0,,,,,,
+Ugh9tXJqYPAgdngCoAEC,Satadru Ganguly,11 months ago,1498900591069,"hey siraj, can you please go a bit slower when you're explaining important stuff?",0,false,0,,,,,,
+UghP4sz5jz2J43gCoAEC,32Teeth,11 months ago,1498900591078,make a course on Udemy u will earn a ton of money,0,false,0,,,,,,
+UgjCoeZEF9IA4ngCoAEC,Bernard Oosthuizen,11 months ago,1498900591082,"For those struggling with installing dependencies on Windows, you can get the .whl file at http://www.lfd.uci.edu/~gohlke/pythonlibs/ and then use powershell or cmd and cd into the directory. Then just use ""pip install filename"" . This solves most of the frustrations.",0,false,0,,,,,,
+Ugikx2GxrnCWQngCoAEC,Simran Knight,11 months ago,1498900593219,you are funny,0,false,0,,,,,,
+UgjywyugnxqpgXgCoAEC,Juan Silva,11 months ago,1498900593228,I opened my Github profile today. A.I. will most likely eliminate my job as a doctor and since I have a big passion for not starving.,0,false,0,,,,,,
+Ughm5c4MXE0_E3gCoAEC,haris bin naeem,11 months ago,1498900593238,A designer has started learning ML. :),0,false,0,,,,,,
+Ugh4O5Cy9mA1z3gCoAEC,Vivek Chaudhary,11 months ago,1498900593245,"hello siraj,
+  i have no knowledge of python and m planning to learn one, and also i have interest in Data science, so my question is, do i need to learn python first and then switch to it application in data science or python/data science can go parallely? also my background is Db aplication programming/ Data warehousing so will it be beneficial for me, i mean i will not deviate from my path if i learn python/data science?? pls guide.",0,false,0,,,,,,
+Ugin3cwPP1fTr3gCoAEC,Ps Ml,11 months ago,1498900593255,this install scikit command not working,0,true,1,,,,,,
+,,,,,,,,Ugin3cwPP1fTr3gCoAEC.8TOJlwmqHdm8TOKNOx3htP,Ps Ml,11 months ago,1498900596987,I tried giving the install scikit command from python command prompt and also from the powershell command prompt. None of them worked.  r u skipping some instructions?,0
+Ugjkln-5UDmrcngCoAEC,kalpesh Dharamshi,11 months ago,1498900593272,superb video &  style of teaching...but plz  slow down a bit !!,0,false,0,,,,,,
+UgiTgJrZsJwg3HgCoAEC,Prabhat Sharma,11 months ago,1498900593280,This guy just give me all the enthusiasm to learn Data Science!,0,false,0,,,,,,
+UgjwoyhEHkAfpHgCoAEC,stan_sprinkle,1 year ago,1496308593286,"this video is so busy and he moves so much, I think I'm motion sick or gonna have a seizure",0,false,0,,,,,,
+UggfESsgcRHeRXgCoAEC,Deepa Pujari,1 year ago,1496308593296,"Hey, 
+What if i had both list as strings? Decision classifier doesn't seem to work if both X and Y are as strings",0,false,0,,,,,,
+UggDnbAJwXZWtHgCoAEC,Ac Chan,1 year ago,1496308593301,"Hi Siraj, I cannot import cmu_sphinx4",0,false,0,,,,,,
+UghPv-WLC_d2EHgCoAEC,Vikas Choudhary,1 year ago,1496308593309,Spot on! Thanks I am your fan.,0,true,1,,,,,,
+,,,,,,,,UghPv-WLC_d2EHgCoAEC.8T4AK7G6KJ68TFfI8YzrA9,Siraj Raval,1 year ago,1496308596630,love u,0
+UgieybZ-YyUOLngCoAEC,bio kult,1 year ago,1496308593320,I identify as a Rhinoceros why you discriminating brah?,0,false,0,,,,,,
+Ugi5ouLZpoV6WXgCoAEC,Stevey Tube,1 year ago,1496308593327,"love you ustaad, I just started this series and I hope to finish it in one week wish me luck",0,true,1,,,,,,
+,,,,,,,,Ugi5ouLZpoV6WXgCoAEC.8T24BCPSxGd8TFgHQ-Njwq,Siraj Raval,1 year ago,1496308597039,love u,0
+UggUjyXhMit83HgCoAEC,Issac L,1 year ago,1496308593333,truly like you videos! Wish I discovered this gem sooner...,0,false,0,,,,,,
+UghabxjRClQt7ngCoAEC,Md.Yasin Arafat Yen,1 year ago,1496308593342,Decision tree algorithm is a prediction model. What are the other ones sir?,0,false,0,,,,,,
+UggTsyht1C_SgXgCoAEC,Beno Tsintsadze,1 year ago,1496308593351,better make sure you know maybe...not everyone can this,0,false,0,,,,,,
+Ugj1wGPh8Fudn3gCoAEC,Nicolás Vásquez Robledo,1 year ago,1496308593357,We need more teachers like this,0,true,1,,,,,,
+,,,,,,,,Ugj1wGPh8Fudn3gCoAEC.8StPXgoVmYg8SwMx2ezujW,Siraj Raval,1 year ago,1496308597064,thx,0
+UgiaS-fH69OBTHgCoAEC,an old account of Increment,1 year ago,1496308593365,pip errors,0,false,0,,,,,,
+Ugjyi_FvgJZB23gCoAEC,Lucky,1 year ago,1496308593373,But what about VIM :<,0,false,0,,,,,,
+UgiPdmK1Qldhn3gCoAEC,Vivek kushwaha,1 year ago,1496308593377,just one question how to install pip?,0,false,0,,,,,,
+Ugj3eK9hVj3TRXgCoAEC,Ignacio De La Madrid,1 year ago,1496308598182,"Dude, this video is brilliant! I love your way of showing programming. I'll follow you daily. Keep cranking!",0,true,1,,,,,,
+,,,,,,,,Ugj3eK9hVj3TRXgCoAEC.8Sl4wRmrspA8SwNxmt2wTo,Siraj Raval,1 year ago,1496308598724,will do thx,0
+UgjyLX70D4DOkXgCoAEC,Celine Xu,1 year ago,1496308598196,"Hi Raj, 
+Tried the code in Github getting this warning.
+
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\utils\validation.py:395: DeprecationWarning: Passing 1d arrays as data is deprecated in 0.17 and will raise ValueError in 0.19. Reshape your data either using X.reshape(-1, 1) if your data has a single feature or X.reshape(1, -1) if it contains a single sample.
+  DeprecationWarning)
+
+
+ Do not know where to start to fix it. any clue? I used X. reshap(1,-1) 
+find the resource here 
+http://stackoverflow.com/questions/37798056/getting-deprecation-warning-in-sklearn-over-1d-array-despite-not-having-a-1d-ar
+
+but the X is not array but a list. So could I or how could I change the X to an array?",0,true,1,,,,,,
+,,,,,,,,UgjyLX70D4DOkXgCoAEC.8Sedn5E1Ih18X0gFijUPvH,Dumb Jason,8 months ago,1506849398699,"I have the same issue, have you figured it out?",0
+UgggOR1h4Zln_XgCoAEC,Olga Yadchuk,1 year ago,1496308598205,I didn't understand line 11. Why did you call it tree.dec and then change it to tree.DecisionTreeClassifier?,0,false,0,,,,,,
+UggcCrC9jl9lcHgCoAEC,Tam Gaming,1 year ago,1496308598214,"i get every package installed, but not scipy. I tried it with python32 and python64 on win 7 and win 10 with python 3.5.0 3.5.2 and the newest version - what i am doing so wrong ? its so frustrating to waste 5 hours only for to try to install scipy to follow your tutorial.",0,true,1,,,,,,
+,,,,,,,,UggcCrC9jl9lcHgCoAEC.8SWGybRCS578Sc3_dYwR66,Tam Gaming,1 year ago,1496308598760,i went to kali linux there it worked with python 2.7,0
+UgjDxd811STBp3gCoAEC,Luan Dos Santos,1 year ago,1496308598225,Por que diabos a legenda e o titulo do video está em portugues se o cara fala inglês,0,false,0,,,,,,
+UggWVJWBQzVfNngCoAEC,scott,1 year ago,1496308598233,"Can someone tell me why my data won't work?  I am using a jupyter notebook, and I keep getting the error ""ValueError: Number of labels=1 does not match number of samples=11"".  I use the following data: 
+X_test=[[198,92,48],[184,84,44],[183,83,44],[166,47,36],[170,60,38],[172,64,39],[182,80,42],[180,80,43]]
+Y_test=['male','male','male','female','female','female','male','male']
+Not sure what I am doing wrong, any help would be appreciated.",0,false,0,,,,,,
+UgjfwUgoJwjiJ3gCoAEC,syahrildeutch,1 year ago,1496308598239,"Thank you for your great video. I follow your code, but why my result is female. Do you know why ?",0,false,0,,,,,,
+UghZBNmeiozdb3gCoAEC,piero muguna,1 year ago,1496308598248,"Hey Siraj, I like your energy. My script failed on fist attempt because I didn't have scipy and numpy dependencies installed. I first had to install them to get the script o work. Was that meant to happen?",0,false,0,,,,,,
+UgjxMelc0Wy4qngCoAEC,Carl Prude III,1 year ago,1496308598258,this is friggin amazeballs,0,true,1,,,,,,
+,,,,,,,,UgjxMelc0Wy4qngCoAEC.8SHiJgZ7VSA8SI7oX4v6jH,Siraj Raval,1 year ago,1496308598734,thx lol,0
+UggcP3oGflsSj3gCoAEC,Hamukii,1 year ago,1496308598263,"The issue with programmers...
+When they want to teach others.. They tell them what to do..
+
+Then the end users sits.. Follows their steps.. And fails..
+I hate programming.. But I want to learn it.",0,true,1,,,,,,
+,,,,,,,,UggcP3oGflsSj3gCoAEC.8SGZSK1o2zy8SI8uZKzwxV,Siraj Raval,1 year ago,1496308598711,think of a cool thing to create. programming is a tool to make that happen :),0
+UgjK45zDjKSlgXgCoAEC,Akshay Das,1 year ago,1496308598273,how to install pip in windows ?,0,false,0,,,,,,
+UgjwtOSVgzfAp3gCoAEC,Kavya Shree,1 year ago,1496308598277,good video,0,false,0,,,,,,
+Ugh80gDpYHjcp3gCoAEC,Siddharth Agrawal,1 year ago,1496308598285,"thats actually not true, u imported a library, importing a library like sdl or win codecs or openal, opengl i could probably make a c++ code that can type out audio data in 5-15 lines",0,false,0,,,,,,
+UghgCMeI8pWtpngCoAEC,Yong Kyosunim,1 year ago,1496308598294,Great video. Loved it.,0,false,0,,,,,,
+Uggx5_2B381g9XgCoAEC,Stefan J,1 year ago,1496308598297,i did not understand anything cause you were going to fast :D,0,false,0,,,,,,
+UghGaswG-HvDj3gCoAEC,Theophilus Chambers,1 year ago,1496308598308,.......what about EMACS .... punch no bahahhahahahahahahaha its funny cause its true !!!!!!!! I have to keep replaying that one meme,0,true,1,,,,,,
+,,,,,,,,UghGaswG-HvDj3gCoAEC.8R_enJn0S8V8Rie6N_kfwN,Siraj Raval,1 year ago,1496308598746,so true,0
+Ugi-vaSJiR_-13gCoAEC,Saurabh Rathor,1 year ago,1496308598322,"Hi Siraj, thanks for the video.
+Please find my submission - https://github.com/saurabhrathor/IdentifyingGender",0,false,0,,,,,,
+UgjwxaKkag3yA3gCoAEC,Brent Lovell,1 year ago,1496308598332,I cant even print hello world.... Im using python 3.6 and I even included the parentheses for the print function,0,false,0,,,,,,
+UggiHxijp4y9SngCoAEC,buoyantair,1 year ago,1496308598341,This is too rushed :P,0,false,0,,,,,,
+UgjDnXqFwlf4-HgCoAEC,Michael Mantion,1 year ago,1496308598353,You should do a short video of why you don't use vim.,0,false,0,,,,,,
+UgiurpgRmFALhngCoAEC,paul andre ehouman,1 year ago,1496308600240,good man . I'm french so my English is aproximative. Please how download  scikit learn for Windows 64 bits. Thanks for your video. Don't stop it,0,false,0,,,,,,
+UggRq3NrSd4AzHgCoAEC,Reinards Saulitis,1 year ago,1496308600249,"Great videos!
+
+I found out something interesting.
+
+I wrote the same code you wrote and when I called the script multiple times(from terminal), the answers changed...
+I think there could be two reasons for that:
+1st The random seed was not the same
+2nd The neural network was not trained enough
+
+What do you think Siraj Raval?",0,true,1,,,,,,
+,,,,,,,,UggRq3NrSd4AzHgCoAEC.8RPmsMhZ_Na8RRPr2D0tWp,Siraj Raval,1 year ago,1496308600841,random seed changed thanks!,1
+UgjjkS13WWqc6ngCoAEC,luis david moreno ramirez,1 year ago,1496308600258,"great videos, thanks",0,true,1,,,,,,
+,,,,,,,,UgjjkS13WWqc6ngCoAEC.8RO_NuOAlHf8RRQD5Y4F59,Siraj Raval,1 year ago,1496308600808,much love,0
+UggwBSe9RF3Fo3gCoAEC,Virendra Singh Bais,1 year ago,1496308600265,i would ask you to make the eye contact with the camera. it's more effective!,0,true,1,,,,,,
+,,,,,,,,UggwBSe9RF3Fo3gCoAEC.8RLJQI1iF7A8RRSMFnhXlE,Siraj Raval,1 year ago,1496308600861,gr8 feedback thx,1
+UgiU8PbGMpciMngCoAEC,Bitpiez,1 year ago,1496308600276,awesome dude,0,true,1,,,,,,
+,,,,,,,,UgiU8PbGMpciMngCoAEC.8RHqCUOpZiW8RRSrttM9rA,Siraj Raval,1 year ago,1496308600899,thanks!,0
+Ugi6mmyffg5cmHgCoAEC,Kwok Cliff,1 year ago,1496308600285,"I am newbie and never try python,  I can do the same coding and result in 5 mins!",0,false,0,,,,,,
+UggPHiJ6iMqaMngCoAEC,Batsuren Sundui,1 year ago,1496308600294,"Could anyone help me to input this equation into phyton? Flux (mg CO2, CH4, N2O m-2 min-1) = dC/dt  x V/A how to code?",0,true,2,,,,,,
+,,,,,,,,UggPHiJ6iMqaMngCoAEC.8R87VXifF7t8R9gFptW9j5,Siraj Raval,1 year ago,1496308600876,use numpy,1
+,,,,,,,,UggPHiJ6iMqaMngCoAEC.8R87VXifF7t8R9gSqtef4z,Batsuren Sundui,1 year ago,1496308600885,"Thanks a lot, i dont actually know how to input that equation as a code.... confused and lost... Your talks are inspiring!..",0
+Ugg0Q3-iGKg7S3gCoAEC,Gaurav Baliyan,1 year ago,1496308600304,nice,0,false,0,,,,,,
+UgizcUKU5Tq74XgCoAEC,Grouch911,1 year ago,1496308600308,"great channel, love the enthusiasm lol",0,true,1,,,,,,
+,,,,,,,,UgizcUKU5Tq74XgCoAEC.8Qrg7yHpqjF8Qsn3cJ4wJw,Siraj Raval,1 year ago,1496308600913,thanks!,0
+Ugi-JEwQjtGr_HgCoAEC,mynameismatt2010,1 year ago,1496308600319,"As a total novice, are all my problems cuz I'm using windows?",0,false,0,,,,,,
+Ughfhp061auKongCoAEC,servando torres,1 year ago,1496308600323,You are just the best man !,0,true,1,,,,,,
+,,,,,,,,Ughfhp061auKongCoAEC.8Qk4NPoHdvC8QsoE2JnuyH,Siraj Raval,1 year ago,1496308600828,thanks!,0
+Ugwgv9-cu6I5lh0vYdt4AaABAg,Benjamin Lebona,1 year ago,1496308600332,"energy, useful info...: all awesome! thanks",0,false,0,,,,,,
+UgwExMCEdOQOhQ3OKuF4AaABAg,Brian a,1 year ago,1496308600341,Do you have instagram?,0,false,0,,,,,,
+UgwWpSm6GnV6xfGw25Z4AaABAg,AW Crowe,1 year ago,1496308600349,I did not find any pronouns in your data...,0,false,0,,,,,,
+UgxTLiy-iq9tFXQ8UwB4AaABAg,Jagmohan Singh,1 year ago,1496308600355,"Hi Siraj, 
+I am beginner  in machine learning, and just started following your tutorials. Can you recommend me where do I start and  than continue. Thanks in advance.",0,false,0,,,,,,
+UghOpqhOrpEcr3gCoAEC,Khalid Mohammad,1 year ago,1496308600365,"BTW thank u YouTube for 0.5 speed.
+
+Replayed the video with normal speed, +Subscribed also",0,false,0,,,,,,
+Ugjdx_BOYuVU8HgCoAEC,Chetan Khatri,1 year ago,1496308600374,Your presented code has syntax error but interpreter won't throw error ! I think very fast typing and very fast speaking caused error !  [Video] X = Matrix closing bracket is missing. :),0,false,0,,,,,,
+UggHyUX9qJoQw3gCoAEC,Antoine Collignon,1 year ago,1496308600415,"Not working, when I run the script it says
+ModuleNotFoundError: No module named 'sklearn'
+
+So I figured out, sklearn wasn't installed properly. I tried to reinstall it, it said dependcy failed, it require numpy and scipy.
+I installed numpy without an issue but then scipy didn't worked. Jeez what a start",0,true,3,,,,,,
+,,,,,,,,UggHyUX9qJoQw3gCoAEC.8QENjKYXOBv8QWBr0Z_H4M,Vadim Chief,1 year ago,1496308600935,"Have you managed with problem?
+ cuz i have the same and dont know what to do",1
+,,,,,,,,UggHyUX9qJoQw3gCoAEC.8QENjKYXOBv8Qf06mzm5_V,dnnsish,1 year ago,1496308600938,"Seems like a frequent problem. I can't install scipy, too. It results in a bunch of errors, even though I downloaded all of the latest versions.",1
+,,,,,,,,UggHyUX9qJoQw3gCoAEC.8QENjKYXOBv8Qf0gnuzpYY,Antoine Collignon,1 year ago,1496308600947,"Вадим Юлдашбаев The way I fixed it. I uninstalled everything and installed Anaconda python, it's a complete bundle and everything will work without any extra pip installation",0
+UggwRf6GURkPnHgCoAEC,BOMB3R,1 year ago,1496308600425,YOU ARE AWWWESSOME !!!   <3,0,true,1,,,,,,
+,,,,,,,,UggwRf6GURkPnHgCoAEC.8QCrtg6JbOY8QJvLfvWS6B,Siraj Raval,1 year ago,1496308600961,woot thanks!,0
+UghL4MzL50lbE3gCoAEC,Dipanka Sarma,1 year ago,1496308600436,you just reminded me of pewdipie :v lol.  great work bro!,0,false,0,,,,,,
+UgjzoeOASanCb3gCoAEC,Corey Hulse,1 year ago,1496308602399,"Stepping it up a notch, I wrote my own implementation for K-means and K-Nearest Neighbors and compared them against three classifiers from scikit to see if they got the same answers. They did! Even threw in code for visualizing my clustering algorithm in 3D.
+Challenge code: https://github.com/corbosiny/AI-Machine-learning/blob/master/classifierTest.py
+K-means code: https://github.com/corbosiny/AI-Machine-learning/blob/master/kMeans.py
+K-nearest neighbors code: https://github.com/corbosiny/AI-Machine-learning/blob/master/kNearestNeighbors.py
+
+Fully commented it all as well if anyone else wants to learn from it!",4,true,2,,,,,,
+,,,,,,,,UgjzoeOASanCb3gCoAEC.8Q3XsXbhTJ48Q3Xxa1phe2,Corey Hulse,1 year ago,1496308603944,Great vid by the way!,1
+,,,,,,,,UgjzoeOASanCb3gCoAEC.8Q3XsXbhTJ48aTe6y1xMYF,ajay chavda,5 months ago,1514798203949,"Hey Corey!! 
+Above URL Result is ""Page not found "".",0
+UgiTy9St4obPYHgCoAEC,Nuur Gedi,1 year ago,1496308602410,why his fingers are green and fat at the end?,0,false,0,,,,,,
+Ugj2Prl-spcmqXgCoAEC,Charles Kuncheria,1 year ago,1496308602415,Did anyone get an error? ImportError: No module named numpy,0,true,1,,,,,,
+,,,,,,,,Ugj2Prl-spcmqXgCoAEC.8PjL-GT9PB_8PoqV_nR-2q,Hans Meiser,1 year ago,1496308603405,"Would guess numpy is a dependency which has to be installed.
+An easier initial approach is to use a Python bundle which has all dependency pre-installed.",0
+UggIwh92zl7e0XgCoAEC,Ikram Shah,1 year ago,1496308602425,"How to solve this error?
+
+Traceback (most recent call last):
+  File ""first.py"", line 1, in <module>
+    from sklearn import tree
+  File ""/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/sklearn/__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/sklearn/base.py"", line 9, in <module>
+    import numpy as np
+ImportError: No module named numpy",0,true,1,,,,,,
+,,,,,,,,UggIwh92zl7e0XgCoAEC.8PhH1aH0_5W8Por4-7sGJ6,Hans Meiser,1 year ago,1496308603138,"Would guess numpy is a dependency which has to be installed.
+An easier initial approach is to use a Python bundle which has all dependency pre-installed.",0
+UgjJOwty5rPCd3gCoAEC,Andrew Dorfman,1 year ago,1496308602436,"My answer to this video challenge is https://github.com/lrn2fly/python-ML-siraj_raval/blob/master/1-Predict%20Gender.ipynb.
+
+Btw, can anybody make it shorter?",0,true,1,,,,,,
+,,,,,,,,UgjJOwty5rPCd3gCoAEC.8PgyIdMMeQa8PkbwvLZi63,Siraj Raval,1 year ago,1496308603172,thanks Andrew for the submission! Great work,1
+UghDs1fcZxdl43gCoAEC,Hans Meiser,1 year ago,1496308602448,"You are the most funny tutor I've ever seen...and I've seen really a lot. 
+
+Unfortunately I can't install the dependencies under a virtualenv on Windows.
+Turns out scipy has no descent Win-Support.",0,true,2,,,,,,
+,,,,,,,,UghDs1fcZxdl43gCoAEC.8PgXMwmKGxD8Pkc5Tukt7Q,Siraj Raval,1 year ago,1496308603206,thanks Hans! Hmm Docker can fix that,0
+,,,,,,,,UghDs1fcZxdl43gCoAEC.8PgXMwmKGxD8Poo45DGaj4,Hans Meiser,1 year ago,1496308603245,"Thanks man..did it with Anaconda as parallel Python install. 
+Great tool, no-brainer on Win (even with other Python versions for node.js, mobile etc. on board). Worth to mention: using a dedicated Python bundle for machine learnings, to avoid mental crisis on Windows (mentioned on scipy-Website). https://scipy.org/install.html",0
+UggTtlhIv1XNa3gCoAEC,Nitin Kshatriya,1 year ago,1496308602460,"Hi Siraj... Great video, here is my submission: https://github.com/ni3-k/machine-learning-codes/blob/master/GenderClassification.py
+I know it's quite late but just wanted to share my first code in scikit-learn :)",0,true,2,,,,,,
+,,,,,,,,UggTtlhIv1XNa3gCoAEC.8Pg9TKTrXIa8Pkc9ap8MFv,Siraj Raval,1 year ago,1496308603346,thanks Nitin for the submission!,0
+,,,,,,,,UggTtlhIv1XNa3gCoAEC.8Pg9TKTrXIa8Pm4LvNQ0Ku,Nitin Kshatriya,1 year ago,1496308603348,"Siraj, one quick question. I'm new to scikit learn and machine learning, but I've good coding experience. What can be some useful resources?",0
+Ugj_8kTMakuog3gCoAEC,Raj Dutta,1 year ago,1496308602473,"Hi Siraj! Great work.
+I just started late, planning to create a repository for your videos in my GitHub!
+Here is my Submission:
+https://github.com/rzskhr/MachineLearning/blob/master/SKLearn/Classification.ipynb",0,true,2,,,,,,
+,,,,,,,,Ugj_8kTMakuog3gCoAEC.8PbqwKi74W28PkdS8r9bvp,Siraj Raval,1 year ago,1496308603288,thanks Raj for the submission!,1
+,,,,,,,,Ugj_8kTMakuog3gCoAEC.8PbqwKi74W28PkfGWUt9PW,Raj Dutta,1 year ago,1496308603292,😃,0
+UghpV4GmWrED3HgCoAEC,Firas Megrahi,1 year ago,1496308602486,You are awesome :),0,false,0,,,,,,
+Ugg5P5kEYc9HTHgCoAEC,Sam Murphey,1 year ago,1496308602496,AAAA this was so helpful! Thank you for making these videos Siraj!!,0,false,0,,,,,,
+UgjKRTfjr6k4h3gCoAEC,hack hack,1 year ago,1496308602506,Thank you man very useful ))),0,true,1,,,,,,
+,,,,,,,,UgjKRTfjr6k4h3gCoAEC.8PRRGqvO7m18PSonh0gDQk,Siraj Raval,1 year ago,1496308603309,np,0
+UggBp-VVKodNIngCoAEC,Marco M,1 year ago,1496308602517,"Been watching your videos . I love the light dash of comedy along with the  subject, subscribed.",0,true,1,,,,,,
+,,,,,,,,UggBp-VVKodNIngCoAEC.8PP1LUaS4eZ8PSrwHtanup,Siraj Raval,1 year ago,1496308603043,Thanks Marco :) welcome,0
+Ugi7WRRECDC7r3gCoAEC,satish jasti,1 year ago,1496308602528,"Hey Siraj, thank you for that awesome video. Can you explain me why we have to use compund lists like [[190,70,43]] for predictions instead of noraml list [190,70,43].
+Thank you :)",0,true,1,,,,,,
+,,,,,,,,Ugi7WRRECDC7r3gCoAEC.8PM2n7lIOaM8PStJi0OnI6,Siraj Raval,1 year ago,1496308603057,thanks! since its a 2d list. a list of lists,1
+UgjNYY9jt7bDVHgCoAEC,satish jasti,1 year ago,1496308602540,Thank you siraj,0,true,1,,,,,,
+,,,,,,,,UgjNYY9jt7bDVHgCoAEC.8PLzwBs6YeT8PStK9Goa4g,Siraj Raval,1 year ago,1496308603076,np,0
+Ugg9oHUGuTfuCXgCoAEC,최정한,1 year ago,1496308602552,I'll catch up !,0,true,1,,,,,,
+,,,,,,,,Ugg9oHUGuTfuCXgCoAEC.8PH6cj6XLgt8PSulOhTb9r,Siraj Raval,1 year ago,1496308603153,sounds good,0
+Ugi8tW3FMF01p3gCoAEC,Hy Goh,1 year ago,1496308602563,"Thanks for the simplified example though I don't believe there's correlation between gender vs weight,height,shoes :)",0,true,1,,,,,,
+,,,,,,,,Ugi8tW3FMF01p3gCoAEC.8P4R2PLr60p8PBoZLZLch_,Siraj Raval,1 year ago,1496308603360,lol thanks,0
+Ugi4SlQALtkTpngCoAEC,Djazeiry,1 year ago,1496308602570,"if you are on ""window""......YO WHAT DA FFFFFFFF , priceless xD",0,true,2,,,,,,
+,,,,,,,,Ugi4SlQALtkTpngCoAEC.8P-sIMYxoe_8PBq0kAwVgq,Siraj Raval,1 year ago,1496308603117,LOL,1
+,,,,,,,,Ugi4SlQALtkTpngCoAEC.8P-sIMYxoe_8PC6o68U-7x,Djazeiry,1 year ago,1496308603124,Siraj Raval it's  my favorite  data science channel,0
+UgiNZ2zzLPEA53gCoAEC,Jack Borden,1 year ago,1496308602578,">implying that there is only two genders
+>triggered",14,true,2,,,,,,
+,,,,,,,,UgiNZ2zzLPEA53gCoAEC.8OwwvJlCzds8PBqKqEQCvo,Siraj Raval,1 year ago,1496308603324,lol shit,12
+,,,,,,,,UgiNZ2zzLPEA53gCoAEC.8OwwvJlCzds8gJqGYRQj7U,Caitlin Gibbons,2 weeks ago,1526635003328,Definitely more than two.,0
+UggyaVEjAFHVUngCoAEC,Chandru Nagrani,1 year ago,1496308602589,"Excellent Thank You. I hate getting old, people do not see the future.",0,true,1,,,,,,
+,,,,,,,,UggyaVEjAFHVUngCoAEC.8OtYS-SKRdp8Ou5pNRM0bF,Siraj Raval,1 year ago,1496308603101,Thanks! Together we will build it,0
+Ughxv-nnul_CQngCoAEC,Suami,1 year ago,1496308602604,Anyone having problem with installing python 3.6 on linux or is it just me?,0,true,1,,,,,,
+,,,,,,,,Ughxv-nnul_CQngCoAEC.8OpqvDb1zWC8Ou8RM43t1M,Siraj Raval,1 year ago,1496308603088,try an older version,1
+Uggeu1Ah-RpvhXgCoAEC,Abhishek Honnavalli Puttaiah,1 year ago,1496308605061,Thanks for Educating us with entertainment,0,true,1,,,,,,
+,,,,,,,,Uggeu1Ah-RpvhXgCoAEC.8OfCam3mvZH8OuC7W5Gn6J,Siraj Raval,1 year ago,1496308607853,thanks!!,0
+UgirdSB3FPFfJXgCoAEC,Abhishek Honnavalli Puttaiah,1 year ago,1496308605071,oh god...you make so much fun,0,false,0,,,,,,
+UgjHC9VrqnY2BngCoAEC,hellofriend,1 year ago,1496308605075,So glad i found this channel... thank you for making these videos!!!!,0,true,1,,,,,,
+,,,,,,,,UgjHC9VrqnY2BngCoAEC.8OchEr-NWnQ8OevJwJ7IjA,Siraj Raval,1 year ago,1496308607884,np,0
+UgiHO78V7adD_ngCoAEC,Akshay Dixit,1 year ago,1496308605085,"i love this kinda fast paced, more info driven, funny, on the point videos.. with a great presenter of course.. going great keep it up",0,true,1,,,,,,
+,,,,,,,,UgiHO78V7adD_ngCoAEC.8O_0WRE3ae48OevxycLpRT,Siraj Raval,1 year ago,1496308608563,thanks Akshay,0
+Ugh093nesTR_4ngCoAEC,sedthh,1 year ago,1496308605089,may god have mercy on your soul if you tried to get the required libraries to run this script on Python 3 for a 64-bit Windows,65,true,22,,,,,,
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8OoyuwAg_g5,Sure Lock,1 year ago,1496308609765,"There were so many moments where I seriously considered dual booting or having an Ubuntu VM, but then I'd read about people having problems with those approaches too so I'm like fuck it I'll just power through this dependency BS. 
+
+For any new ML enthusiasts on Windows, you can get compatible scipy & numpy installations by downloading their  .whl files from http://www.lfd.uci.edu/~gohlke/pythonlibs/ and in command promp enter ""pip install <location of numpy .whl file> then repeat with the scipty .whl file. I don't remember but I think ""pip install scikit"" automatically downloads similar ""sci***"" libraries like scipy etc.
+
+Now if someone out there knows how to make OpenAI Universe work on Windows I'd love to know :)",8
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8PgxmbAMfso,Andrew Dorfman,1 year ago,1496308609775,I remember downloading bulk windows python installation with all libs already included. (WinPython-64bit-3.6.0.1Qt5),3
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8PosBbHGkp_,Hans Meiser,1 year ago,1496308609779,"I use Anaconda...great tool. There are a few more:
+https://scipy.org/install.html",3
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8Qu216LCs_F,MrRandompersondude1,1 year ago,1496308609788,"I ended up just using conda, took like 3 minutes after I actually installed it. PIP would not work for me",3
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8STWXk2F3Rm,12345a,1 year ago,1496308609793,"I have been through hell
+It has taken 3 days for me to figure it how to get it to work
+Right now , I am downloading the whl for Numpy , because X64 Win 10",3
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8STYw-JPr3N,Hans Meiser,1 year ago,1496308609800,"Installing a Python ML-environment, native on win is currently not the best solution! Using Anaconda with individual Conda environments, often makes much more sense. Even though in some lesser cases you still have to install some special libraries native. I tested all common solutions. Since Python is currently hyped in ML-land it is worth to mention. All in one - programs like R, Mathlab, Rapidminer  often can get you productive in a fraction of time, if you have a 'classic' ML-problem to solve.",2
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8SaQfQXbpQ1,Luv Suneja,1 year ago,1496308609809,The joys of Linux.,2
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8TiMTColoce,svdfxd,11 months ago,1498900609819,well said. but after googling...I found this URL which has all the libraries for 32/64-bit windows: http://www.lfd.uci.edu/%7Egohlke/pythonlibs/#scikit-learn,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8TiVGtv5e46,Hans Meiser,11 months ago,1498900609823,@svdfxd Much to complicated!,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8VCDLIT9P_N,jtekmmx,10 months ago,1501579009832,"download Anaconda for windows 64 bit and all the dependencies will already be installed.  It also includes Spyder IDE which has the editor, terminal and variable explorer in one.",5
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8XcAPpHj4yy,123epsilon,8 months ago,1506849409837,I'm convinced that fate wants me to stay away from python...,3
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8ZL8gWDOZmD,fake Apple Store,7 months ago,1509527809845,"Sucks man :(
+Can someone recommend any cloud solutions?",0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8ZZBYug4bUs,broadcast3ful,6 months ago,1512119809854,Sorry but I am late to the party. What would you suggest for people on 64 bit windows and using python 3 as a fix ?,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8Zanlzg8qvt,fake Apple Store,6 months ago,1512119809858,"broadcast3ful 
+Dual boot ubuntu. That's the setup I have now and it's pretty great",0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8Zb0k4SMRvs,broadcast3ful,6 months ago,1512119809867,What exactly are do you run on it ? still python 3 ?,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8ZiqVlo4qIg,ian schoenrock,6 months ago,1512119809878,it took me a week to get everything functional (Windows 64 bit). Fate just wants to see if you really want it.,2
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8_ApuG6pcCy,beast,6 months ago,1512119809888,linux master race,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8aZ-TpzQLRu,RazorflasK,5 months ago,1514798209893,"If you don't want to be seen as a fruitcake while trying to install all the dependencies and losing your mind, my suggestion would just download and install Anaconda distribution then set-up the path for python and install scikit afterwards from conda. This will take like 10 mins at most and probably will protect your dignity too. :)",1
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8bVusAqhZcd,Hygro Farms,4 months ago,1517476609903,"I don't always use all caps but....THANK YOU, THANK YOU, THANK YOU!",0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8eQlJD18S-4,manasa,2 months ago,1522574209913,"I recommend dual booting, much easier on Linux",0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8g1rdd7nrN8,DeLearn Hub,3 weeks ago,1526030209916,or just install miniconda and install using either conda install or pip,0
+,,,,,,,,Ugh093nesTR_4ngCoAEC.8OHho62qFnF8gnwuH97_gk,Rajat Rautan,3 days ago,1527585409924,Okay i wrote the code on anaconda but it doesnt run..help!,0
+UgjizHJ6fSjxVngCoAEC,Brent Prox,1 year ago,1496308605101,0:07 TRIGGERED,3,false,0,,,,,,
+UggSyDBeZeLO4ngCoAEC,Dewayne Yocum,1 year ago,1496308605109,"if this guy doesn't make you wanna learn, something is wrong.",153,true,4,,,,,,
+,,,,,,,,UggSyDBeZeLO4ngCoAEC.8O1-BUCRHqi8O6Jzd_o8B3,Siraj Raval,1 year ago,1496308608628,thanks,20
+,,,,,,,,UggSyDBeZeLO4ngCoAEC.8O1-BUCRHqi7------6U0u,John Peter,2 months ago,1522574208633,I am agree with you.,0
+,,,,,,,,UggSyDBeZeLO4ngCoAEC.8O1-BUCRHqi8eiBZ3QeQax,Ailton Mendes Duarte,1 month ago,1525166208636,Siraj is good,1
+,,,,,,,,UggSyDBeZeLO4ngCoAEC.8O1-BUCRHqi8gcG03E7coh,Thunder 440v,1 week ago,1527239808641,Absolutely True ! :),0
+UgikC6dLw4Y9rXgCoAEC,karan kochar,1 year ago,1496308605120,"hey i like your videos ,short and to the point,the code worked on my pc,but i get different result on terminal every time i run demo.py ,can you tell me y so ?
+i am assuming 'clf' classifier is doing so,as when i looped over 'prediction' and 'print' output were same,but when i added clf in loop ,then i got all the mix answers
+
+can you please explain it ? :)",0,false,0,,,,,,
+UggEW5o7a09eKXgCoAEC,fourten0410,1 year ago,1496308605124,Great stuff!,0,false,0,,,,,,
+UghlXtiPILsEkHgCoAEC,ElGatoDeHeisenberg,1 year ago,1496308605169,"Oh no, what if we misgender someone and Trigglypuff gets triggered? :(",6,false,0,,,,,,
+UghiDIMqzSs_JXgCoAEC,dasmusikistschoen,1 year ago,1496308605178,"Siraj! I admire your enthusiasm!! Eventhough the topic looks impossible to learn with any motivation. You give the necessary energy to start from somewhere :)) 
+
+
+I wish to cover as many topics as possible about machine learning and apply it to my day-to-day problems so that I can grow myself as an ml expert who is committed to teach young non-english knwoing kids in my country :)
+
+Thank you!! Thank You!!!",3,false,0,,,,,,
+Ugh_BPkqSm93RXgCoAEC,Sanchit Agarwal,1 year ago,1496308605183,I really wish girlfriend_creator was an actual package...,20,true,3,,,,,,
+,,,,,,,,Ugh_BPkqSm93RXgCoAEC.8Nmthgmzzat8O6Orf4V65B,Siraj Raval,1 year ago,1496308607824,someday,9
+,,,,,,,,Ugh_BPkqSm93RXgCoAEC.8Nmthgmzzat8XE9kGDxUUG,Rick Bishop,8 months ago,1506849407828,LOL,0
+,,,,,,,,Ugh_BPkqSm93RXgCoAEC.8Nmthgmzzat8XY26L9G-R4,Jean Impaz,8 months ago,1506849407837,Siraj Raval,0
+Ugjk2VSQu3LJgXgCoAEC,Akash,1 year ago,1496308605200,"Whoa! Slow down there buddy!
+In all seriousness, I think your teaching method is really good, but, you need to slow down a little. It won't hurt if, the video was 12 minutes long instead of 7 and it will give you extra room to explain it very clearly.",184,true,13,,,,,,
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8S5K8aO70dm,Ron Williams,1 year ago,1496308609058,0xelectron wtf? That's what i like about Siraj!  And i play the vids at 1.5 speed.,24
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8S5ivT-9LZK,Akash,1 year ago,1496308609069,"I guess we all learn differently, than. I love his energy, though!",8
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8UA6hTDXzVV,zé,11 months ago,1498900609078,"[IMHO] maybe if he slows down some more advanced (not my case) could think as boring.
+Videos have pause (I use it a lot here), rewerse, re-watch advantage over regular class.",4
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8UW4ACozs0v,Saram Iqbal,10 months ago,1501579009087,"Siraj's method of teaching is pretty good, but i think it's mainly for people who already hold advanced command over python. It's certainly not for beginners like me though lol",8
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8Uuzw9_QkRM,tejasv agarwal,10 months ago,1501579009093,"Saram Iqbal actually you can understand his videos just by having basic knowledge of python and you should know about several data structures like list and etc. The main problem occurs when you try to understand those dependencies but he already warned you for having motivation to learn as he can only give you basics of those dependencies and rest you have to learn on your own.
+cheers",2
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8WF4fgpODkZ,Emile,9 months ago,1504257409103,haha same,0
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8XzMG4ij26f,William Plaud,8 months ago,1506849409114,slow down the vid.,0
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8YGDr8jJ8bS,Eesaa Philips,7 months ago,1509527809124,also 10 min+ = more money,1
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8Z1FifX32zg,Khushi Malik,7 months ago,1509527809128,yeah he definitely needs to slow down a bit.,0
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8Z62j-X1_CR,Praveen Kumar,7 months ago,1509527809137,It's better you use 0.75x rather than complaining.,1
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8_Vln83scKC,Couch Potato,6 months ago,1512119809146,I think that's because he is trying to copy the coding train guy ! No offense to this video though ✌,0
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8b521PzsmkI,shafin shamsudheen,4 months ago,1517476609152,"set 
+0.75 speed",0
+,,,,,,,,Ugjk2VSQu3LJgXgCoAEC.8NmYvlKg4rT8gbqkkgIglX,Bruce A West,1 week ago,1527239809222,Watch a slower playback speed,0
+UggQm1GgqciY8HgCoAEC,jeremejazz,1 year ago,1496308605209,cool. It's like watching a video lecture from the headstart book series if they have one,1,false,0,,,,,,
+UggtYiUrIZuwtHgCoAEC,Litera Patens,1 year ago,1496308605214,"Thanks a lot for the great Vids on Datan Science in Python. Unfortunately im stuck at some point and the error says: 
+Traceback (most recent call last):
+  File ""decision_tree_1.py"", line 1, in <module>
+    from sklearn import tree
+  File ""/home/litera/.local/lib/python3.5/site-packages/sklearn/__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""/home/litera/.local/lib/python3.5/site-packages/sklearn/base.py"", line 9, in <module>
+    import numpy as np
+ImportError: No module named 'numpy'
+
+Do you have any idea how it is solve? 
+
+Regards!",0,true,2,,,,,,
+,,,,,,,,UggtYiUrIZuwtHgCoAEC.8NlmDwTeY9v8NlmmyTeoFy,Litera Patens,1 year ago,1496308608657,nvm just figured it out by checking all comments below! Thanks anyway and keep on!,0
+,,,,,,,,UggtYiUrIZuwtHgCoAEC.8NlmDwTeY9v8Nm6OOX7whY,Siraj Raval,1 year ago,1496308608662,dope,0
+UghNhuAQqh6UWHgCoAEC,Шер Мирсалиев,1 year ago,1496308605225,"I get the library part, but how actually speech recognition works, libraries are cool, but knowing jquery and not knowing JS limits your abilities and it just sucks",0,true,1,,,,,,
+,,,,,,,,UghNhuAQqh6UWHgCoAEC.8NkI6tLIfR58Nm6rvchxrU,Siraj Raval,1 year ago,1496308605708,dont worry ill go more in depth soon,0
+UgiFVk7-OBDfMHgCoAEC,jorvag,1 year ago,1496308605235,I wanted to test out the speech recognition app but I get a ModuleNotFoundError for the 'import cmu_sphinx4'. I have installed sphinx using pip in windows 8. Any suggestions?,0,true,1,,,,,,
+,,,,,,,,UgiFVk7-OBDfMHgCoAEC.8NfD2xoMkzN8NmAA4j29Pt,Siraj Raval,1 year ago,1496308607867,see comments other people sovled this,1
+Ugil0lc_xStl-XgCoAEC,Ben Babcock,1 year ago,1496308605246,"hello again! I just got around to watching this vid. I'm using Ubuntu currently and when I type the command that you say to to install Python for Linux it replies by saying "" bash: ./configure: no such file or directory found."" probably a noob mistake but any help would be greatly appreciated",0,true,1,,,,,,
+,,,,,,,,Ugil0lc_xStl-XgCoAEC.8N_AHP6ZoAj8NmBSCwIcGH,Siraj Raval,1 year ago,1496308605696,see comments,0
+UgigIiKCjKzILHgCoAEC,tri sari tups,1 year ago,1496308605253,"i can't install pip ... i keep getting this reply ? I'm using python3 
+- -bash: pip: command not found",0,true,4,,,,,,
+,,,,,,,,UgigIiKCjKzILHgCoAEC.8NRpel03vJl8NWjr6GMZsw,Siraj Raval,1 year ago,1496308608587,install pip https://pip.pypa.io/en/stable/installing/,1
+,,,,,,,,UgigIiKCjKzILHgCoAEC.8NRpel03vJl8Nk3152G6EA,barbietunnie,1 year ago,1496308608595,"Run:
+
+sudo easy_install pip",2
+,,,,,,,,UgigIiKCjKzILHgCoAEC.8NRpel03vJl8NkGgfwHi8O,tri sari tups,1 year ago,1496308608598,"Thanks and keep up the good work, crazy one !",0
+,,,,,,,,UgigIiKCjKzILHgCoAEC.8NRpel03vJl8NkGlUrNYMh,tri sari tups,1 year ago,1496308608607,"thanks for your reply, Barbietunnie",0
+UgjJJb4_Ws_EsXgCoAEC,CyberDragon,1 year ago,1496308605260,Thank you so much!,0,true,1,,,,,,
+,,,,,,,,UgjJJb4_Ws_EsXgCoAEC.8NMmjEpNjZv8NWnNxOUmza,Siraj Raval,1 year ago,1496308605674,thank you for watching!,0
+UgjLYsAy-ZoegXgCoAEC,Daniel Weikert,1 year ago,1496308611694,"Hey Siraj, thank you so much for those awesome videos. I bet these are a ton of work to produce but you must keep going man. I got a question you might help with. Since i am still pretty new to python and data science i was wondering is there a trick/tricks on how to remember the code better? I always try to understand the code, but there are so many modules and different names for classifiers,....Can you give me some advice on how to remember the code better? Thanks bro",0,true,1,,,,,,
+,,,,,,,,UgjLYsAy-ZoegXgCoAEC.8NJ2cNefVkF8NWpVB5lOOK,Siraj Raval,1 year ago,1496308612759,"try not to think about it in terms of syntax. if you get the high level idea behind each technique, you are golden. the language and framework doesnt matter so much as you know how it all works from a high level. so perhaps flash cards with different problems or models would help.",1
+UghMldxpfRyPF3gCoAEC,Prasobh Narayanan,1 year ago,1496308611706,"I am not able to run : from sklearn import tree. It shows me an import error for  ""tree"".",1,true,2,,,,,,
+,,,,,,,,UghMldxpfRyPF3gCoAEC.8NDFW7BvouW8NDFZQErN2k,Prasobh Narayanan,1 year ago,1496308612469,Any help?,0
+,,,,,,,,UghMldxpfRyPF3gCoAEC.8NDFW7BvouW8NEq3ecdSjX,Siraj Raval,1 year ago,1496308612484,error output?,0
+UghZb6ql90hutXgCoAEC,Rian Irawan Hariadi,1 year ago,1496308611719,Man.. you are CRAZY.. Finally I found a man like you... JUST LIKE ME ! :-D,1,true,1,,,,,,
+,,,,,,,,UghZb6ql90hutXgCoAEC.8NBH5mL6Nyr8NEqb7fI_XC,Siraj Raval,1 year ago,1496308612847,woot! lets be crazy together,1
+UgiX0WhiU-4lSHgCoAEC,Gabriel Dimitrov,1 year ago,1496308611732,"Hey Siraj,
+I'm a complete newbie at programming, and I have one software idea that I want to realize in the long run, but it needs a machine learning model to be built. Can you give me some suggestions on where to start as a beginner ""data scientist"" beside these videos? Or it'll be enough to learn from them? Thanks! Your channel is really helpful.",0,true,1,,,,,,
+,,,,,,,,UgiX0WhiU-4lSHgCoAEC.8N1Q4rXmeOJ8NEzF34VL3E,Siraj Raval,1 year ago,1496308612629,this series should be enough to get started thanks,0
+UgjfXsw9dmj4h3gCoAEC,Nirvan Mahat,1 year ago,1496308611741,is pyhton a mandatory path of becoming a data scientist? im currently indulging myself in R and wanted kmow thd viability of it in the long run.,0,true,1,,,,,,
+,,,,,,,,UgjfXsw9dmj4h3gCoAEC.8N17HBQdAKZ8NEzGuA3UFc,Siraj Raval,1 year ago,1496308613294,python > R,1
+UghReBkcekivMXgCoAEC,rhmxos,1 year ago,1496308611752,"Hey man, thanks for the tutorial.
+Here's my code for this challenge: https://github.com/dekuyper/python_for_data_science/",0,true,1,,,,,,
+,,,,,,,,UghReBkcekivMXgCoAEC.8MyKyPgMNbK8NF0uyiboUm,Siraj Raval,1 year ago,1496308612918,good job! i like you made different classes for different models. clean code as well keep it up,1
+UgjILcClt3XZ6HgCoAEC,John McCulloch,1 year ago,1496308611763,"How do I install this ""cmu_sphinx4"" library being imported at 1:45.  I tried searching for it already.",0,true,1,,,,,,
+,,,,,,,,UgjILcClt3XZ6HgCoAEC.8Mxfum-9z7Y8NF1J-Nw9fc,Siraj Raval,1 year ago,1496308613245,see this https://github.com/cmusphinx/pocketsphinx-python,0
+UgiqQoeBnxSHkXgCoAEC,Joannot Fampionona,1 year ago,1496308611777,"Need help please!!!
+When he types stuff ( 5:20 ) It's colorfull, when I do type stuff in sublime text, it's not ... T_T
+Why is that and how can I change it please?",0,true,5,,,,,,
+,,,,,,,,UgiqQoeBnxSHkXgCoAEC.8MwusOLaOU88MxgIEUZdGq,John McCulloch,1 year ago,1496308612877,vim text editor is one way to colorize your code.,0
+,,,,,,,,UgiqQoeBnxSHkXgCoAEC.8MwusOLaOU88My6jiNuvaG,Joannot Fampionona,1 year ago,1496308612884,+John McCulloch thanks! Will it work with python as well as it does in the video?,0
+,,,,,,,,UgiqQoeBnxSHkXgCoAEC.8MwusOLaOU88MyvlO3pv39,John McCulloch,1 year ago,1496308612891,"I just typed a few lines into vim and the colors happened to match with Siraj's examples. If you want to follow along with the Sublime editor he is recommending, maybe the colorsublime plug-in will work...",0
+,,,,,,,,UgiqQoeBnxSHkXgCoAEC.8MwusOLaOU88NF1UqzNE87,Siraj Raval,1 year ago,1496308612898,"bottom right corner of sublime text lets you choose you rlanguage, choose python",2
+,,,,,,,,UgiqQoeBnxSHkXgCoAEC.8MwusOLaOU88NF8p4iRXYC,Joannot Fampionona,1 year ago,1496308612905,"+Siraj Raval Thanks you so much, it worked! You are great! :D",0
+UghSY6KTG8NMRngCoAEC,a9raag,1 year ago,1496308611789,Thank you for this video! I like the way you explain concepts and  thank you for the scikit learn examples link in the description it is really simple and made my life easy for learning ml. You saved hours of my time. Don't ever stop doing what you do.,0,true,1,,,,,,
+,,,,,,,,UghSY6KTG8NMRngCoAEC.8MwG8IMANHt8NF1_zxOb_x,Siraj Raval,1 year ago,1496308613266,thanks i wont,0
+Ughzvqckp-ummHgCoAEC,Prudhvi Vajja,1 year ago,1496308611801,good but u are toooooo fast man..........pls have breaks on the road which will be good for traffic,1,true,2,,,,,,
+,,,,,,,,Ughzvqckp-ummHgCoAEC.8MrxYsTZv8k8NF2c_sPAJI,Siraj Raval,1 year ago,1496308612592,good point thanks,0
+,,,,,,,,Ughzvqckp-ummHgCoAEC.8MrxYsTZv8k8Q3Jz9NZZbK,arijeet patidar,1 year ago,1496308612602,"Naah, I think your pace is good, don't loose it. One always has an option to pause and/or replay",3
+UghvyWHLySxmUHgCoAEC,Akhmadjon Ruzikulov,1 year ago,1496308611812,"Hey bro, thanks for the videos, I really love them. I'm a PhD student and my major is Data Scientist. I'm learning apache spark, Most of the code has written in scala (I guess 75%). So, right now I'm thinking which language should I learn, Python or Scala? Any suggestions? 
+https://building.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/
+http://spark.apache.org/",0,true,1,,,,,,
+,,,,,,,,UghvyWHLySxmUHgCoAEC.8MnH2dD_B_n8NF48CdE0eg,Siraj Raval,1 year ago,1496308612793,python,0
+Ugi01fvuN1XdUXgCoAEC,Ritesh Sonavane,1 year ago,1496308611825,Great Video!,0,true,1,,,,,,
+,,,,,,,,Ugi01fvuN1XdUXgCoAEC.8MmJz0Prr1g8NF4UgKpDq6,Siraj Raval,1 year ago,1496308613278,thanks!,0
+UghDwiAwa5c4WngCoAEC,Alex Morrison,1 year ago,1496308611837,"Why cant i install the speech recognition. Thats dope, hook me up 
+
+pip install cmu_sphinx4  
+Could not find a version that satisfies the requirement cmu_sphinx4 (from versions: )
+No matching distribution found for cmu_sphinx4",0,true,3,,,,,,
+,,,,,,,,UghDwiAwa5c4WngCoAEC.8Memw0TA2S08Mf2PgfSZ4z,Alex Morrison,1 year ago,1496308612818,Why are you using cum4 instead of pocket sphinx. I could download pocket fine with pip. Is pocket not accurate?,0
+,,,,,,,,UghDwiAwa5c4WngCoAEC.8Memw0TA2S08Mfm6YWsXEv,Siraj Raval,1 year ago,1496308612825,try http://www.sphinx-doc.org/en/1.4.9/install.html,0
+,,,,,,,,UghDwiAwa5c4WngCoAEC.8Memw0TA2S08MgnGmsWkHf,Alex Morrison,1 year ago,1496308612832,"That was a library on how to build documentation I think. In any case I have pocketsphinx working which seems more pragmatic because microphones and cell phones get along. Problem is that it is no where near accurate enough to be meaningful at this time.      
+import pocketsphinx
+for phrase in pocketsphinx.LiveSpeech(): print(phrase)
+
+Gibberish produced with enough accuracy to tell that its trying to work.",0
+UghzKcaU2er6CHgCoAEC,chicken,1 year ago,1496308611849,BUT WHAT ABOUT BUN-GENDER,0,true,2,,,,,,
+,,,,,,,,UghzKcaU2er6CHgCoAEC.8MeOYK95Lpj8MfmQPELlmS,Siraj Raval,1 year ago,1496308612513,lolwut,0
+,,,,,,,,UghzKcaU2er6CHgCoAEC.8MeOYK95Lpj8MfqI58jAjf,chicken,1 year ago,1496308612524,If you see a comment by me that's in caps lock or A E S T H E T  I C spacing it's best to just ignore it,0
+UggzECn8d-3-lXgCoAEC,Dan Shatzz,1 year ago,1496308611860,"I got the error:
+import numpy as np
+ImportError: No module named 'numpy'
+Can anyone help out?",0,true,4,,,,,,
+,,,,,,,,UggzECn8d-3-lXgCoAEC.8Mdw5fDLEAd8MeMFOgG7tm,Dan Shatzz,1 year ago,1496308612659,"Also, working with windows 10, if it matters",0
+,,,,,,,,UggzECn8d-3-lXgCoAEC.8Mdw5fDLEAd8MfZPpGTmVn,Pankaj Mondal,1 year ago,1496308612664,pip install numpy,0
+,,,,,,,,UggzECn8d-3-lXgCoAEC.8Mdw5fDLEAd8Mfo0m7bOhC,Siraj Raval,1 year ago,1496308612673,what Pankaj said,1
+,,,,,,,,UggzECn8d-3-lXgCoAEC.8Mdw5fDLEAd8Mg43AlH69y,Dan Shatzz,1 year ago,1496308612729,"When I try to do pip install numpy, it tells me "" Fatal error in launcher: Unable to create process using '""' """,0
+Ugj4NXAmC0IduXgCoAEC,Aadhi Nana Murali,1 year ago,1496308611872,So Glad I found this channel! :D,0,true,1,,,,,,
+,,,,,,,,Ugj4NXAmC0IduXgCoAEC.8MdgkmGQZbO8Mfo1K6ZQCU,Siraj Raval,1 year ago,1496308612774,yay!,0
+Ugio66GOT0wo6ngCoAEC,Flyz Channel,1 year ago,1496308611890,what is the IDE recommended for python?,0,true,2,,,,,,
+,,,,,,,,Ugio66GOT0wo6ngCoAEC.8MctKTrFZmz8Mfog_8_hG2,Siraj Raval,1 year ago,1496308612546,PyCharm,1
+,,,,,,,,Ugio66GOT0wo6ngCoAEC.8MctKTrFZmz8MhaTPXiB1u,Flyz Channel,1 year ago,1496308612549,thanks!,0
+Ugh2B4YuX_ooSXgCoAEC,mucgake,1 year ago,1496308611904,but what about Atom,0,true,1,,,,,,
+,,,,,,,,Ugh2B4YuX_ooSXgCoAEC.8MbE0_8cQP58MfozfSnbA-,Siraj Raval,1 year ago,1496308612616,atom is ok,0
+Ugjl2F01Bln7AXgCoAEC,Daniele Cannarsa,1 year ago,1496308611916,thank you guy!,0,true,1,,,,,,
+,,,,,,,,Ugjl2F01Bln7AXgCoAEC.8MZ5V633SwF8Mfs6oUl2RJ,Siraj Raval,1 year ago,1496308612744,you're welcome,0
+Ugi1L-uOfChgMHgCoAEC,Spanish Music Translations,1 year ago,1496308611933,"Hi I'm getting this when i do  $ python3 demo.py
+
+Traceback (most recent call last):
+  File ""main.py"", line 1, in <module>
+    from sklearn import tree
+  File ""/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/sklearn/__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/sklearn/base.py"", line 10, in <module>
+    from scipy import sparse
+ImportError: No module named 'scipy'
+
+or if i just do $ python demo.py 
+i get:
+
+Traceback (most recent call last):
+  File ""demo.py"", line 1, in <module>
+    from sklearn import tree
+ImportError: No module named sklearn
+
+I followed all the steps in the video, could someone help me out ?",0,true,1,,,,,,
+,,,,,,,,Ugi1L-uOfChgMHgCoAEC.8MN-ZMzYwLo8MOnB4iq6Kl,Siraj Raval,1 year ago,1496308613229,pip install sklearn,1
+UggVBI_vKkDl4HgCoAEC,Adam -亚当-,1 year ago,1496308615381,Hi even using the code on the github (demo) I am getting the problem ImportError: No module named sklearn. Pretty sure I installed pip :(,0,true,6,,,,,,
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MK4CtfUux-,Adam -亚当-,1 year ago,1496308616248,"ah think i fixed it, I have multiple pythons :S Will stick with Python3 for now. Now time to figure out more on these scikit models",0
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MMyjHve_gZ,Spanish Music Translations,1 year ago,1496308616252,"I have the same problem, how did you fix it?",0
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MNfHNZCCbF,Adam -亚当-,1 year ago,1496308616261,"hey dude - you may need to try the pip3 command. So same thing, just add a 3. Let me know how you get on.",0
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MOBwl8uPQn,Spanish Music Translations,1 year ago,1496308616267,"Yes its working now, thank you very much!! :)",1
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MOp_vArFpn,Siraj Raval,1 year ago,1496308616273,glad you got it working,1
+,,,,,,,,UggVBI_vKkDl4HgCoAEC.8MJlJEw062N8MgOpnBulX4,Lazare M,1 year ago,1496308616281,I got the same problem how did you do to fix it exactly ?,0
+UggsjFADJq46v3gCoAEC,Edgar Sánchez,1 year ago,1496308615392,Can't install SciPy on Windows!!!! :@,0,true,2,,,,,,
+,,,,,,,,UggsjFADJq46v3gCoAEC.8MHrpDRFC8F8MNptOa4PhN,Emin Vergil,1 year ago,1496308616403,u can install .whl,0
+,,,,,,,,UggsjFADJq46v3gCoAEC.8MHrpDRFC8F8MOradX_bpM,Siraj Raval,1 year ago,1496308616410,this will help https://www.scipy.org/install.html,0
+Ugjg83vEk52c13gCoAEC,Alexander Herzog,1 year ago,1496308615401,haha you're awesome! Cheers from Germany :D,0,true,1,,,,,,
+,,,,,,,,Ugjg83vEk52c13gCoAEC.8MBqp9_i1Ul8MOwNX-FvDP,Siraj Raval,1 year ago,1496308616294,thanks Alexander! I love Germany,0
+UgjSPUziYXhygHgCoAEC,hatvika vlogger,1 year ago,1496308615413,Hi Siraj.i am learning programming languages.what About the Ds position in india.,0,true,1,,,,,,
+,,,,,,,,UgjSPUziYXhygHgCoAEC.8MBQevtR7q78MOwcc4RDOI,Siraj Raval,1 year ago,1496308616181,India is rising fast. Lots of incredible developers in India and you can make a huge impact from there.,1
+UggkNTTGBwbh63gCoAEC,Goutam Venkatesh,1 year ago,1496308615425,"Why am I getting this error?
+
+Traceback (most recent call last):
+  File ""demo.py"", line 1, in <module>
+    from sklearn import tree
+  File ""/home/goutam/.local/lib/python2.7/site-packages/sklearn/__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""/home/goutam/.local/lib/python2.7/site-packages/sklearn/base.py"", line 10, in <module>
+    from scipy import sparse
+ImportError: No module named scipy",0,true,2,,,,,,
+,,,,,,,,UggkNTTGBwbh63gCoAEC.8M8Tjbawrou8MEpuXHoSsI,Elekhyr,1 year ago,1496308616465,Are you on Windows ?,0
+,,,,,,,,UggkNTTGBwbh63gCoAEC.8M8Tjbawrou8MOy0GMrnhB,Siraj Raval,1 year ago,1496308616473,run 'pip install scipy',0
+Ugi0r-Rf-AVv5HgCoAEC,Alex Leiva,1 year ago,1496308615441,"""Github is the new Résumé"" I'm stealing that one from you!",1,true,1,,,,,,
+,,,,,,,,Ugi0r-Rf-AVv5HgCoAEC.8M7yrrh-OPB8MOyFy6T9v1,Siraj Raval,1 year ago,1496308616489,"woot! i am open sourcing that phrase, hope it helps.",1
+UgiijhRTporHpHgCoAEC,Ramzi Doughan,1 year ago,1496308615457,All I get is errors running on windows... dependencies are a nightmare on this platform no wonder you hate windows! btw though tensorflow just released official install for windows machines late November 2016.  It's obviously not ready... I have to install obscene amounts of unofficial wheels. anyone have success on Win platform using sklearn/tflearn/tensorflow?,0,true,1,,,,,,
+,,,,,,,,UgiijhRTporHpHgCoAEC.8M1pG0anzkp8M6qJ_VY2rh,Siraj Raval,1 year ago,1496308616587,right? they did. I'll look for a better way to let you run code without dependency hell,0
+UgjtyDA9rFCk7ngCoAEC,alex pena,1 year ago,1496308615469,shout out to siraj he that dude for this python tutorial real talk!!!!!!,0,true,1,,,,,,
+,,,,,,,,UgjtyDA9rFCk7ngCoAEC.8Lw9TkdRij18M6u0TBuDG4,Siraj Raval,1 year ago,1496308616199,thanks Alex!,0
+UggEcfzhBwmqhngCoAEC,Mr Pernickety,1 year ago,1496308615480,Thank you very much for this.,0,true,1,,,,,,
+,,,,,,,,UggEcfzhBwmqhngCoAEC.8LraA8_VSOp8M6wtL4JZ3U,Siraj Raval,1 year ago,1496308616568,anytime,0
+UggmyAoHLGQ-oXgCoAEC,Ashish Patel,1 year ago,1496308615492,"Great work Siraj, learning with humor is best can be done!!!",2,true,1,,,,,,
+,,,,,,,,UggmyAoHLGQ-oXgCoAEC.8LpO-cBTK8y8LpolU36i1y,Siraj Raval,1 year ago,1496308616441,thanks Ashish!,0
+UggXLfEUtMgvIngCoAEC,Guardian SPS,1 year ago,1496308615504,thanx for this tut,0,true,1,,,,,,
+,,,,,,,,UggXLfEUtMgvIngCoAEC.8LmijewSa7L8LppWsbP4ym,Siraj Raval,1 year ago,1496308616535,anytime,0
+Ughpj-n_z9Ga0XgCoAEC,DE-FACTOR [Facts and Mythbusting],1 year ago,1496308615515,hey man you told you will use python3 but the syntax is of python2,0,true,1,,,,,,
+,,,,,,,,Ughpj-n_z9Ga0XgCoAEC.8LkXd3HAexU8Lpq2P5dRSj,Siraj Raval,1 year ago,1496308616319,both work,0
+Uggq-edvbqc8lXgCoAEC,DE-FACTOR [Facts and Mythbusting],1 year ago,1496308615528,how are algorithms and data science related? are there algorithms based on data science or algorithms used for mining and observing data?,0,true,2,,,,,,
+,,,,,,,,Uggq-edvbqc8lXgCoAEC.8LkVJ11KYwS8Lpq7OdzZbH,Siraj Raval,1 year ago,1496308616113,algorithms are strategies to solve a problem. data science is a field where we use data to make discoveries using algorithms,0
+,,,,,,,,Uggq-edvbqc8lXgCoAEC.8LkVJ11KYwS8Lptqlj0bUB,DE-FACTOR [Facts and Mythbusting],1 year ago,1496308616123,Sirajology thanks man you da MVP,0
+UggMCmYGOHHzqXgCoAEC,Mohit Rathore,1 year ago,1496308615540,Best Tutorial Ever!,0,true,1,,,,,,
+,,,,,,,,UggMCmYGOHHzqXgCoAEC.8LfQx9WVKML8LpswmdjNfF,Siraj Raval,1 year ago,1496308616089,thanks Mohit!,0
+UgjYO9drFGBJTHgCoAEC,Daniel Muriithi,1 year ago,1496308615553,I find this series both educative and hilarious..Your a genius Sirajology,0,true,2,,,,,,
+,,,,,,,,UgjYO9drFGBJTHgCoAEC.8LSWfKlYrp68LYqDuMVclZ,Siraj Raval,1 year ago,1496308616510,Thanks Daniel :),0
+,,,,,,,,UgjYO9drFGBJTHgCoAEC.8LSWfKlYrp68LYtXrdT48O,Daniel Muriithi,1 year ago,1496308616520,Just one question..I've been following your data series which by the way is so awesome..but i got a tiny little problem..my textblob application needs nltk which really bugs me during installation..This is seriously pissing me off..any help please,0
+UghiZdumhCSAS3gCoAEC,Matthew Felgate,1 year ago,1496308615564,Why is the dependency named skikit-learm  but when you import t in code its called sklearn?,0,true,1,,,,,,
+,,,,,,,,UghiZdumhCSAS3gCoAEC.8LOznaKg6uz8LYscChSUsO,Siraj Raval,1 year ago,1496308616212,weird naming convention,0
+Uggoqd47r7vyrngCoAEC,Filip Široký,1 year ago,1496308615576,Keep it up mate! Thank you!,0,true,1,,,,,,
+,,,,,,,,Uggoqd47r7vyrngCoAEC.8LLmEEes9gx8LYsxiLjIAa,Siraj Raval,1 year ago,1496308616306,thanks Filip!,0
+UggeAoM6YujxQHgCoAEC,FsimulatorX,1 year ago,1496308615588,"How can I do this on Windows 10 64bit? I have tried but have had no success,",0,true,2,,,,,,
+,,,,,,,,UggeAoM6YujxQHgCoAEC.8LHyWW1rJdC8LLlgCEep_f,Siraj Raval,1 year ago,1496308616890,dual boot ubuntu,0
+,,,,,,,,UggeAoM6YujxQHgCoAEC.8LHyWW1rJdC8Lf91C2AXjy,むく,1 year ago,1496308616898,Or use Virtual Box together with Ubuntu.,0
+UggPEiSnC9UOq3gCoAEC,Hannah Banana,1 year ago,1496308615610,love your videos! please make more!!,0,true,1,,,,,,
+,,,,,,,,UggPEiSnC9UOq3gCoAEC.8LASu78N66J8LLpNMjLoUj,Siraj Raval,1 year ago,1496308616429,will do!,0
+UgiijHAeXrOgJXgCoAEC,Dr. Saufproblem,1 year ago,1496308615625,"I really like to follow through with this, but I already spent countless hours trying to fix ""ImportError: DLL load failed"" when trying to get ""from sklearn import tree"" running. Gawsh.",0,true,2,,,,,,
+,,,,,,,,UgiijHAeXrOgJXgCoAEC.8L1MklBVPVV8L1MnLJZp8k,Dr. Saufproblem,1 year ago,1496308616162,Otherwise great content.,0
+,,,,,,,,UgiijHAeXrOgJXgCoAEC.8L1MklBVPVV8L1OCpvISg7,Siraj Raval,1 year ago,1496308616167,use the numpy+MKL package see this http://stackoverflow.com/questions/30766274/error-importing-scikit-learn-modules,0
+UgiZixk4ApY-K3gCoAEC,AssasinMilo,1 year ago,1496308620557,"Your videos are great, I don't know why you don't have more views. You should try to get featured on some of the bigger free education channels, I remember hearing Khan academy was looking for creators maybe you could get featured on their website like crash course is.  They have a lot of Java tutorials on Khan academy but I have yet to see anything on ML, data science or Python.",0,true,1,,,,,,
+,,,,,,,,UgiZixk4ApY-K3gCoAEC.8Kzb9kt9VA68KzduGCADp5,Siraj Raval,1 year ago,1496308621984,Thanks so much! I actually applied for the khan academy creator thing and didn't get accepted. i'd love to get featured on KA. Some day,6
+UgjvfQFTXz4R4ngCoAEC,William Langdon,1 year ago,1496308620568,"When I tried to run the .py, I got ""   from sklearn import tree
+ File ""C:\Python27\lib\site-packages\sklearn\__init__.py"", line 57, in <module>
+   from .base import clone
+ File ""C:\Python27\lib\site-packages\sklearn\base.py"", line 9, in <module>
+   import numpy as np
+mportError: No module named numpy""",0,true,2,,,,,,
+,,,,,,,,UgjvfQFTXz4R4ngCoAEC.8KvMAHIvTVR8KvTz8y5fep,William Langdon,1 year ago,1496308621926,"So, I have Python, have Pip, I have installed scikit-learn with pip, and have installed numpy with pip. Now the issue here is that I need scipy, but when I do ""pip install scipy"" I get ""Failed building wheel for scipy"" and ""Failed cleaning build dir for scipy"" and ""failed with error code 1""",0
+,,,,,,,,UgjvfQFTXz4R4ngCoAEC.8KvMAHIvTVR8KzgUrdDnRT,Siraj Raval,1 year ago,1496308621930,try 'sudo pip install scipy' also try 'pip3 install scipy',0
+UghSTZWL-L1np3gCoAEC,danny iskandar,1 year ago,1496308620577,"amazing Siraj! Love it. I just have difficulty in connecting the sublime text with mac terminal. when i tun the demo.py on terminal, this is what i get: /Library/Frameworks/Python.framework/Versions/3.5/Resources/Python.app/Contents/MacOS/Python: can't open file 'demo.py': [Errno 2] No such file or directory",1,true,4,,,,,,
+,,,,,,,,UghSTZWL-L1np3gCoAEC.8KrXqrFB2ns8KrZqQqlWyt,danny iskandar,1 year ago,1496308621900,nevermind i got it:),0
+,,,,,,,,UghSTZWL-L1np3gCoAEC.8KrXqrFB2ns8KziVqr8FcN,Siraj Raval,1 year ago,1496308621902,glad to hear you got it,0
+,,,,,,,,UghSTZWL-L1np3gCoAEC.8KrXqrFB2ns8f3xllURdvy,TheMadiEsc,1 month ago,1525166221907,What did you do to solve the problem?,0
+,,,,,,,,UghSTZWL-L1np3gCoAEC.8KrXqrFB2ns8gUMjTmzL4G,Erin Khoo,1 week ago,1527239821912,Was probably trying to execute demo.py in the user directory when demo.py was not in the user directory (had to navigate to folder where it was in Terminal) OR didn't make a copy of demo.py locally.,0
+UggaIVdtVliA-ngCoAEC,Bipin Oli,1 year ago,1496308620583,but what about Vim??,1,true,1,,,,,,
+,,,,,,,,UggaIVdtVliA-ngCoAEC.8KrVQY866C-8KziWKIcHDD,Siraj Raval,1 year ago,1496308621995,;),0
+UgiAiJRZ8fUNX3gCoAEC,nexus 0,1 year ago,1496308620593,😁,0,true,1,,,,,,
+,,,,,,,,UgiAiJRZ8fUNX3gCoAEC.8KoibzOy54i8Kzk1khZbeO,Siraj Raval,1 year ago,1496308622021,:D,1
+Ugh32Ue2_gkTe3gCoAEC,SwissMyth,1 year ago,1496308620602,Great videos!  Glad I discovered you.,0,true,1,,,,,,
+,,,,,,,,Ugh32Ue2_gkTe3gCoAEC.8KmVBxQBGkq8Kzl7oASoa2,Siraj Raval,1 year ago,1496308621777,thx me 2,0
+UghtvEylP4HZO3gCoAEC,Thuy Vuong,1 year ago,1496308620612,Hi I am having problems installing pip on the command line python -m pip install -U pip it says invalid syntax what am I doing wrong?,0,true,1,,,,,,
+,,,,,,,,UghtvEylP4HZO3gCoAEC.8KlSNiNI6ec8Kzlq4Go777,Siraj Raval,1 year ago,1496308621818,see this https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/,0
+Ugj17OYG333SKHgCoAEC,ATIF ADIB,1 year ago,1496308620621,drop a link for cmu_sphinx4 package please...,0,true,1,,,,,,
+,,,,,,,,Ugj17OYG333SKHgCoAEC.8KjR0mK-8T-8KzmGvA94Sg,Siraj Raval,1 year ago,1496308621763,similar https://github.com/cmusphinx/pocketsphinx-python,0
+UghfP4n8s47yIngCoAEC,Rodrigo Dias,1 year ago,1496308620626,"Hello, I know this video is not about transcribing audio, but I'm interested in it and could not find the lib cmu_sphinx4 only sphinx, but she does not have to transcribe function
+You can make a video about or pass the link lib?
+Thanks",0,true,1,,,,,,
+,,,,,,,,UghfP4n8s47yIngCoAEC.8KdV6HvgygV8KhXu7mN_vT,Siraj Raval,1 year ago,1496308621845,try this one https://pypi.python.org/pypi/SpeechRecognition/,1
+UgjRKFriShwC2XgCoAEC,Vitor Luiz,1 year ago,1496308620636,"Very good video, congrats ;) Straight at the point, perfect!",0,true,1,,,,,,
+,,,,,,,,UgjRKFriShwC2XgCoAEC.8K_7ifASAgr8Kh_JRQsOX0,Siraj Raval,1 year ago,1496308621836,thank you!,0
+UginXOZzdwZCDngCoAEC,Paul Vance,1 year ago,1496308620644,"you're really smart, great job on your video's",0,true,1,,,,,,
+,,,,,,,,UginXOZzdwZCDngCoAEC.8KUcp8LgK_T8Kh_oaQVpLT,Siraj Raval,1 year ago,1496308621854,thank you!!,0
+UgjHK4449CaE4ngCoAEC,amal saadallah,1 year ago,1496308620651,"Hi, I am finding difficulties in upgrading scikit-learn0.17 to 0.18 version on windows. How can I do it?",0,true,2,,,,,,
+,,,,,,,,UgjHK4449CaE4ngCoAEC.8KR4kWi60Uk8KRK22oQTfc,Siraj Raval,1 year ago,1496308621877,try pip install --user --upgrade scikit-learn==0.18,0
+,,,,,,,,UgjHK4449CaE4ngCoAEC.8KR4kWi60Uk8KSTLuqKE2o,amal saadallah,1 year ago,1496308621880,Thanks a lot that pretty solves the problem ;),0
+UgifRJ9PRxCZQXgCoAEC,NumericalVideos,1 year ago,1496308620661,"Hi Siraj, how should we test our classifiers?  I feel like we need test & trial subsets, but we only have 11 data points, which may not be enough to fit a great classifier.  Thoughts?
+
+Also, thanks for the great videos!",0,true,1,,,,,,
+,,,,,,,,UgifRJ9PRxCZQXgCoAEC.8KO2EasGbrZ8KRKaXJNpuA,Siraj Raval,1 year ago,1496308621748,"use the last 3 data points as testing data. you're right it's not enough. find a CSV file of numerical yet simple data, train and test on that! thanks",0
+Uggb_oSghZsnUHgCoAEC,Swanand Kulkarni,1 year ago,1496308620669,"Hey I really liked your video. It was really helpful. 
+Can I ask for a little favor, could you please help us with Python Kivy also. Because there are not so good videos about it, and some of us are struggling with it. From installation package to advance level, could you make a educational video about it, that would be really helpful. 
+Thank you.",0,true,1,,,,,,
+,,,,,,,,Uggb_oSghZsnUHgCoAEC.8KNrD4eTEH78KRKgjvqHUX,Siraj Raval,1 year ago,1496308621952,thanks Swanand! i will put that in the queue for the future,0
+Ugh583V5Ips2d3gCoAEC,Raja Ram,1 year ago,1496308620679,if could stop the monkey dance if would be great...,0,true,1,,,,,,
+,,,,,,,,Ugh583V5Ips2d3gCoAEC.8KL8IXsVtnF8KRLNNvntlF,Siraj Raval,1 year ago,1496308621809,lol wut,0
+Ugg_jjf09pyCNngCoAEC,konkoism,1 year ago,1496308620690,But what about vi?,1,true,1,,,,,,
+,,,,,,,,Ugg_jjf09pyCNngCoAEC.8KK_z6PwGLr8KRLQtMjr5C,Siraj Raval,1 year ago,1496308621865,nooo,1
+UgiKAmPbVQRdnngCoAEC,Andrew Humphreys,1 year ago,1496308620697,You.. only.. using single quotes??!?!!?!,0,true,2,,,,,,
+,,,,,,,,UgiKAmPbVQRdnngCoAEC.8KJnfSVG1Lh8KRLnGnjG8u,Siraj Raval,1 year ago,1496308622033,yes :),0
+,,,,,,,,UgiKAmPbVQRdnngCoAEC.8KJnfSVG1Lh8KRPFxTYqPd,Andrew Humphreys,1 year ago,1496308622039,"W-what is w-wrong with you.
+
+Use double quotes, then singles inside, and '"" for both.. There is one other option I think..
+Though in all honesty, I hope I am not coming off too serious about quotations..
+
+I should probably get around to actually watching these videos, and following along..",0
+UgiP-2t3o8t-AngCoAEC,Andrew Humphreys,1 year ago,1496308620707,"Fancy text editors, we all make fun of them, (most) as being bad for beginners but they are so heavenly.",0,true,2,,,,,,
+,,,,,,,,UgiP-2t3o8t-AngCoAEC.8KJnOZ2llXs8KQ5-gPx2yh,Wahed Mangal,1 year ago,1496308621940,Sublime is pretty straight forward without plugins. Only some syntax highlighting.,0
+,,,,,,,,UgiP-2t3o8t-AngCoAEC.8KJnOZ2llXs8KRLp5f9mbg,Siraj Raval,1 year ago,1496308621945,they can be,0
+UgilI2STlgr4DngCoAEC,MrMarkDerry,1 year ago,1496308620718,"Thanks for the Vid , nice and fast paced however it's left me with a few Q's
+
+Should not all the X list be triples set in [ ] ?
+After the third set there are no [ ]  !
+and shouldn't there be another closing ] at the end of the X= definition (there were two at the beginning...
+
+Last point
+Your print is off the bottom of the screen but I figured it to be
+print prediction
+
+However this gives me:-
+
+
+C:\Python34>python demo.py
+  File ""demo.py"", line 14
+    print prediction
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Doh !",0,true,2,,,,,,
+,,,,,,,,UgilI2STlgr4DngCoAEC.8KGt89G_o7l8KGukWlR33V,MrMarkDerry,1 year ago,1496308621792,"I corrected all the triplet errors and [ ]
+I used 
+print (prediction) 
+at the end.
+
+The final hurdle is:-
+C:\Python34>python demo.py
+Traceback (most recent call last):
+  File ""demo.py"", line 1, in <module>
+    from sklearn import tree
+ImportError: No module named 'sklearn'
+
+So I checked the collection of this and notice a few errors...
+
+C:\Python34>pip install -U scikit-learn
+Collecting scikit-learn
+  Using cached scikit-learn-0.18.tar.gz
+Installing collected packages: scikit-learn
+  Running setup.py install for scikit-learn ... error
+    Complete output from command c:\python34\python.exe -u -c ""import setuptools
+, tokenize;__file__='C:\\DOCUME~1\\Mark\\LOCALS~1\\Temp\\pip-build-mkc02d5y\\sci
+kit-learn\\setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read
+().replace('\r\n', '\n'), _file_, 'exec'))"" install --record C:\DOCUME~1\Mark\
+LOCALS~1\Temp\pip-5t3jb9qd-record\install-record.txt --single-version-externally
+-managed --compile:
+    Partial import of sklearn during the build process.
+    Traceback (most recent call last):
+      File ""C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-build-mkc02d5y\scikit-learn\setup
+.py"", line 172, in get_numpy_status
+        import numpy
+    ImportError: No module named 'numpy'
+    Traceback (most recent call last):
+      File ""C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-build-mkc02d5y\scikit-learn\setup
+.py"", line 152, in get_scipy_status
+        import scipy
+    ImportError: No module named 'scipy'
+    Traceback (most recent call last):
+      File ""<string>"", line 1, in <module>
+      File ""C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-build-mkc02d5y\scikit-learn\setup
+.py"", line 305, in <module>
+        setup_package()
+      File ""C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-build-mkc02d5y\scikit-learn\setup
+.py"", line 265, in setup_package
+        .format(numpy_req_str, instructions))
+    ImportError: Numerical Python (NumPy) is not installed.
+    scikit-learn requires NumPy >= 1.6.1.
+    Installation instructions are available on the scikit-learn website: http://
+scikit-learn.org/stable/install.html
+
+
+    ----------------------------------------
+Command ""c:\python34\python.exe -u -c ""import setuptools, tokenize;__file__='C:\
+\DOCUME~1\\Mark\\LOCALS~1\\Temp\\pip-build-mkc02d5y\\scikit-learn\\setup.py';exe
+c(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n')
+, _file_, 'exec'))"" install --record C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-5t3jb9
+qd-record\install-record.txt --single-version-externally-managed --compile"" failed with error code 1 in C:\DOCUME~1\Mark\LOCALS~1\Temp\pip-build-mkc02d5y\scikit-learn\",0
+,,,,,,,,UgilI2STlgr4DngCoAEC.8KGt89G_o7l8KRMLO6QyF0,Siraj Raval,1 year ago,1496308621796,scikit-learn.org/stable/install.html,0
+UgguKcd1oeqLiXgCoAEC,Tamas Tamas,1 year ago,1496308620737,"Hi Siraj, thanks for the awesome video. Created the code on Github, its my second project! 
+https://github.com/TommySoft/Gender-Classifier",0,true,1,,,,,,
+,,,,,,,,UgguKcd1oeqLiXgCoAEC.8KG_Rb7RHLY8KRMMJZC5TN,Siraj Raval,1 year ago,1496308622058,thanks Tamas great job,0
+UgixKTfHLEpdOHgCoAEC,AISHWARYA SINGH,1 year ago,1496308623506,superb video!,0,true,1,,,,,,
+,,,,,,,,UgixKTfHLEpdOHgCoAEC.8KGY8ONz_DM8KRMMpW3fOb,Siraj Raval,1 year ago,1496308624235,you are superb,0
+Ugii2H_an47eZ3gCoAEC,Iago Martins,1 year ago,1496308623514,"Congratulations for your videos, they are really good for people like me, who are beginning to learn this amazing language!! I have though some questions: How did you ran it, without the numpy and scipy? I did what you did and still couldn't actually run the program, because I didn't have both packages, and to install scipy I had also to dig a lot, since it wouldn't be installed with pip. By the way, why do I always need to use python -m to use pip, and when I go in to Python (type python and 'enter' in prompt) I can't use pip? Thank you!",0,true,5,,,,,,
+,,,,,,,,Ugii2H_an47eZ3gCoAEC.8KGPFAZ2ese8KGv2Rl_CWN,MrMarkDerry,1 year ago,1496308624608,"I had the same problem - with scipy & numpy
+How did you get them ?",0
+,,,,,,,,Ugii2H_an47eZ3gCoAEC.8KGPFAZ2ese8KRMQRM_1Ef,Siraj Raval,1 year ago,1496308624617,thanks! dont enter python just enter pip first. pip install scipy. like that :),0
+,,,,,,,,Ugii2H_an47eZ3gCoAEC.8KGPFAZ2ese8KRNZjEi5Ab,Iago Martins,1 year ago,1496308624624,"I tried to, but it didn't work well, and I did exactly what you did, so now i just use ""py command"" and works fine. Actually, it was not the last time that i followed what you did to start a new code and it didn't work out. With the Twitter sentiment app (luckly actually) my encoding didn't let me make the code as you did, so I had to search and learn a little about encoding and decoding, basic stuffs that I didn't know a lot before.
+Anyway, thank you very much for your attention.",0
+,,,,,,,,Ugii2H_an47eZ3gCoAEC.8KGPFAZ2ese8KROMRk3k-L,Iago Martins,1 year ago,1496308624630,"MrMarkDerry, I downloaded it from internet actually, there is a website with a LOT of packages, I will search and share it here",0
+,,,,,,,,Ugii2H_an47eZ3gCoAEC.8KGPFAZ2ese8KROQ-u-WTU,Iago Martins,1 year ago,1496308624639,http://www.lfd.uci.edu/~gohlke/pythonlibs/,0
+UgiDTmDF94Eny3gCoAEC,Andrew Maisey,1 year ago,1496308623522,"'But what about Emacs'! LOL. If that it the treatment Emacs users get, I would love to see the thrashing a Vi user would get",3,true,1,,,,,,
+,,,,,,,,UgiDTmDF94Eny3gCoAEC.8KFXfKSD-9f8KRMUqNu7mn,Siraj Raval,1 year ago,1496308624566,they would burn,2
+UghPc1Tf5TlGFXgCoAEC,pseudokool,1 year ago,1496308623533,"Hey Siraj, great job going on here. Can recommend a book or two, on learning machine leaning/natural lang processing, basics onwards?!?",0,true,1,,,,,,
+,,,,,,,,UghPc1Tf5TlGFXgCoAEC.8KDVRgUtiT28KRMhChgNP0,Siraj Raval,1 year ago,1496308624299,thanks! Machine Learning Yearning by Andrew ng,0
+Uggl1CXqjNQsingCoAEC,Trade themarket,1 year ago,1496308623543,"Sirajology Can you explain more the structure of the each line code? For example why clf, why clf.fit not clf.abc or abc.fit, why not ( Y , X ) but ( X , Y). I'm totally new to this stuff. You can explain more or give the document or reading link for more information. Thanks man! Your video is awesome, I got time, you give me motivation. Thank you, thank you.",0,true,1,,,,,,
+,,,,,,,,Uggl1CXqjNQsingCoAEC.8K8Ebg4GgBT8K8cc8GL5wi,Siraj Raval,1 year ago,1496308624212,"clf is the name that we gave our classifier, we could've named it abc or isdjfojs but we chose clf since it was self descriptive. clf is short for classifier. the order of the arguments was decided by the author of the library we used, it couldve easily been switched. thanks for watching! see the github link for more info",2
+UgjmOBailMY3ingCoAEC,Michał Karnicki,1 year ago,1496308623552,"Hi Siraj! I just wanted to say hi and thank you for the video(s). Came here from HN, this was my first video of yours to watch and I already subscribed. You're hilarious and the video is informative! Thank you :)",1,true,1,,,,,,
+,,,,,,,,UgjmOBailMY3ingCoAEC.8K7hPPUlQ2u8K8cfYxNxsr,Siraj Raval,1 year ago,1496308624248,thanks so much! glad to have you on board,0
+UghBmRv4ptspSHgCoAEC,Kyanite Processing,1 year ago,1496308623557,"== RESTART: C:\Users\Josh\AppData\Local\Programs\Python\Python35-32\demo.py ==
+Traceback (most recent call last):
+  File ""C:\Users\Josh\AppData\Local\Programs\Python\Python35-32\demo.py"", line 1, in <module>
+    from sklearn import tree
+  File ""C:\Users\Josh\AppData\Local\Programs\Python\Python35-32\lib\site-packages\sklearn\__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""C:\Users\Josh\AppData\Local\Programs\Python\Python35-32\lib\site-packages\sklearn\base.py"", line 10, in <module>
+    from scipy import sparse
+  File ""C:\Users\Josh\AppData\Local\Programs\Python\Python35-32\lib\site-packages\scipy\__init__.py"", line 61, in <module>
+    from numpy._distributor_init import NUMPY_MKL  # requires numpy+mkl
+ImportError: cannot import name 'NUMPY_MKL'
+
+
+What does this mean? ive got sklearn numpy and scipy, idk what NUMPY-MKL means xD",0,true,2,,,,,,
+,,,,,,,,UghBmRv4ptspSHgCoAEC.8K6UobMr4wY8K8cj__l-8O,Siraj Raval,1 year ago,1496308624180,http://stackoverflow.com/questions/37267399/importerror-cannot-import-name-numpy-mkl,1
+,,,,,,,,UghBmRv4ptspSHgCoAEC.8K6UobMr4wY8K8fqIkpd62,Kyanite Processing,1 year ago,1496308624189,"thanks! great YouTube channel btw, I started watching yesterday and it seems good :)",0
+UgjcN-4Qm0NUHXgCoAEC,Vel0city,1 year ago,1496308623567,"1) Sorry, but the comparison between Python and C++ is ridiculously stupid.
+2) Why vanilla Python and 32bit?? I suggest everyone to use Anaconda Python and perhaps Jupiter or PyCharm instead.
+3) If you're a begginer to Python/programming in general, do not start here. Almost nothing is explained at the minimum level.
+You're entertaining, but that's not the only thing that makes a great teacher. :)",0,true,2,,,,,,
+,,,,,,,,UgjcN-4Qm0NUHXgCoAEC.8K5uLDHjGD68K8d7GG1GF2,Siraj Raval,1 year ago,1496308624089,"1) i wish i couldve added more points in there, fitting in just 1 for time 2) because anaconda is just another layer of abstraction to think about, could be confusing. and IDE's are too bloated, we just want to write <20 line scripts 3) i disagree thanks for the feedback",0
+,,,,,,,,UgjcN-4Qm0NUHXgCoAEC.8K5uLDHjGD68K8gPxXjp0k,Vel0city,1 year ago,1496308624097,"Yeah I definitely see the value in reducing the amount of frameworks/tools and going minimal, but some people might find things easier (especially begginers, which I imagine most people watching this are) so it's worth at least mentioning them.
+
+For the last thing, people will eventually need to learn the ""boring stuff"", and if they've started with all that, they're gonna have a harder time going back to basics. I know it's hard to see things from the perspective of a complete beginner, but you have to understand that ""complete begginer"" means that they don't know extremely basic things like what a for loop is. Would you still rather they go that route and learn just from your videos?
+
+There's a reason programming resources are a thing, if you could start with a hands-on project and get the same amount of value, everyone would be doing that. I'm all about doing fun stuff, but when we're talking extreme basics like what I mentioned, I do think that learning the fundamentals before you jump in is the way to go (actually learning them, not listening to a few sentences that kind of explain them).",0
+UgidY9VZ3T2MVngCoAEC,Amit Singh,1 year ago,1496308623576,"hey Siraj - great video.  I'm new to python and using the terminal.  For installing the dependencies, where in the terminal do we run pip install -U pip?  I've tried after calling python and also in my home directory.  I am seeing pip: command not found",0,true,2,,,,,,
+,,,,,,,,UgidY9VZ3T2MVngCoAEC.8K3ITuRN-RY8K8guOGbIg2,Siraj Raval,1 year ago,1496308624152,+Amit Singh thanks! See https://www.google.com/url?sa=t&source=web&rct=j&url=http://packaging.python.org/installing/&ved=0ahUKEwjbzc-6weLPAhVV7mMKHXoSDqcQFggeMAE&usg=AFQjCNE2YzQSRoUD3JrPlnuIDd1_WOq_kQ&sig2=03jRnvhde0SiLLjsyOPvUA,0
+,,,,,,,,UgidY9VZ3T2MVngCoAEC.8K3ITuRN-RY8R446nitS9r,Biranchi Narayan Nayak,1 year ago,1496308624158,"Try installing pip using the below command in terminal:
+$sudo easy_install pip",0
+UghNVrZHTIl8KXgCoAEC,Mantas Lukoševičius,1 year ago,1496308623586,"Hi, i did exactly what you said and got this error:
+$ python demo.py
+Traceback (most recent call last):
+  File ""demo.py"", line 1, in <module>
+    from sklearn import tree
+  File ""C:\Users\Mantas\AppData\Local\Programs\Python\Python35-32\lib\site-packages\sklearn\__init__.py"", line 57, in <module>
+    from .base import clone
+  File ""C:\Users\Mantas\AppData\Local\Programs\Python\Python35-32\lib\site-packages\sklearn\base.py"", line 9, in <module>
+    import numpy as np
+ImportError: No module named 'numpy'",0,true,1,,,,,,
+,,,,,,,,UghNVrZHTIl8KXgCoAEC.8K2jTpYARG18K8kT2mzAoh,Siraj Raval,1 year ago,1496308624259,run pip install numpy in terminal,0
+Ugia86S92U3GlHgCoAEC,Swaroop Pal,1 year ago,1496308623595,Just what I needed along with Deep learning videos. Thanks Siraj.,0,true,1,,,,,,
+,,,,,,,,Ugia86S92U3GlHgCoAEC.8K1ky7Vx5rr8K8l9FF1cqX,Siraj Raval,1 year ago,1496308624200,thanks Swaroop!,0
+UghM6kca9AaR5HgCoAEC,Sam Schrader,1 year ago,1496308623601,"Thank you for the awesome video!! great work!
+
+For my implementation GaussianNB() was the best classifier when feeding it one smaller person and one larger person.",0,true,1,,,,,,
+,,,,,,,,UghM6kca9AaR5HgCoAEC.8K1-F9OHVov8K8ls8t-WSt,Siraj Raval,1 year ago,1496308624288,"Thanks Sam, glad to hear you did the challenge. Awesome job",0
+UggsqPdZrGLS3XgCoAEC,Jordan Taylor,1 year ago,1496308623610,"Hey Siraj - great intro video!! Here is my code for the challenge if it's not too late.
+https://github.com/jtaylor32/ml-gender-classification",0,true,1,,,,,,
+,,,,,,,,UggsqPdZrGLS3XgCoAEC.8K0uK3N6uRH8K8lwvK9dNS,Siraj Raval,1 year ago,1496308624672,thanks for the submission Jordan!,0
+UghribuKOsksH3gCoAEC,prakashyadav008,1 year ago,1496308623618,for the challange can we use some different dataset.??,0,true,1,,,,,,
+,,,,,,,,UghribuKOsksH3gCoAEC.8K-TQE2Mske8K8mCzatnkV,Siraj Raval,1 year ago,1496308624696,sure thing,0
+UgiOoVUxew_HUXgCoAEC,prakashyadav008,1 year ago,1496308623627,ur videos are awesome dude..,0,true,1,,,,,,
+,,,,,,,,UgiOoVUxew_HUXgCoAEC.8K-R2m6PkHd8K8mDd9X5FU,Siraj Raval,1 year ago,1496308624718,thanks Prakash,0
+Ugh5q_ONNtZfQXgCoAEC,Armen Gharibian,1 year ago,1496308623635,on it!,0,true,1,,,,,,
+,,,,,,,,Ugh5q_ONNtZfQXgCoAEC.8JzeWRkKEzk8K8mVlEnwjh,Siraj Raval,1 year ago,1496308624682,dope,0
+Ugh7Stw1aXzy5XgCoAEC,Viet Nguyen,1 year ago,1496308623645,Thank you so much! It's my first time ever with python and it was so exciting even to just run the demo code!,0,true,1,,,,,,
+,,,,,,,,Ugh7Stw1aXzy5XgCoAEC.8Jz-bPQ5H2H8K8mwnewm94,Siraj Raval,1 year ago,1496308624312,dope!! glad to hear it Viet,0
+UggO9lK0J8jCn3gCoAEC,Deepak Ranganathan,1 year ago,1496308623653,Awesome !!,0,true,1,,,,,,
+,,,,,,,,UggO9lK0J8jCn3gCoAEC.8Jyyc9wMFU18K8mxY5AErW,Siraj Raval,1 year ago,1496308624657,thanks Deepak!,0
+UghOJPyB4A6OE3gCoAEC,Oron Culzac,1 year ago,1496308623662,Best Intro to DScience Video!!!!!,0,true,1,,,,,,
+,,,,,,,,UghOJPyB4A6OE3gCoAEC.8JyRPgSZuyF8K8mzv22dS5,Siraj Raval,1 year ago,1496308624726,Thanks Oron!!,0
+UgifhJIasTbFW3gCoAEC,Hellmut Matheus,1 year ago,1496308623669,dude you rock bro!,0,true,1,,,,,,
+,,,,,,,,UgifhJIasTbFW3gCoAEC.8JxWCELJ8s98K8nZ3FlY-I,Siraj Raval,1 year ago,1496308624224,thanks!!,0
+UgiFXxFKQTLfJngCoAEC,satya narayana,1 year ago,1496308625951,awesome man this is the type of course I was looking for,0,false,0,,,,,,
+UggIz3YVhIFTCHgCoAEC,Howard C,1 year ago,1496308625956,Great videos! Here's my forked repo: https://github.com/hchiam/gender_classification_challenge,0,false,0,,,,,,
+UggyAXq-_xjcpXgCoAEC,Fabrizio Rapelli,1 year ago,1496308625963,You rock man :D,1,false,0,,,,,,
+UggEBhGDxwOK2XgCoAEC,Pranav Reddy,1 year ago,1496308625968,"If anyone's following everything in the video like me, ""Hello World"" needs to be in parenthesis for python 3.",75,true,5,,,,,,
+,,,,,,,,UggEBhGDxwOK2XgCoAEC.8JtkHjY0_Gp8KGvB-Ux2dM,MrMarkDerry,1 year ago,1496308627332,print (prediction),5
+,,,,,,,,UggEBhGDxwOK2XgCoAEC.8JtkHjY0_Gp8Ml9uByo1US,Aditya Gupta,1 year ago,1496308627335,"for 3.5.4 use: print(""hello world"")
+for 2.X.X use: print ""hello world""
+
+when compiling with python just check the version you are using by entering:
+
+python -V
+
+if this is not 3.5.4, then check: 
+
+python3 -V
+
+if that does not show 3.5.4, then you either have not installed it or it is missing in the PATH.",10
+,,,,,,,,UggEBhGDxwOK2XgCoAEC.8JtkHjY0_Gp8Y5IqraLEeh,Invest,8 months ago,1506849427344,"Thank you sir! Just having 'print prediction' ended in ""invalid syntax"" for me",0
+,,,,,,,,UggEBhGDxwOK2XgCoAEC.8JtkHjY0_Gp8efIdqF2vhc,Joe Erndt,1 month ago,1525166227346,So we are getting an issue module not found,0
+,,,,,,,,UggEBhGDxwOK2XgCoAEC.8JtkHjY0_Gp8fc1lTgPJZn,franean,1 month ago,1525166227352,I am facing the same issue. Any suggestions?,0
+UggPaT9wJ2CPv3gCoAEC,Jeevith Hegde,1 year ago,1496308625976,"Hey Siraj! Thank you for the series and the humor!
+Here is my response to the gender classification challenge - https://github.com/jeev20/gender_classification_challenge",0,false,0,,,,,,
+UghopaMDXgnWt3gCoAEC,Shanan Dra,1 year ago,1496308625986,"stop doing cocaine, surreal raj",45,false,0,,,,,,
+UgizuUUR8uzbpngCoAEC,Shadman Rakeen,1 year ago,1496308625989,https://git.io/vPEgc,0,false,0,,,,,,
+UghjDZmZ9B0lungCoAEC,defenestrated23,1 year ago,1496308625997,"Born too late to explore the Earth
+Born too soon to explore the galaxy
+Born just in time to explore dank memes data",27,true,1,,,,,,
+,,,,,,,,UghjDZmZ9B0lungCoAEC.8JsQPIIDvP58ZJm5E6LhHM,That_one_guy,7 months ago,1509527827298,That's my life right now,1
+UgjBp3MfRV6Mr3gCoAEC,Kevin W,1 year ago,1496308626019,Hi Siraj! Thanks for all your videos! I'm a beginner and these have been extremely useful in learning python and data science. Here's what I have https://github.com/gnublet/gender_classification_challenge,0,false,0,,,,,,
+UghMASV4xt6OB3gCoAEC,David Valent,1 year ago,1496308626025,great video! when pt2?,0,false,0,,,,,,
+UghLKEc8VYlrLngCoAEC,Mmazzei92,1 year ago,1496308626032,https://github.com/Victor-Mazzei/ml-gender-python,0,false,0,,,,,,
+UgijjTo79P9t0XgCoAEC,Stefan B,1 year ago,1496308626041,Really cool you started to teach from the basics. To bad I'm on Windows and had to abandon trying it with a buch of errors,0,true,1,,,,,,
+,,,,,,,,UgijjTo79P9t0XgCoAEC.8JrioJtSJ0m8KDttl78lNU,Joshua Devlin,1 year ago,1496308627041,"The installation method he recommends is unnecessarily complex.  Download Anaconda's installed, it's much easier and is what we teach where I work at dataquest.io  - blatant self-promotion warning ;)",3
+UghNJcr88LDQsXgCoAEC,Davo2able,1 year ago,1496308626053,But what about emacs? 😂,0,true,1,,,,,,
+,,,,,,,,UghNJcr88LDQsXgCoAEC.8JrJp0NXf4l8JrTghpM0Bj,Siraj Raval,1 year ago,1496308627127,;),0
+UgjrZ3U1OX8y3ngCoAEC,Roy Cai,1 year ago,1496308626104,-__- No linting? I am calling PEP 8.,1,true,1,,,,,,
+,,,,,,,,UgjrZ3U1OX8y3ngCoAEC.8Jr3Tgzr2ZQ8JrTjTiPpkG,Siraj Raval,1 year ago,1496308627162,no. nonono PLEASE NO!!! (good call),1
+Ugi8KbOrGD-oW3gCoAEC,Roy Cai,1 year ago,1496308626112,"""And what about Vim?""",1,true,1,,,,,,
+,,,,,,,,Ugi8KbOrGD-oW3gCoAEC.8Jr1Pg6c-Gd8JrTmmOqBHg,Siraj Raval,1 year ago,1496308627150,"i actually had him say that as well, his emacs take was better though",2
+UgjT8NcN83G0fngCoAEC,Cleyton Messias,1 year ago,1496308626123,"For you,  what's the main difference working as a data scientist and as machine learning job?",0,true,1,,,,,,
+,,,,,,,,UgjT8NcN83G0fngCoAEC.8JpgXlXxvmJ8JrU2GaR6mu,Siraj Raval,1 year ago,1496308627189,"Data scientists use machine learning to make discoveries. machine learning researchers invent new models for everyone to use. the closer to the brain the model, the more powerful the algorithm.",1
+Ugg2E87c8DMo33gCoAEC,fuu,1 year ago,1496308626133,"Amazing stuff as always, thank you!!",1,true,1,,,,,,
+,,,,,,,,Ugg2E87c8DMo33gCoAEC.8Jpb5l_4SrK8JrU3u-UVge,Siraj Raval,1 year ago,1496308627116,thanks!,0
+UghU1q0dicJUVXgCoAEC,Kumar V,1 year ago,1496308626141,"Hi Siraj, You are doing wonderful work. Need more videos on python. It would be great If you could make more videos on Robotics also. Thanks bro. God bless you.",1,true,2,,,,,,
+,,,,,,,,UghU1q0dicJUVXgCoAEC.8JpE09s-alW8JrU53c5yJO,Siraj Raval,1 year ago,1496308627174,Thanks Vikas. I'll put that in the queue,0
+,,,,,,,,UghU1q0dicJUVXgCoAEC.8JpE09s-alW8JrUqM_Lk2L,Kumar V,1 year ago,1496308627177,:-),0
+UghJ2dLps234THgCoAEC,Alireza Samar,1 year ago,1496308626149,🤘🏻🤘🏻🤘🏻 https://github.com/alirsamar/simple-machine-learning-examples/blob/master/gender_classification.py,0,true,1,,,,,,
+,,,,,,,,UghJ2dLps234THgCoAEC.8Jon3wlLyu-8JrUJSm81CZ,Siraj Raval,1 year ago,1496308627200,"thanks for the submission Alireza, you'll find if you won this Friday in the next episode :)",1
+Ugh4P6r-XjtkUXgCoAEC,Pravin Singh,1 year ago,1496308626158,where to download NLP datasets ? .... regards!,0,true,1,,,,,,
+,,,,,,,,Ugh4P6r-XjtkUXgCoAEC.8Jo_OCrkmqh8JrUo6fMEJ8,Siraj Raval,1 year ago,1496308627093,here are a few https://www.kaggle.com/forums/f/208/getting-started/t/21705/recommendations-for-datasets-to-learn-nlp,0
+UghZPgGQ_dXwbHgCoAEC,Aditya Ardiya,1 year ago,1496308628702,"I change the dataset into actress/actor measurement (I crawl it by myself) to make it more interesting :)
+My Submission: https://github.com/ardiya/gender_classification_challenge",0,true,1,,,,,,
+,,,,,,,,UghZPgGQ_dXwbHgCoAEC.8JoShZYEPB88JrV-y2bGHS,Siraj Raval,1 year ago,1496308629361,"very creative, thanks for the submission Aditya. Winner will be announced this Friday :)",0
+Ugiji0GYTVsVCngCoAEC,Código Logo - Programação e Inteligência Artificial,1 year ago,1496308628712,"Can make a video using python for speech recognition, if you combine a machine learning chatbot with CMU speech recognition, and festival or espeak for synthesis, you could create something like Siri or Cortana, this will be awesome!!! Who agree give a like for promotion..",41,true,7,,,,,,
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8JnCd4pIr3f,Código Logo - Programação e Inteligência Artificial,1 year ago,1496308629574,"Are you kidding me, I post this comment before watch half of the video, Maybe I can see the future, I am saying the truth,  but you are using cmu_sphinx, is not pocketsphinx, why?",0
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8JnCvbKvd6B,Código Logo - Programação e Inteligência Artificial,1 year ago,1496308629583,"I use gedit, what do you will do about that?",0
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8JrV36il3xU,Siraj Raval,1 year ago,1496308629593,yes you can!,1
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8JrV3yN9UAZ,Siraj Raval,1 year ago,1496308629599,that works too!,0
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8JrV5jnaTSS,Siraj Raval,1 year ago,1496308629607,"they are variants of each other, not a big difference",3
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8TtC17Smvcb,Caio Vital,11 months ago,1498900629615,Two channels that I'm subscribed kkkkkk,0
+,,,,,,,,Ugiji0GYTVsVCngCoAEC.8JnCE1I7Ze-8aPOUqRNLDT,Extended Vision,5 months ago,1514798229619,Yes.,0
+UghsXQImvLOHvngCoAEC,umair durrani,1 year ago,1496308628720,"For all ML enthusiasts out there, checkout the Intro. to Machine Learning on udacity: https://www.udacity.com/course/intro-to-machine-learning--ud120
+This course includes Decision Trees and other algorithms in detail, with very intuitive explanations. And it's FREE too.",72,true,2,,,,,,
+,,,,,,,,UghsXQImvLOHvngCoAEC.8Jn0AOS_2y38JrV6vGWgWg,Siraj Raval,1 year ago,1496308629669,thanks for posting this :),33
+,,,,,,,,UghsXQImvLOHvngCoAEC.8Jn0AOS_2y38dOtdLl8Qug,VISION,2 months ago,1522574229677,that shit weak,0
+Ugj0QOPNgGIUo3gCoAEC,Adam Aleksander,1 year ago,1496308628729,"Excellent video, mate. You should get a Nobel Prize for getting people to learn python and ml! Keep it up!",1,true,1,,,,,,
+,,,,,,,,Ugj0QOPNgGIUo3gCoAEC.8Jmte5K6uks8JrV8pPGaK8,Siraj Raval,1 year ago,1496308629373,holy shit thank you :),1
+Ugh6BkLM2NPHqHgCoAEC,Shazz zzahS,1 year ago,1496308628738,Nice idea. Forced me to do more than listening :) https://github.com/shazz/gender_classification_challenge,0,true,2,,,,,,
+,,,,,,,,Ugh6BkLM2NPHqHgCoAEC.8JmpsCSzgHb8JrVGke160S,Siraj Raval,1 year ago,1496308629458,":) thanks for the submission Shazz, winner will be announced on Friday in the next video",0
+,,,,,,,,Ugh6BkLM2NPHqHgCoAEC.8JmpsCSzgHb8Jto_w4Y0ku,Shazz zzahS,1 year ago,1496308629461,"I added an alternative version using a public CDC dataset, a lot of records !",0
+Ugj2bR9XDSBB6ngCoAEC,Igor Polynets,1 year ago,1496308628744,"Here you go: https://gist.github.com/polinom/11265169f50f6b2332319f284006606d
+You forget to mention that we need to install numpy and scipy manually. Well at least for me it did not install it using pip install.",0,true,1,,,,,,
+,,,,,,,,Ugj2bR9XDSBB6ngCoAEC.8Jmmq9k8t2t8JrVOx1tWWl,Siraj Raval,1 year ago,1496308629643,"thanks Polinom :) good call, it comes preinstalled on most machines but i should've mentioned that. Winner will be announced in the next video on Friday!",0
+Ugg3DCwje_Ub73gCoAEC,John Henning,1 year ago,1496308628752,"Hey Siraj! Here's my submission. Used Logistic Regression, Linear SVM, and a Neural Network. https://github.com/jlhbaseball15/gender_classification_challenge",0,true,1,,,,,,
+,,,,,,,,Ugg3DCwje_Ub73gCoAEC.8JmchHc7Z458JrVR5xnmyk,Siraj Raval,1 year ago,1496308629528,thanks John for the submission! Winner will be announced in the next video on Friday :),0
+UgiVtGy_3H1ra3gCoAEC,Dominic Carlyle,1 year ago,1496308628761,"A brilliant video as always...clear, fun and fast...the future has arrived for how to learn....",1,true,1,,,,,,
+,,,,,,,,UgiVtGy_3H1ra3gCoAEC.8JmanyTn2pn8JrVRnR9ZCu,Siraj Raval,1 year ago,1496308629428,Thanks Dominic :),0
+Ugj3SnO4JAbeEXgCoAEC,sanshinron,1 year ago,1496308628769,"Python 32bit, installs standalone instead of Anaconda, uses Sublime Text instead of Jupyter, runs code in terminal, doesn't explain shit XD 2/10",0,true,1,,,,,,
+,,,,,,,,Ugj3SnO4JAbeEXgCoAEC.8Jm_gNN79x-8JrVV3WK_dG,Siraj Raval,1 year ago,1496308629273,LOL to each his own,0
+Ugg4wsOoG7xb63gCoAEC,Flore,1 year ago,1496308628775,"Damn siraj, back at it again with the machine learning projects!
+
+EDIT: Have you ever taken a look at Go?",0,true,1,,,,,,
+,,,,,,,,Ugg4wsOoG7xb63gCoAEC.8JmXfitDzCn8JrVWRBlGgQ,Siraj Raval,1 year ago,1496308629404,:) yes! I love Go!!! beautiful language,0
+UghpEX6GGNWTqngCoAEC,Akash Mishra,1 year ago,1496308628784,"The Golden Words Metric For Good Code, ""Yo, What the Fuck""/Sec",0,true,1,,,,,,
+,,,,,,,,UghpEX6GGNWTqngCoAEC.8JmTulDBp6Y8JrVjSO5vbb,Siraj Raval,1 year ago,1496308629388,LOL,0
+Ugh2jfjNDZA8_HgCoAEC,Onur Önder,1 year ago,1496308628793,here is mine https://github.com/nefermu/datas,0,true,1,,,,,,
+,,,,,,,,Ugh2jfjNDZA8_HgCoAEC.8JmTSjDOnUD8JrVlTc3mLC,Siraj Raval,1 year ago,1496308629539,"thanks Onur for the submission, winner will be announced in the next video this friday :)",1
+Ugj6VZStKQzDingCoAEC,Holly Ho,1 year ago,1496308628801,So cool!!!! Glad I just discovered your youtube channel :),0,true,1,,,,,,
+,,,,,,,,Ugj6VZStKQzDingCoAEC.8JmSe69Vjjj8JrVo3C1EkU,Siraj Raval,1 year ago,1496308629287,Thanks Holly! Share if you liked it :) trying to get the word out,0
+UggvJgiixhmffXgCoAEC,Anonymous User,1 year ago,1496308628809,"I know Python has some real upsides, but I just can't like it when it assigns meaning to whitespace. I just hate that.",1,true,4,,,,,,
+,,,,,,,,UggvJgiixhmffXgCoAEC.8JmSNwuVCA38JmtKA6tDcw,Nate Dalo,1 year ago,1496308629318,"it feels weird at first, but you actually get used to it pretty quick.",0
+,,,,,,,,UggvJgiixhmffXgCoAEC.8JmSNwuVCA38Jr4OF-Y1sp,Roy Cai,1 year ago,1496308629325,"Whitespace makes things readable, enforce whitespace improves readability.
+
+https://www.python.org/dev/peps/pep-0020/",1
+,,,,,,,,UggvJgiixhmffXgCoAEC.8JmSNwuVCA38JrIj0_f6YL,Anonymous User,1 year ago,1496308629333,"+Roy Cai Well if someone was going to ignore readability, then even if that's a bad choice, I don't think you should force it on them, especially a particular style. I also think that for me it makes debugging way harder, because a missing semicolon or bracket is just so much more noticeable than a space or tab.",0
+,,,,,,,,UggvJgiixhmffXgCoAEC.8JmSNwuVCA38JrVwQ4fHIO,Siraj Raval,1 year ago,1496308629338,it was annoying at first but i learned to love it.,0
+Uggcx63UI_n45ngCoAEC,Naresh reddy,1 year ago,1496308628817,Challenge Accepted : https://github.com/Naresh1318/GenderClassifier,0,true,1,,,,,,
+,,,,,,,,Uggcx63UI_n45ngCoAEC.8JmDUh7QoK78JrWC2lIeZr,Siraj Raval,1 year ago,1496308629631,"dope, thanks Naresh. Winner will be announced this Friday in the next video",0
+UggZugHc_foEWHgCoAEC,Kelvin Klein,1 year ago,1496308628825,First python project :) https://github.com/KLVN/gender_classification_challenge,1,true,1,,,,,,
+,,,,,,,,UggZugHc_foEWHgCoAEC.8JmAg8PbeSK8JrWF57aDjv,Siraj Raval,1 year ago,1496308629350,"Woot!! Congrats Kelvin, very cool. winner will be announced this friday in the next video",3
+UgggHV0RuKbEYngCoAEC,Brien Malone,1 year ago,1496308628835,4:35 what is that data vis tool?,1,true,1,,,,,,
+,,,,,,,,UgggHV0RuKbEYngCoAEC.8Jm7e_JKmXU8JrWItf9l0-,Siraj Raval,1 year ago,1496308629416,That is from a website called www.bigml.com,2
+Ugh06-YVhdijo3gCoAEC,LFish,1 year ago,1496308628844,"Considering text editors: 
+What do you think about the text editor ""Visual studio code""? (not talking of the IDEs ""Visual Studio 20XX"")
+I only used vscode and both seem to have a lot in common though I didn't try out Sublime Text 3 by myself",0,true,1,,,,,,
+,,,,,,,,Ugh06-YVhdijo3gCoAEC.8Jm675a2cVV8JrWR-ckgLi,Siraj Raval,1 year ago,1496308629654,"haven't used it, but if it doesn't get in the way of you writing code by popping errors every 5 seconds go for it.",0
+UghjZYE2UlGH8HgCoAEC,Top 1Percent,1 year ago,1496308628849,"I sometimes find it hard to draw a clear line between data science and machine learning. I mean all I assume what data science is about is that you have data and you visualize and analyze it from the perspective of statistics to draw conclusions to solve the given problem or make predictions. 
+
+What confuses me is that when machine learning comes into picture with an algo as simple as Naïve Bayes, it's all about ML from that point not data science really.",0,true,2,,,,,,
+,,,,,,,,UghjZYE2UlGH8HgCoAEC.8Jm1-X3ezyD8Jn-j0kSqTi,umair durrani,1 year ago,1496308629480,"Good point. I think Murtaza Haider's (author of Getting Started with Data Science) description of a data scientist is really comprehensive. Data Science is about telling stories about your data. Machine Learning is just a tool to help you do that. In addition, in ML, you don't have any assumptions to begin with. If you do have domain knowledge of the problem, it's better to use that instead of throwing in all the data into an ML algorithm in the beginning.
+I like this video because Siraj has a funny way to explain things. But starting an Intro. to data science using decision trees doesn't really seem to be a good idea. Data exploration should probably be the first step.",0
+,,,,,,,,UghjZYE2UlGH8HgCoAEC.8Jm1-X3ezyD8JrWZerK67_,Siraj Raval,1 year ago,1496308629517,you use machine learning as a tool to aid you with data science (making discoveries using data),2
+Uggp73YXzPr5tXgCoAEC,Mohit Gupta,1 year ago,1496308633309,To train them is my cause hahahahah!!!,0,true,1,,,,,,
+,,,,,,,,Uggp73YXzPr5tXgCoAEC.8Jm-zYRIBGs8JrW_9e4wVW,Siraj Raval,1 year ago,1496308634796,:D,0
+UghSim_anrPpN3gCoAEC,Jasey Studios,1 year ago,1496308633323,Your meme level is skyrocketing sir.,0,true,1,,,,,,
+,,,,,,,,UghSim_anrPpN3gCoAEC.8JlyphC0_de8JrW_pJmkaA,Siraj Raval,1 year ago,1496308634326,thanks Jasey,1
+UggU30--JY5d-3gCoAEC,Koh Chi Hao,1 year ago,1496308633334,"Hello! just finished my first python ML 
+
+https://github.com/chihao12/MaleOrFemale",0,true,1,,,,,,
+,,,,,,,,UggU30--JY5d-3gCoAEC.8Jlxs9VTvZN8JrWbElxtqS,Siraj Raval,1 year ago,1496308634224,"Dope thanks Koh, winner will be announced in the next video on Friday :)",0
+UgjjgG_NtJVh-HgCoAEC,Saad Aljadhai,1 year ago,1496308633340,"As usual, your videos never fail to impress!",0,true,1,,,,,,
+,,,,,,,,UgjjgG_NtJVh-HgCoAEC.8JlxBrtDjVU8JrWcAyQwUz,Siraj Raval,1 year ago,1496308633924,Thanks Saad :),0
+UgjZsGlNTJFt8XgCoAEC,Mick,1 year ago,1496308633351,"Hello Sirajology :),
+
+I just finished the assignment and it can be found at the following Github url: https://github.com/mickvanhulst/pythonSirajology/tree/master/scikitLearnModels
+
+Thanks for making these amazing videos! 
+
+P.S. If anyone has any feedback, feel free to comment :).",0,true,4,,,,,,
+,,,,,,,,UgjZsGlNTJFt8XgCoAEC.8Jlvbk2TH0S8JrWkYDUqui,Siraj Raval,1 year ago,1496308634288,Thanks M0481! I'll review and winner will be announced in the next video on Friday. :),0
+,,,,,,,,UgjZsGlNTJFt8XgCoAEC.8Jlvbk2TH0S8JrXHjJoDHj,Mick,1 year ago,1496308634291,"if you have any feedback on my code, please mention it :). btw my real name is in my GitHub name (just in case if I do get a mention or so haha). 
+
+I also had a question. I am currently doing a project at school where we  want to ecommend Movies based on user rating history (like the netflix competition) and I would love to use Deep Learning (Tensorflow or so). any advice on what sources I should examine? Or do you recommend a different approach?",0
+,,,,,,,,UgjZsGlNTJFt8XgCoAEC.8Jlvbk2TH0S8JrYfPwB2zk,Siraj Raval,1 year ago,1496308634296,"will do, tensorflow for a DNN to recommend sounds like a great idea see this example project https://github.com/goodrahstar/tensorflow_recommendation_engine",0
+,,,,,,,,UgjZsGlNTJFt8XgCoAEC.8Jlvbk2TH0S8Jtc_LKkoJI,Mick,1 year ago,1496308634302,"Thanks for the link!
+
+Since I am a beginner to neural networks, I find the source a bit overwhelming (no explanations of the code etc). I will try to figure it out by trial/error though.",0
+Ugh39BEJkLDjtHgCoAEC,Agata Marozas,1 year ago,1496308633360,Please make more this type videos !!!,0,true,1,,,,,,
+,,,,,,,,Ugh39BEJkLDjtHgCoAEC.8JlvWpLNhkK8JrWlKel6q0,Siraj Raval,1 year ago,1496308633940,Thanks agata i will,0
+UgjpVSYzw9DRLngCoAEC,Marcos Lourenço,1 year ago,1496308633370,Brilliant!,1,true,1,,,,,,
+,,,,,,,,UgjpVSYzw9DRLngCoAEC.8JlkTIHnkd58JrWm0eAGIe,Siraj Raval,1 year ago,1496308634314,Thanks Marcos :),0
+UgiClZmLkyufkngCoAEC,Rohit Malhotra,1 year ago,1496308633379,https://github.com/krohitm/gender_classification_challenge/blob/master/GCC.py,0,true,1,,,,,,
+,,,,,,,,UgiClZmLkyufkngCoAEC.8JliH-2dBDw8JrWoEadbK_,Siraj Raval,1 year ago,1496308634340,"Thanks for the submission Rohit, winner will be announced this Friday in the next video :)",1
+UgjEnlQg9wB2THgCoAEC,Bikash Dash,1 year ago,1496308633385,"Great Vid Siraj !! Will wait more of theese videos . Keep'em coming !! 
+Here's my submission 
+https://github.com/beeeku/Gender-Classifier-Challenge",0,true,1,,,,,,
+,,,,,,,,UgjEnlQg9wB2THgCoAEC.8JlgAaUhduC8JrWphMAA8i,Siraj Raval,1 year ago,1496308634254,"Thanks for the submission Bikash, winner will be announced this Friday in the next video :)",0
+UgjRgevQV3qLeHgCoAEC,Verto Letnaya,1 year ago,1496308633393,Hahahahaha.. some hilarious stuff bro. Keep the videos coming. You're AWESOME!!,0,true,1,,,,,,
+,,,,,,,,UgjRgevQV3qLeHgCoAEC.8JlZFaiFDoH8JrWqWm8GJ8,Siraj Raval,1 year ago,1496308634197,glad you liked it thanks!!,0
+UghYnTN8WYYPqHgCoAEC,SIDHARTH SINGH,1 year ago,1496308633403,Hi Siraj ! Great Videos mate ! Here is my submission: https://github.com/Realsid/MaleorFemale,6,true,3,,,,,,
+,,,,,,,,UghYnTN8WYYPqHgCoAEC.8JlYxTGE6Y88Jpb2VkMNvX,fuu,1 year ago,1496308634064,"Well done, Thanks",0
+,,,,,,,,UghYnTN8WYYPqHgCoAEC.8JlYxTGE6Y88JrWtY7XkM9,Siraj Raval,1 year ago,1496308634070,Thanks for the submission Sidharth :) check back next video to see the winner,1
+,,,,,,,,UghYnTN8WYYPqHgCoAEC.8JlYxTGE6Y88_hlNwz5iuY,Steve Heggen - Aquarelle,5 months ago,1514798234075,SVM seems to be inefficient!,0
+Ugh03xd2NzV0zHgCoAEC,Mick,1 year ago,1496308633412,Just a quick heads up for people experiencing the following issue. Some of the scientific packages like 'Scipy' did not work for me on Windows. To fix this I used Anaconda! :),9,true,7,,,,,,
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8JrX1sAQCZC,Siraj Raval,1 year ago,1496308634758,thanks for posting that,1
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8_Y_C6vZ-EZ,jayaraman .r.p,6 months ago,1512119834762,"When I tried the Male, female prediction in anaconda, it throws an error like ""DecisionTreeClassifier has no attribute to prediction"".
+Help me to solve the issue guys",0
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8bfS3-dFsG5,Shawn Morita,4 months ago,1517476634765,same to u~,0
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8by7WGwcT-K,Elektra Kypridemou,4 months ago,1517476634772,"Hey Mick. I had the same issue on Windows. The reason is that scikit-learn requires some other packages to be pre-installed. Namely the requirements for scikit-learn version  0.19.1 are the following:
+ * Python (>= 2.7 or >= 3.3),
+ * NumPy (>= 1.8.2),
+ * SciPy (>= 0.13.3).
+
+To fix this issue try to use
+        pip install -U scikit-learn[alldeps]
+instead of 
+       pip install -U scikit-learn
+
+This way you install all the prerequisites along with the scikit-learn package, so you overcome any issues coming from missing packages [if any].
+
+Anaconda also fixes the problem because it comes with some pre-installed packages, including the ones needed by scikit-learn. However, when the required packages are installed, Anaconda itself is not necessary to fix the issue.
+You can check the Anaconda package lists here:
+https://docs.anaconda.com/anaconda/packages/pkg-docs",4
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8c3gkdWnp0s,adam nugroho,4 months ago,1517476634776,used the one with [alldeps] and it worked! Thanks! I have been trying this for months and finally a working solution! You are da man,1
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8c4hoGHyNRj,Elektra Kypridemou,4 months ago,1517476634783,adam nugroho maybe da woman ;),1
+,,,,,,,,Ugh03xd2NzV0zHgCoAEC.8JlWTWAY24B8c4uaGxvx5I,adam nugroho,4 months ago,1517476634786,"Elektra Kypridemou haha, sorry I just assumed your gender. You're day whaman :)",1
+UghIolEXkKZkNHgCoAEC,Берзин Григорий,1 year ago,1496308633420,Keep doing this pleeeeease,0,true,1,,,,,,
+,,,,,,,,UghIolEXkKZkNHgCoAEC.8JlSP99hiNO8JrX2JUIQO9,Siraj Raval,1 year ago,1496308634212,will do,0
+Ugi2xfyVhh451HgCoAEC,zokoon,1 year ago,1496308633429,No PhD? Right just like you don't need to be an engineer to drive a car. By the way you forgot parenthesis around print,0,true,1,,,,,,
+,,,,,,,,Ugi2xfyVhh451HgCoAEC.8JlLvgU9_Tn8JrX9EB4AhE,Siraj Raval,1 year ago,1496308634180,indeed. thanks,0
+UggOB7MjUnzwQngCoAEC,inVinitY,1 year ago,1496308633440,YESSS!!!!,0,true,1,,,,,,
+,,,,,,,,UggOB7MjUnzwQngCoAEC.8JlGlgnUWie8JrX9w5CpVI,Siraj Raval,1 year ago,1496308633959,yesssss,1
+Ugga5-PzqOLxjngCoAEC,Arvind Ganesh,1 year ago,1496308633448,"""I've gotta drink some soylent"" LMFAO",0,true,1,,,,,,
+,,,,,,,,Ugga5-PzqOLxjngCoAEC.8Jl6Z7j56LY8JrXDRX9Jnw,Siraj Raval,1 year ago,1496308634265,;),0
+UggKd4mlIC-RzXgCoAEC,scrolls,1 year ago,1496308633457,FINALLY!!!,0,true,1,,,,,,
+,,,,,,,,UggKd4mlIC-RzXgCoAEC.8Jl4Dqq-DEM8JrXE3_RQjp,Siraj Raval,1 year ago,1496308634159,woot,0
+UgjacK3yk9f5F3gCoAEC,Brien Malone,1 year ago,1496308633468,"Argh. Can't get scipy dependency to install (Windows). Says: ""no lapack/blas resources""...  I tried following advice on stack overflow but is over this python noob's head.",0,true,10,,,,,,
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8Jl3kjWAF87,Brien Malone,1 year ago,1496308634679,"Oh... http://www.scipy.org/scipylib/building/windows.html What a mess. Paragraphs of ""try this or this or this"". I'm using Pycharm (free version) as my IDE. Looks like I've got a bit of a learning curve.",0
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8JlNqV-Rjqh,Scriscape,1 year ago,1496308634683,"When I tried to python demo.py I was getting an unexpected indent IndentationError, so I put them all on the same line and the error went away but instead said  ""Import Error: No module named scipy"" (I'm on Windows too)",1
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8Jli_-npIqx,Mick,1 year ago,1496308634691,"@CehlRe'eolahs 2 I had this error as well. Scipy is hard to install when using Pip. So my suggestion is to download Anaconda and use that instead! Basically what you do is you install Anaconda, then remove the PATH variable for Python and replace that with the Anaconda folder which also includes a python.exe file. Goodluck !",2
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8JljuVv7Lxh,Brien Malone,1 year ago,1496308634694,+M0481 thanks for the advice. Anaconda came up more than once while I was googling. I'll give it a try.,0
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8Jm6aSNEZLC,Brien Malone,1 year ago,1496308634699,"Woohoo! It took literally hours to install on my cheap little netbook, but once Anaconda unpacked and pythonw loaded all the libraries, it worked perfectly. Thanks again",0
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8Jm6tVfDV9_,Mick,1 year ago,1496308634704,You're welcome! Have fun and good luck ^^,0
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8JrXFdETXld,Siraj Raval,1 year ago,1496308634710,glad M0481 could help Brien,0
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8JrXGnnkFRD,Siraj Raval,1 year ago,1496308634715,thanks for helping him :) you're a hero,1
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8L0E5M33OFB,Pawan Misra,1 year ago,1496308634721,"Brien, if u are still struggling with installing scipy, try this:
+download ""scipy-0.18.1-cp27-cp27m-win32.whl""(for python 2.7 [32bit]) from 'http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy' and install it using pip install scipy-0.18.1-cp27-cp27m-win32.whl. (try upgrading your pip if any issue, ""pip install ""pip install --upgrade pip
+It did worked for me :)",1
+,,,,,,,,UgjacK3yk9f5F3gCoAEC.8Jl3XV0l0-E8L0eJw_yEaC,Brien Malone,1 year ago,1496308634725,"+Pawan Misra Thank you! Anaconda worked for me, but that dependency list will be very helpful if I want a lightweight Python installation.",0
+UgjYgpFNrlwVxHgCoAEC,Sohaib Arif,1 year ago,1496308633475,"Linux has python preinstalled and the OS has several things that depend on it. I am even afraid to upgrade to 3.5 from 3.4 on Mint due to just this.
+Better to use Anaconda or virtual-env if you are doing this kind of thing on Linux or Mac. Windows doesn't have anything depending on Python so its safe there without those but you don't get GPU Tensorflow.",0,true,1,,,,,,
+,,,,,,,,UgjYgpFNrlwVxHgCoAEC.8Jl1nA1DhOa8JrXM0sLXlp,Siraj Raval,1 year ago,1496308633972,"if that's what feels easiest, go for it! my goal is just to get people up and running as quickly as possible so we can start pythoning :)",0
+UgjRCdBj4YVzhXgCoAEC,Anonymous,1 year ago,1496308633485,soylent doe,0,true,1,,,,,,
+,,,,,,,,UgjRCdBj4YVzhXgCoAEC.8Jl06YFKary8JrXMYa8bKI,Siraj Raval,1 year ago,1496308634171,doee,0
+Uggb9oiDoNcb-XgCoAEC,jricher42,1 year ago,1496308636244,"Like the idea of the series, but good Gods, Man - have them install Anaconda. Especially on Windows, this is such a huge pain reduction. Besides, that also gives people the Jupyter notebook - which is an incredibly convenient environment for interactive data munging - a necessary part of this job.",0,true,1,,,,,,
+,,,,,,,,Uggb9oiDoNcb-XgCoAEC.8Jl-yfCGzbU8JrXP-NHHqr,Siraj Raval,1 year ago,1496308637170,thanks jricher :) will look into that for future episodes,0
+UggIVBun0wyGangCoAEC,Levi Sinclair,1 year ago,1496308636249,Did you just assume my gender? /s,305,true,11,,,,,,
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8Jlx6KxKL7h,Jacob Mason,1 year ago,1496308637478,Why did I have to dig for this,7
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8JrXU-H_C0u,Siraj Raval,1 year ago,1496308637486,ah shit lol,69
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8JrYOurw6GJ,Jacob Mason,1 year ago,1496308637490,Top kek,3
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8RVi3TOesdu,Hrishi Wadki,1 year ago,1496308637498,Siraj Raval i am not from a computer science background but i am interested in data science can you guide me through it...???it would be really helpful,1
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8TrBQ5G3rhA,D bros,11 months ago,1498900637535,That's a sueable offense in the US!,1
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8ULoiaFfCLH,The Smuggler,11 months ago,1498900637542,I identify as a toaster.,9
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8UvQ92msZ0_,MachineOverlords,10 months ago,1501579037548,"I don't think it is in the US yet, but Canada just passed Bill C-16 which makes it illegal to use the wrong gender pronouns and violation will subject you to jail time, fines, and anti-bias training.  If that's not messed up, I don't know what is.  I can see that getting abused to the Nth degree.  Don't like someone?  Just tell the police that they called you ""he"", but you identify as ""toaster"" like The Smuggler below.  Bam!, jail time.",8
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8WKX7ODTAGG,JusTAfighter,9 months ago,1504257437552,Levi Sinclair I identify as a 62 year old man so I can get my social security check!,1
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8XU4koHvtME,ScourgePartNock,8 months ago,1506849437559,"if you really want to learn python the big data way you should know this first its complete!
+
+https://twitter.com/m0524s0524/status/908192605392928768",0
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8_7jo9QyHmY,Jestekin E,6 months ago,1512119837564,G,0
+,,,,,,,,UggIVBun0wyGangCoAEC.8JkqBM6de2k8c9jyJyX8YT,Muhammad Roxan,3 months ago,1519895837569,You still interested or not? I can help,0
+UghGiizHJWZXIngCoAEC,Icarus,1 year ago,1496308636259,"A quick question for Siraj. Using ML a computer can learn the pattern in its input data set, but can ML help a computer to think/understand said input data set. If not, then what can?",0,true,3,,,,,,
+,,,,,,,,UghGiizHJWZXIngCoAEC.8Jkq9uJDKyy8Jl1BTx_UOv,13thxenos,1 year ago,1496308636933,"Well, I'm not Siraj, but I want to say what I think nonetheless. What you think about ""thinking"" or ""understanding"" are not well-defined objects without any ambiguity. On some level, you can think of understanding as to finding a pattern from the data at hand to the previous data acquired before. That is what we humans do. You don't actually understand ""Red"" as a color. You perceive something and you remember that you assigned the word of ""Red"" to that perception before. This example was from a low-level perception, but the same reasoning can be done for abstract concepts too. 
+So in a sense, ML can make a computer understand. And the only thing that stands in its way is the lack of power to make a deep enough network to learn more abstract concepts. 
+In fact, the neural network and deep learning mimic human understanding so much that they are being studied by cognitive scientist so that they understand the human brain better.",3
+,,,,,,,,UghGiizHJWZXIngCoAEC.8Jkq9uJDKyy8JmHNPs5g5z,B Skit,1 year ago,1496308636941,"What beginners usually take as ""to think/understand"" is ""tuning on human intelligence"". ML is a way of mimicking reasoning on a level; we try different formulas and persons like Siraj advertise about the best results and explain how the theoretical model can be implemented(thanks a lot for that!)
+
+What you want is a system that can mimic us. It's harder because our environment and randomness shaped us. Here, we are starting to explore models for that but we are still slow at producing new models (no efficient technic is known yet).
+
+Unfortunately, we don't even know enough on the brain to be able to start enouncing what an intelligence ""human-like"" might be. This approach is doomed due to the unability to produce the needed data for a model to exist.
+
+BUT, you can choose a specific task (like we usually do in this domain) or a specific approach (like Google DeepMind do, for instance; using only game score to autonomously learn how to solve the game) and, from your specifications, you choose a goal and different metrics to judge the reaching of the goal.
+
+Then you can apply different models: from pre-treatment of the data to machine learning or other method and, eventually, post-treatment.
+You apply your statistics and select the best model to do the task. You focus on this one and search for different technics to improve your algorithm over this goal.
+
+And then... well I guess, if you can break your idea of ""thinking/understanding"" to more elaborate pieces trainable and measurable, you can effectively reach something :)",0
+,,,,,,,,UghGiizHJWZXIngCoAEC.8Jkq9uJDKyy8JrXWeCfloQ,Siraj Raval,1 year ago,1496308636945,"what these 2 said, great question",0
+UgjmpDL4CPX-3ngCoAEC,xxXXCarbon6XXxx,1 year ago,1496308636269,This is awesome! I just shared with Yammer to tell all my work colleagues the good news.  Keep it up :D,0,true,1,,,,,,
+,,,,,,,,UgjmpDL4CPX-3ngCoAEC.8Jkq2dN17pF8JrXXfL1akk,Siraj Raval,1 year ago,1496308636956,Thank you so much!!,0
+UghEApMmdDX_DHgCoAEC,The Sloth King,1 year ago,1496308636279,"As a software development student (and a total amateur at that) who is currently about to start learning Python, I think this series will be very helpful. I have a lot of interest in coding a chat room bot that can learn to respond based on the most frequently sent messages.",0,true,3,,,,,,
+,,,,,,,,UghEApMmdDX_DHgCoAEC.8Jkk0ZWJtGm8JrXZ_eqT0K,Siraj Raval,1 year ago,1496308637140,"awesome, follow me it's going to be a crazy ride",0
+,,,,,,,,UghEApMmdDX_DHgCoAEC.8Jkk0ZWJtGm8Jr_hCcY99y,The Sloth King,1 year ago,1496308637148,"I ran into some difficulties getting pip installed. The instructions weren't very clear. All I can find is a command to run. I've tried it in both the python and windows consoles and get an error.
+
+Edit: Got pip figured out. Simple mistake, didn't realize it was included with python 3.5.",0
+,,,,,,,,UghEApMmdDX_DHgCoAEC.8Jkk0ZWJtGm8fisd_Xv5CH,Alejandro Moweno,1 month ago,1525166237150,"I'm just curious, did you learn? :P I hope so!",0
+UghhNdb-bJs_E3gCoAEC,Rob Looman,1 year ago,1496308636286,"very good, we need more vids siraj!",0,true,1,,,,,,
+,,,,,,,,UghhNdb-bJs_E3gCoAEC.8JkiuvSsBQs8JrXaHVR8xJ,Siraj Raval,1 year ago,1496308636897,thanks Rob!,0
+UgjTWpg7rXC8OXgCoAEC,Brap Pitt,1 year ago,1496308636294,"Nice vid thanks.
+Is 3.5 a must? I have 3.4 installed.",0,true,4,,,,,,
+,,,,,,,,UgjTWpg7rXC8OXgCoAEC.8JkhRUkhtc78JlX53fum2q,Lazar Rad,1 year ago,1496308637035,"as long as it's a python3 and not python2, it won't matter, it works the same",0
+,,,,,,,,UgjTWpg7rXC8OXgCoAEC.8JkhRUkhtc78JljQjdBwJO,Brap Pitt,1 year ago,1496308637044,thats what I like to hear :) thanks,0
+,,,,,,,,UgjTWpg7rXC8OXgCoAEC.8JkhRUkhtc78JmGB5vA5Um,B Skit,1 year ago,1496308637047,"Besides that, you'll have less compatibility issues with 3.4... trust me ^^'",0
+,,,,,,,,UgjTWpg7rXC8OXgCoAEC.8JkhRUkhtc78JrXbuALGPb,Siraj Raval,1 year ago,1496308637055,nah 3.4 will work as well,0
+UggFNUH16x9KB3gCoAEC,JorgeArellano,1 year ago,1496308636304,"Great vid, Siraj. You may need to make video about getting stated on Github. Given your new direction to help new people to the field. Again great vid bruh.",18,true,6,,,,,,
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8JkrKzkjy9n,Carlos Mendoza,1 year ago,1496308637090,https://try.github.io,3
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8Jkrt5jbeZF,JorgeArellano,1 year ago,1496308637093,"Carlos Mendoza ? Nah man. I don't need it, I would have needed that help years ago. Making programming easy to learn end-to-end is the biggest reason their is such a steep learning curve. So yeah, I know he reads comments for ideas for future vids.",1
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8JrXf6emyOJ,Siraj Raval,1 year ago,1496308637103,"Thanks Jorge. I take the feedback seriously, you've been with me for a while!!",3
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8JsVJZvLb5k,JorgeArellano,1 year ago,1496308637107,You were a Diamond in the rough a few months back dude. Seems like you gained 12k viewers real fast. haha.,3
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8NwbZA76WpT,Kommu shruthi,1 year ago,1496308637114,"yeah..,please make a video about  getting started on git.
+PLEASE!",0
+,,,,,,,,UggFNUH16x9KB3gCoAEC.8JkhCTXnegA8fxFSIYBqYz,yugandhara jadhav,3 weeks ago,1526030237121,56vg12345678o0qwettyo,0
+Ugi4iaMo7tScRXgCoAEC,Tony Jaeger,1 year ago,1496308636314,love soylent!,1,true,2,,,,,,
+,,,,,,,,Ugi4iaMo7tScRXgCoAEC.8JkgwOrtV4W8Jl093vIwLa,Anonymous,1 year ago,1496308636991,me 2,0
+,,,,,,,,Ugi4iaMo7tScRXgCoAEC.8JkgwOrtV4W8JrXgkUHyfc,Siraj Raval,1 year ago,1496308636999,right?? :),0
+UggnJf0gnhLLiXgCoAEC,Wally Nut,1 year ago,1496308636325,Brilliant video man! Looking forward to some more advance ones :D,19,true,1,,,,,,
+,,,,,,,,UggnJf0gnhLLiXgCoAEC.8JkeipsZKlB8JrXha6Nul1,Siraj Raval,1 year ago,1496308636909,"Thanks Wally, coming up",5
+Ugi3M_xHh1zIM3gCoAEC,Larry Lawrence,1 year ago,1496308636333,thank you for python video,1,true,1,,,,,,
+,,,,,,,,Ugi3M_xHh1zIM3gCoAEC.8Jke9CQdm-D8JrXiK-gQNY,Siraj Raval,1 year ago,1496308637409,thanks Larry,0
+UgjvUFsDlpXOU3gCoAEC,typeShift,1 year ago,1496308636341,Python FTW!,0,true,1,,,,,,
+,,,,,,,,UgjvUFsDlpXOU3gCoAEC.8Jkd9Rl6rAy8JrXk8pGO5R,Siraj Raval,1 year ago,1496308636818,dope AF,0
+Ugg_Q-yP4mbCUngCoAEC,Fernando Canteruccio,1 year ago,1496308636352,You Rock Man!!!,3,true,1,,,,,,
+,,,,,,,,Ugg_Q-yP4mbCUngCoAEC.8Jkcfhc9g0Q8JrXkgsKZrB,Siraj Raval,1 year ago,1496308636885,thanks you too!,1
+UgjpP5cvrWcNlngCoAEC,foke42,1 year ago,1496308636363,lol @ the bit on c++. both apps are absolutely not comparable and with a similar library you could have written the same thing in C++ in just about the same number of lines (+/- a main and a pair of curly brackets). There are better arguments out there for python ;),6,true,1,,,,,,
+,,,,,,,,UgjpP5cvrWcNlngCoAEC.8JkcHMcsHu_8JrXoEVg-sp,Siraj Raval,1 year ago,1496308636801,"time cost to fit more points in the video, but good point thanks",1
+Ugi3Q596iFaZ2HgCoAEC,Joshua Rampersad,1 year ago,1496308636372,0:36 *affect,0,true,1,,,,,,
+,,,,,,,,Ugi3Q596iFaZ2HgCoAEC.8Jkb8p6G0Il8JrXow_6qe2,Siraj Raval,1 year ago,1496308636829,thanks!!,0
+UghgAMdHZf8MSXgCoAEC,jishweenie,1 year ago,1496308636382,Nice,1,true,1,,,,,,
+,,,,,,,,UghgAMdHZf8MSXgCoAEC.8Jk_A5_W6KO8JrXqGcLnjA,Siraj Raval,1 year ago,1496308636789,thanks!,1

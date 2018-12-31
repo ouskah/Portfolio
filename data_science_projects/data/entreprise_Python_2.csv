@@ -1,0 +1,24 @@
+id,user,date,timestamp,commentText,likes,hasReplies,numberOfReplies,replies.id,replies.user,replies.date,replies.timestamp,replies.commentText,replies.likes
+Ugz4_fDEN68G7pGjIgl4AaABAg,Jacob P,1 day ago,1527759711188,"Thank you for excellent video tutorial. Question is about last demo (Reinforcement Training) using K-means algorithm. I think I missed something that links the Temp and Pressure data to physical location. I'm assuming from the analysis after the K-means has done its work, you are somehow able to relate each red, green or blue marker shown in their respective cluster, to its original physical location. How would you do this? Many thanks.",0,false,0,,,,,,
+Ugx9rBIYxqbcCn5m4O54AaABAg,Nikhil Yalagandula,1 week ago,1527241311196,What all other programming languages we need to learn to do machine learning? apart from python?,0,true,1,,,,,,
+,,,,,,,,Ugx9rBIYxqbcCn5m4O54AaABAg.8gd9fcfVgTP8gelHW0vjL7,Simplilearn,1 week ago,1527241311524,"Hi Nikhil, There is no such thing as ‘how many languages you should learn?’ because all depends on what you want to build, where you’re coming from and why you got involved in machine learning. But in any case, the most important programming languages for Machine Learning are Java, R language,  C Language and Python.",1
+UgzeQMWcUxQkGO583nl4AaABAg,Joe Xie,1 month ago,1525167711202,really good to see the Python action for ML,0,true,1,,,,,,
+,,,,,,,,UgzeQMWcUxQkGO583nl4AaABAg.8fZ9RdtBt1-8fejtj89Hqw,Simplilearn,1 month ago,1525167711570,"Hi Joe, thanks for checking out our video tutorial. You may also like to check our dedicated playlist on Machine Learning: https://www.youtube.com/playlistlist=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
+Do subscribe to our channel to stay posted on upcoming tutorials. Cheers!",0
+UgwAhxkcJSjvuKn7meF4AaABAg,Rishik Mourya,1 month ago,1525167711211,"So awesome and great explanation, thank u so much",1,true,1,,,,,,
+,,,,,,,,UgwAhxkcJSjvuKn7meF4AaABAg.8ex8vVA6tpi8f7xhlv1HJs,Simplilearn,1 month ago,1525167711821,"Thanks for the wonderful feedback, Rishik! We thought you might like other Machine Learning videos as well: https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
+Happy learning!",1
+UgxP4aT3_t6eCelxKJN4AaABAg,Shadow Gallery,2 months ago,1522575711217,A revolution without dancing is a revolution not worth having.,0,false,0,,,,,,
+UgzL8lEARCPFJUTDi794AaABAg,Moody,2 months ago,1522575711224,"Hi Guys, great video. I have a question about the sort of data for the linear regression. Why did you have to use size2 as the transpoe of Size. When you use 'regr.fit(size2,house_price), should all data be in this format? Also what should you do about adding multplie data sets? Thank you for your help",0,true,1,,,,,,
+,,,,,,,,UgzL8lEARCPFJUTDi794AaABAg.8dPtGHqxlKz8ePSBnO1IEg,Simplilearn,2 months ago,1522575711483,"Hi Moody, thanks for the appreciation, we are glad you liked our video. Here is the answer to your questions:1. Size 2 is the name of the variable we have used
+2. Yes, while fitting a model the data format for the variables(size2,house_price) should be same
+3. pd.merge function is used to combine multiple data sets
+Hope that answers your query. Feel free to reach out for any further doubts. 
+
+
+Happy learning from Simplilearn team!",2
+Ugxx3Y1ASyeMb78Nhp94AaABAg,Simplilearn,3 months ago,1519897311234,"Do you have any questions on this topic? Please share your feedback in the comment section below and we'll have our experts answer it for you. 
+Thanks for watching the video. Cheers!",1,true,3,,,,,,
+,,,,,,,,Ugxx3Y1ASyeMb78Nhp94AaABAg.8dFbODHqY1O8dNdeYmn-hf,Eric Chang,2 months ago,1522575711547,I have a quick question about the last part .Where can I download the dataset for this weather example ?,0
+,,,,,,,,Ugxx3Y1ASyeMb78Nhp94AaABAg.8dFbODHqY1O8eNCRbe9GdT,Simplilearn,2 months ago,1522575711551,"Hey Eric, could you send us your email address and we would share the dataset over email. We can also keep the email id hidden if you prefer it not to be public. Hope that helps!",0
+,,,,,,,,Ugxx3Y1ASyeMb78Nhp94AaABAg.8dFbODHqY1O8fvHOhrocPR,Jack Schroder,3 weeks ago,1526031711558,"Awesome video! So much good info. I have one question, how do you know exactly what to import at the beginning? Is there a list of things you can import that you can see?",0

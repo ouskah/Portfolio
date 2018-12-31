@@ -1,0 +1,5 @@
+pandas
+PyMySQL
+gspread
+slackclient
+google-api-python-client

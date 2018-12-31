@@ -1,0 +1,83 @@
+id,user,date,timestamp,commentText,likes,hasReplies,numberOfReplies,replies.id,replies.user,replies.date,replies.timestamp,replies.commentText,replies.likes
+Ugx6jm0PDA-L6XpwG-J4AaABAg,Aakash Chugh,3 weeks ago,1526031583492,Great video.. caret is amazing.. one question though... If we are doing stratified sampling then we don't have to balance the data? Because if we don't balance the data then the outcome will be biased and if we balance the data then it will be manipulation,0,false,0,,,,,,
+UgyLYcjPhqkVkNKloKB4AaABAg,erinklark,2 months ago,1522575583502,Thanks for the video! Quick question - why do you have to split the data into a training/test set of 70/30 when you are going to do 10-fold cross-validation (90/10 split?) anyway later on? Are these two different things?,0,false,0,,,,,,
+UgwgMM5JhZxNng8nYx94AaABAg,Fionah Gaucho,2 months ago,1522575583511,Thanks very much. I got somewhere to start and do it to the end.. Great!!,0,false,0,,,,,,
+UgzGmM1nZizCkOoFmAh4AaABAg,flamboyant person,2 months ago,1522575583522,Extremely helpful video. I don't know the concept of grid search what it does? Can you explain me in simple terms how it work and how it helps in tuning the model? Thank you.,0,false,0,,,,,,
+UgwTX-DBOIXQiqa_hO14AaABAg,Apoorv Verma,4 months ago,1517477983533,Thanks! This was very helpful.  Where can I get the rest of the videos on Machine Learning.,0,true,1,,,,,,
+,,,,,,,,UgwTX-DBOIXQiqa_hO14AaABAg.8bX8VACE5Cy8bXWHyTjvXq,Data Science Dojo,4 months ago,1517477984140,"You can watch more of our Machine Learning tutorials here: https://tutorials.datasciencedojo.com/azure-machine-learning-tutorial-part-1/
+
+
+You can also find our other meetups here as well: https://tutorials.datasciencedojo.com/categories/community-talks/",0
+UgyafyRkwbmkO4WF4-p4AaABAg,Vijayakumar M,4 months ago,1517477983545,thank you.,0,false,0,,,,,,
+UgyWDYjf77fmISHrjJN4AaABAg,Quantum Information,7 months ago,1509529183555,"Hi, I am a js expert wanting to get into DS. What tools do you advise me to learn?",0,false,0,,,,,,
+UgxODogMYGFB2i1U1gx4AaABAg,Data Science Dojo,9 months ago,1504258783564,Meetup Starts at: 2:57,0,false,0,,,,,,
+UgwLMzurn3-iN8ElUgx4AaABAg,Overlooking the Obvious,9 months ago,1504258783571,"Hi Dave first of all thanks for the video.  AWESOME stuff!  One question, are the hyperparameters for the xgboost algorithm universal or are they tuned specifically to this training set? Could I get the reference for the hyperparameters it was cut off in the code editor screen.  Thanks again.",1,false,0,,,,,,
+Ugxz3KoGbtfv3d4J7h94AaABAg,Paul Victor,9 months ago,1504258783581,"Great video! In regards to preProcess(..., method = ""bagImpute"") what's your definition of SMALL DATA? Would 5000 rows with 10 columns be small?",1,true,1,,,,,,
+,,,,,,,,Ugxz3KoGbtfv3d4J7h94AaABAg.8W0Yu2ENdVi8W2_SugYQUs,Data Science Dojo,9 months ago,1504258784159,"@Paul Victor - Glad you liked the video. Your question is apt as ""big data"" vs. ""small data"" is a subjective measure that depends on the situation. In this particular case, caret will create N bagged decision tree models where N is the number of predictors in your data frame. A 5000x10 matrix would be fine, but you certainly wouldn't want to use this functionality on other problems like text analytics where you could have tens of thousands of rows and tens of thousands of columns.
+
+
+HTH,
+
+Dave",0
+Ughuh8yXhN7CPXgCoAEC,Daniel Viray,10 months ago,1501580383595,"Extremely helpful! Thanks, Dave!",1,true,1,,,,,,
+,,,,,,,,Ughuh8yXhN7CPXgCoAEC.8VOhdLBUrY88Vqqup6CCY2,Data Science Dojo,9 months ago,1504258784171,@Daniel Viray - Glad you liked the video!,0
+UghMqUKDmuhyEngCoAEC,Raj kamal Srivastav,10 months ago,1501580383608,"Hi David, thanks for this session!!
+one question, is it always good to go with imputing using caret(e.g.  bagged decision trees for imputing age) or we should do some EDA such as finding a pattern in age using Pclass, sex aggregation and then imputing the age with that value?",1,true,1,,,,,,
+,,,,,,,,UghMqUKDmuhyEngCoAEC.8V11nAXXuLc8VqrFXLTMD0,Data Science Dojo,9 months ago,1504258784124,"@Raj kamal Srivastav - I tend to shy away from terms like ""always"" and ""never"" when it comes to data science. The only universal answer I've found is ""it depends"".   :-)
+
+
+To answer you specific question, I always strongly suggest doing exploratory data analysis - in fact we spend a good chunk of day 1 in our bootcamp discussing EDA. However, it is often the case that even after EDA you might need a ML model to most accurately impute ages due to the underlying complexities in the patterns in the data.
+
+
+HTH,
+
+Dave",0
+UggIQuP-sbOokXgCoAEC,Robert Daihatsu,11 months ago,1498901983623,"Dear David, great talk, thank you very much. I have a short question:
+how do I know which factors are included in the ""best"" model? Thus, which factors are most predictive in separating survivors from non-survivors?
+Thank you in advance!
+Best,
+Bob",1,true,2,,,,,,
+,,,,,,,,UggIQuP-sbOokXgCoAEC.8U6wgMonCi18UBED4uH0dq,Robert Daihatsu,11 months ago,1498901984193,Thanks Dave!,1
+,,,,,,,,UggIQuP-sbOokXgCoAEC.8U6wgMonCi18VLRGVxT44S,Data Science Dojo,10 months ago,1501580384201,"@Robert Daihatsu - If you mean individual factor levels, then that can be difficult to get from the models. Finding feature importance, however, is far easier. For example, the following code can be added to the end of the Meetup code file to get the feature importance:
+
+xgb.importance(feature_names = colnames(titanic.train),
+                              model = caret.cv$finalModel)
+
+HTH,
+
+Dave",2
+UgjvZcwRnTVnhngCoAEC,Juliano Nascimento,11 months ago,1498901983636,Thank you for sharing ! Amazing Video and Instructions.,2,true,1,,,,,,
+,,,,,,,,UgjvZcwRnTVnhngCoAEC.8Tt_l0ITsKk8VLRl6RP6HE,Data Science Dojo,10 months ago,1501580384030,@Juliano Nascimento - Glad you liked the video!,0
+Uggygh1mzB_IongCoAEC,statsvenu manneni,11 months ago,1498901983649,Great video,2,true,1,,,,,,
+,,,,,,,,Uggygh1mzB_IongCoAEC.8TjxbOj5yp48VLRqhzb2Xl,Data Science Dojo,10 months ago,1501580384113,@Statsvenu Manneni - Glad you liked the video!,0
+UggBdVoRusKctngCoAEC,Nikhitha Rajashekar,11 months ago,1498901983662,"Great Video to understand !
+ But i have doubt, how the resampling result across tunin Parameters are selected?",2,true,1,,,,,,
+,,,,,,,,UggBdVoRusKctngCoAEC.8ThRxoTiYvI8VLRuExHIyt,Data Science Dojo,10 months ago,1501580384004,"@Nikhitha Rajashekar - As I mention in the video, while caret can perform stratified cross validation, the video does not demonstrate this. As coded, the video illustrates using cross validation with simple random sampling to create each of the 10 folds for each of the repeats (i.e., 30 total folds each created with random sampling).
+
+HTH,
+
+Dave",0
+UgiXttvXy00wRngCoAEC,Junaid Effendi,11 months ago,1498901983680,"Great video but didnt see use of train.dummy? you worked on train dataset which has the imputed age but not the dummy columns, clear me please.",3,true,4,,,,,,
+,,,,,,,,UgiXttvXy00wRngCoAEC.8TfH9_RGODe8Tg-AnlSVHU,Junaid Effendi,11 months ago,1498901984064,"I got it that dummy variables were calculated in order to do the imputation. In this case, you did the dummy variable stuff to teach, because there were not any missing values in any other columns other than the age, so in reality we can skip the dummy part, correct me if I am wrong. 
+
+Also, actually I thought that the dummy variables were created for the training part too. A question arises after that 
+how the machine learning is performing on the categorical variables? is it converting them into numerical values like one hot encoding automatically or processing directly just like in a simple decision tree?",0
+,,,,,,,,UgiXttvXy00wRngCoAEC.8TfH9_RGODe8Tg50j9Ykem,Junaid Effendi,11 months ago,1498901984068,Thanks :),1
+,,,,,,,,UgiXttvXy00wRngCoAEC.8TfH9_RGODe8VLRvo0-6h7,Data Science Dojo,10 months ago,1501580384075,"@Junaid Effendi - If I understand your question correctly the following lines of code use train.dummy to generate a new matrix with all missing Age values imputed:
+
+pre.process <- preProcess(train.dummy, method = ""bagImpute"")
+imputed.data <- predict(pre.process, train.dummy)
+View(imputed.data)
+
+HTH,
+
+Dave",0
+,,,,,,,,UgiXttvXy00wRngCoAEC.8TfH9_RGODe8VLRyGVqi4h,Data Science Dojo,10 months ago,1501580384080,"@Junaud Effendi - If you use caret's imputation feature via the preProcess() function then you need to convert to dummy variables. As I mention in the video, the preProcess() function does not work with factor variables. You would not want to skip this step as you are losing potential features that the bagged decision trees could use to potentially build more accurate imputation models.
+
+To answer your second question, ""it depends"". For example, in the case of the mighty Random Forest factors can be used directly so caret will do nothing. However, xgboost does not support factors by default. In this case caret is transforming the factors behind the scenes for you.
+
+HTH,
+
+Dave",0
+Ughoum5pkRFZYHgCoAEC,namoo non,11 months ago,1498901983693,I greatly appreciate it,2,true,1,,,,,,
+,,,,,,,,Ughoum5pkRFZYHgCoAEC.8Ta8xHybsNu8VLS3CWHmHE,Data Science Dojo,10 months ago,1501580384100,"@Nameoo Non - No problem, glad you liked the video!",0

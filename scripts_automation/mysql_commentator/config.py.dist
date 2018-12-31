@@ -1,0 +1,8 @@
+host = 'a'
+user = 'b'
+password = 'c'
+
+db_1 = 'd'
+db_2 = 'e'
+db_3 = 'f'
+db_4 = 'g'
